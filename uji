@@ -1,4083 +1,580 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'">
+    <title>Site not found &middot; GitHub Pages</title>
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
 
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
 
-#EXTINF:-1 tvg-id="CTV.1.id" tvg-chno="76" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV1-Chl-76.jpg",Champions TV 1c
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+
+      #suggestions {
+        margin-top: 35px;
+        color: #ccc;
+      }
+      #suggestions a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <h1>404</h1>
+      <p><strong>There isn't a GitHub Pages site here.</strong></p>
+
+      <p>
+        If you're trying to publish one,
+        <a href="https://help.github.com/pages/">read the full documentation</a>
+        to learn how to set up <strong>GitHub Pages</strong>
+        for your repository, organization, or user account.
+      </p>
+
+      <div id="suggestions">
+        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
+        <a href="https://twitter.com/githubstatus">@githubstatus</a>
+      </div>
+
+      <a href="/" class="logo logo-img-1x">
+        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZCRDY3REIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZCRDY3RUIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdCQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjdDQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SM9MCAAAA+5JREFUeNrEV11Ik1EY3s4+ddOp29Q5b0opCgKFsoKoi5Kg6CIhuwi6zLJLoYLopq4qsKKgi4i6CYIoU/q5iDAKs6syoS76IRWtyJ+p7cdt7sf1PGOD+e0c3dygAx/67ZzzPM95/877GYdHRg3ZjMXFxepQKNS6sLCwJxqNNuFpiMfjVs4ZjUa/pmmjeD6VlJS8NpvNT4QQ7mxwjSsJiEQim/1+/9lgMHgIr5ohuxG1WCw9Vqv1clFR0dCqBODElV6v90ogEDjGdYbVjXhpaendioqK07CIR7ZAqE49PT09BPL2PMgTByQGsYiZlQD4uMXtdr+JxWINhgINYhGT2MsKgMrm2dnZXgRXhaHAg5jEJodUAHxux4LudHJE9RdEdA+i3Juz7bGHe4mhE9FNrgwBCLirMFV9Okh5eflFh8PR5nK5nDabrR2BNJlKO0T35+Li4n4+/J+/JQCxhmu5h3uJoXNHPbmWZAHMshWB8l5/ipqammaAf0zPDDx1ONV3vurdidqwAQL+pEc8sLcAe1CCvQ3YHxIW8Pl85xSWNC1hADDIv0rIE/o4J0k3kww4xSlwIhcq3EFFOm7KN/hUGOQkt0CFa5WpNJlMvxBEz/IVQAxg/ZRZl9wiHA63yDYieM7DnLP5CiAGsC7I5sgtYKJGWe2A8seFqgFJrJjEPY1Cn3pJ8/9W1e5VWsFDTEmFrBcoDhZJEQkXuhICMyKpjhahqN21hRYATKfUOlDmkygrR4o4C0VOLGJKrOITKB4jijzdXygBKixyC5TDQdnk/Pz8qRw6oOWGlsTKGOQW6OH6FBWsyePxdOXLTgxiyebILZCjz+GLgMIKnXNzc49YMlcRdHXcSwxFVgTInQhC9G33UhNoJLuqq6t345p9y3eUy8OTk5PjAHuI9uo4b07FBaOhsu0A4Unc+T1TU1Nj3KsSSE5yJ65jqF2DDd8QqWYmAZrIM2VlZTdnZmb6AbpdV9V6ec9znf5Q7HjYumdRE0JOp3MjitO4SFa+cZz8Umqe3TCbSLvdfkR/kWDdNQl5InuTcysOcpFT35ZrbBxx4p3JAHlZVVW1D/634VRt+FvLBgK/v5LV9WS+10xMTEwtRw7XvqOL+e2Q8V3AYIOIAXQ26/heWVnZCVfcyKHg2CBgTpmPmjYM8l24GyaUHyaIh7XwfR9ErE8qHoDfn2LTNAVC0HX6MFcBIP8Bi+6F6cdW/DICkANRfx99fEYFQ7Nph5i/uQiA214gno7K+guhaiKg9gC62+M8eR7XsBsYJ4ilam60Fb7r7uAj8wFyuwM1oIOWgfmDy6RXEEQzJMPe23DXrVS7rtyD3Df8z/FPgAEAzWU5Ku59ZAUAAAAASUVORK5CYII=">
+      </a>
+
+      <a href="/" class="logo logo-img-2x">
+        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpEQUM1QkUxRUI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpEQUM1QkUxRkI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdGQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjgwQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+hfPRaQAAB6lJREFUeNrsW2mME2UYbodtt+2222u35QheoCCYGBQligIJgkZJNPzgigoaTEj8AdFEMfADfyABkgWiiWcieK4S+QOiHAYUj2hMNKgYlEujpNttu9vttbvdw+chU1K6M535pt3ubHCSyezR+b73eb73+t7vrfXsufOW4bz6+vom9/b23ovnNNw34b5xYGAgODg46Mbt4mesVmsWd1qSpHhdXd2fuP/Afcput5/A88xwymcdBgLqenp6FuRyuWV4zu/v759QyWBjxoz5t76+/gun09mK5xFyakoCAPSaTCazNpvNPoYVbh6O1YKGRF0u13sNDQ27QMzfpiAAKj0lnU6/gBVfAZW2WWpwwVzy0IgP3G73FpjI6REhAGA9qVRqA1b9mVoBVyIC2tDi8Xg24+dUzQiAbS/s7Ox8G2o/3mKCC+Zw0efzPQEfcVjYrARX3dbV1bUtHo8fMgt42f+Mp0yUTVQbdWsAHVsikdiHkHaPxcQXQufXgUBgMRxme9U0AAxfH4vFvjM7eF6UkbJS5qoQwEQGA57Ac5JllFyUVZZ5ckUEgMVxsK2jlSYzI+QXJsiyjzNEAJyJAzb/KQa41jJKL8pODMQiTEAymXw5n8/P0IjD3bh7Rgog59aanxiIRTVvV/oj0tnHca/WMrVwODwB3raTGxzkBg/gnZVapFV62Wy2n5AO70HM/5wbJ0QnXyQSaVPDIuNZzY0V3ntHMwxiwHA0Gj2Np7ecIBDgaDAYXKCQJM1DhrgJ3nhulcPbl8j4NmHe46X/g60fwbz3aewjkqFQaAqebWU1AOqyQwt8Id6qEHMc97zu7u7FGGsn7HAiVuosVw7P35C1nccdgSCxop1dHeZswmfHMnxBo6ZTk+jN8dl/vF7vWofDsa+MLN9oEUBMxOb3+1eoEsBVw6Zmua49r8YmhAKDiEPcMwBsxMiqQ+ixzPFxZyqRpXARG/YOr1ObFJ0gUskXBbamcR1OKmMUvDxHRAu8/LmY3jFLMUpFqz9HxG65smYJdyKyECOxDiEAe/p1gjF2oonivZAsxVgl2daa4EQWCW6J55qFAFFZiJWYLxNQy2qOSUzGRsyXCUDIeliwAHEO4WSlWQBRFoZakXcKmCXmyXAKs0Ve9vl8q42WoIYpJU4hV3hKcNs8m9gl7p/xQ73eF5kB4j5mNrWmTJRNwAzqiV1CxjVTZCIkEq+Z1bZFZSN2CenmVAFVy4Plz8xKAGWjjAKFk6lCBMDR/MJjLLMSQNm43xAiQKTaA+9/wewhDjL+JVI1kkTSSOTcKbMTwPqESAot6dn6Fr1gHwVJju6IRuyiByPuUUBAg5DGkAgBmxlvdgIEK9gDkohdY/BJo4CAG0R8miRSsGABkgVQs4KXu098IgUXSSRsFAoKZiVAVDY2WUiiPTjYRi41KwGisrGsLtlsth8Fiwnz2fBkQvWfRtlE3iF2yW63/yCacXZ1dW02GwGyTFaRd4idJnCKHRaCxYRHoG5LTKT6SyiToP1fJHbmAYPYRR0UnZQtMnA6s0zg+GZBlt0Gdo7EPHgpE3Q6nZ8YyLhc8Xj8MJh/aKTAY+5FPAKHLE7RdwuYJZmNwzyCMkBCYyKROJBMJl9B/PXXCjjmCmDOVzH3fiPpObEWGqoKe4EBl8v1hlqsdLvd23mkxHM9pc9kMpmno9HoeTii7ewbHEZPPx1ztLS1tV3AnGuMjiNjvbQFuHw6zDo5By7dTPAQNBgMLrRarTkSls1mnwT7uwp9virx9QzbW/HuV/j5d/b+6jniKlllP8lkeONJDk+dq9GsQTnC4fB1heO0K47Hwe7WdDr9nAKgXwOBwHI+C45Htj1d6sd429TUNEcmUdc+PRaLHcvn87dXW4ugzdsaGxufL94NFv9zi1J7GVbhlvb2dnaJ3SVrxfc+n2+NTsZ7/H7/Mr3g5XdSIHyJSH1PZ+7fToyl2+ErqilgZ4NaLYB9goVGaHjR93Hv1ZrU4XDsFT20kH3PObzbWk0CgG1jacVIUnAQb9F+VexyLMzkpcLv0IJV7AHQIOCAUYHx7v5qgScmYHtTqSAyZLEJTK22Bie4iq3xsqpm4SAf9Hq9a2DnJ4uLK3SEULcdRvp3i3zHySqpficxEdsQc1NrlYXXvR+O7qASSezXB+h1SuUomgg9LL8BUoV4749EIolKh+EiqWmqVEZlDgHks2pxHw7xTqUQw9J5NcAXOK10AGIoZ6Zli6JY6Z1Q461KoZ4NiKLHarW+KDsxlDUPHZ5zPQZqUVDPJsTqb5n9malbpAh8C2XXDLl62+WZIDFRUlNVOiwencnNU3aQEkL+cDMSoLvZo2fQB7AJssNAuFuvorlDVVkkg2I87+jo2K2QAVphDrfyViK5VqtO34OkaxXCp+7drdDBCAdubm6eidX+2WwqT5komwh4YQLk+H4aE93h8Xg2gvHekQZOGSgLZTLyDTLJ4Lx9/KZWKBSainT4Iy3FqQBfnUZR42PKQFksBr9QKVXCPusD3OiA/RkQ5kP8qV/Jl1WywAp/6+dcmPM2zL1UrUahe4JqfnWWKXIul3uUbfP8njAFLW1OFr3gdFtZ72cNH+PtQT7/brW+NXqJAHh0y9V8/U/A1U7AfwIMAD7mS3pCbuWJAAAAAElFTkSuQmCC">
+      </a>
+      <p style="display: none;">
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="ANTV" tvg-chno="14" group-title="National" tvg-logo="https://alzizz.github.io/logos/ANTV-Chl-14.jpg",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"a1_v9qckLcS0NFvtuEwhgQ", "kid":"tImVWRNbSQ2YqJLB1qReIA" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+
+#EXTINF:-1 tvg-id=CNBC Indonesia"" tvg-chno="7" group-title="National" tvg-logo="https://alzizz.github.io/logos/CNBC-Chl-7.jpg",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-chno="8" group-title="National" tvg-logo="https://alzizz.github.io/logos/CNN-Chl-8.jpg",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-chno="21" group-title="National" tvg-logo="https://alzizz.github.io/logos/GTV-Chl-21.jpg",GTV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6C2qfHv7A9mTJ0Y/29NzNg", "kid":"iPbHy9eTN0y18S1+JtzWOw" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-chno="17" group-title="National" tvg-logo="https://alzizz.github.io/logos/Indosiar-Chl-17.jpg",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iBr6Z-pXtBwYItdF1nVZ5g", "kid":"Xq3czYk6R6yLZfmzGWOjrg" } ], "type":"temporary" }
+#https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-chno="17" group-title="National" tvg-logo="https://alzizz.github.io/logos/Indosiar-Chl-17.jpg",Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DrK-tWM_jjXK-rRa89Id4A", "kid":"aotlyDA2Mp5xhbnNjL3uKQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+https://bimasakti.serv00.net/red/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="iNews" tvg-chno="22" group-title="National" tvg-logo="https://alzizz.github.io/logos/iNews-Chl-22.jpg",iNews
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mA5U1nH/wrL0z1TnXK4Kwg", "kid":"oxz1E2eJUUt+ErnMmTB8hA" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-id="Kompas TV" tvg-chno="1" group-title="National" tvg-logo="https://alzizz.github.io/logos/KompasTV-Chl-1.jpg",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9MDBO7G4QASzKuTpBC0VcQ", "kid":"qJjBrxp2SYeIy2FtOeVRpg" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+
+#EXTINF:-1 tvg-id="Magna.TV.id" tvg-chno="2" group-title="National" tvg-logo="https://alzizz.github.io/logos/Magna-Chl-2.jpg",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mentari TV" tvg-chno="18" group-title="National" tvg-logo="https://alzizz.github.io/logos/MentariTV-Chl-18.jpg",Mentari TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+https://kametv.my.id/pdx/play.m3u8?id=8237&type=hls
+
+#EXTINF:-1 tvg-id="Metro.Globe.Network.id" tvg-chno="3" group-title="National" tvg-logo="https://alzizz.github.io/logos/MGN-Chl-3.jpg",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Metro.TV.id" tvg-chno="4" group-title="National" tvg-logo="https://alzizz.github.io/logos/MetroTV-Chl-4.jpg",Metro TV
+http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNC" tvg-chno="23" group-title="National" tvg-logo="https://alzizz.github.io/logos/MNCTV-Chl-23.jpg",MNCTV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+F09zTiYE2irPaWX6X69zA", "kid":"go4Kupglw1RqKDHkwMNvfw" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-id="MOJI" tvg-chno="19" group-title="National" tvg-logo="https://alzizz.github.io/logos/Moji-Chl-19.jpg",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVGqAwSvmMRJ_ewVSKGZ-Q", "kid":"BShh6-2rRzCJ0OdIDQxbYw" } ], "type":"temporary" }
+#https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#EXTINF:-1 tvg-id="MOJI" tvg-chno="19" group-title="National" tvg-logo="https://alzizz.github.io/logos/Moji-Chl-19.jpg",Moji
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+https://bimasakti.serv00.net/red/play.m3u8?id=206&type=hls
+
+#EXTINF:-1 tvg-id="Net." tvg-chno="5" group-title="National" tvg-logo="https://alzizz.github.io/logos/NET.-Chl-5.jpg",NET.
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0XZiRNfBxE79TGeq+uPuew", "kid":"a3u88dURpW5rPO2jkuT6Mw" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-id="RCTI" tvg-chno="24" group-title="National" tvg-logo="https://alzizz.github.io/logos/RCTI-Chl-24.jpg",RCTI
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"28KMtcZCYID5hKW21Da7MA", "kid":"m6PhU++JVtbisGhPz3T1jw" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-chno="6" group-title="National" tvg-logo="https://alzizz.github.io/logos/RTV-Chl-6.jpg",RTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV" tvg-chno="20" group-title="National" tvg-logo="https://alzizz.github.io/logos/SCTV-Chl-20.jpg",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TUcy2T5nIN4O-ITXEG4U9w", "kid":"p5oYgmNyS_yq_Ep8OzzYzg" } ], "type":"temporary" }
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 tvg-id="SCTV" tvg-chno="20" group-title="National" tvg-logo="https://alzizz.github.io/logos/SCTV-Chl-20.jpg",SCTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+https://kametv.my.id/pdx/play.m3u8?id=204&type=hls
+
+#EXTINF:-1 tvg-id="Trans7" tvg-chno="9" group-title="National" tvg-logo="https://alzizz.github.io/logos/Trans7-Chl-9.jpg",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="TransTV" tvg-chno="10" group-title="National" tvg-logo="https://alzizz.github.io/logos/TransTV-Chl-10.jpg",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-chno="11" group-title="National" tvg-logo="https://alzizz.github.io/logos/TVRI-Chl-11.jpg",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-id="TV One" tvg-chno="15" group-title="National" tvg-logo="https://alzizz.github.io/logos/tvOne-Chl-15.jpg",tvOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z-1yAWWQ8hONn8ELgHcIsg", "kid":"tkhtAMnYQtiLoWYN7si-zA" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+
+#EXTINF:-1 tvg-id="" tvg-chno="16" group-title="National" tvg-logo="https://alzizz.github.io/logos/VTV-Chl-16.jpg",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="Animax" tvg-chno="31" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/Animax-Chl-31.jpg",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yobZ_a1qjpscEzaNc04glQ", "kid":"7MW8Di3sS5SV2xRyePs5BA" } ], "type":"temporary" }
+https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-chno="32" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/AFN-Chl-32.jpg",Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ", "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+
+#EXTINF:-1 tvg-id="AXN" tvg-chno="33" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/AXN-Chl-33.jpg",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uyNqsrGYwv_XIoF7-nTNCA", "kid":"t7ABJIlNTx-LkfunkWC4lg" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
+
+#EXTINF:-1 tvg-id="HGTV" tvg-chno="34" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/HGTV-Chl-34.jpg",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
+#EXTINF:-1 tvg-id="Hits" tvg-chno="35" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/HITS-Chl-35.jpg",HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xa4z9wzJZ/4QezXrciX1Kg", "kid":"eNF9SFGl6e7elvKDsV7AUw" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1 tvg-id="Kplus" tvg-chno="37" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/K+-Chl-37.jpg",K+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-chno="38" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/RockEnt-Chl-38.jpg",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mFZhVcJXRigJqHBfXv14GQ", "kid":"VGjnGYRtTdStxZ6FMSN16A" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-id="TVN" tvg-chno="40" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/tvN-Chl-40.jpg",tvN
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
+
+#EXTINF:-1 tvg-id="TVN" tvg-chno="40" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/tvN-Chl-40.jpg",tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3pRqUr0d8dip5lELHgs1dg", "kid":"hE21o6f_QzmyL5OBGwBBSA" } ], "type":"temporary" }
+#https://atemeshield2-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-chno="13" group-title="Entertainments" tvg-logo="https://alzizz.github.io/logos/TVRIWorld-Chl-13.jpg",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-id="BBC.Earth.id" tvg-chno="51" group-title="Knowledge" tvg-logo="https://alzizz.github.io/logos/BBCEarth-Chl-51.jpg",BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XDZUJ8derPIXJV7/y1//Pg", "kid":"wVTBK1+DNsycvvgvtcwKtA" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-chno="52" group-title="Knowledge" tvg-logo="https://alzizz.github.io/logos/DMAX-Chl-52.jpg",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-chno="53" group-title="Knowledge" tvg-logo="https://alzizz.github.io/logos/DiscoveryCh-Chl-53.jpg",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-chno="54" group-title="Knowledge" tvg-logo="https://alzizz.github.io/logos/DiscoveryAsia-Chl-54.jpg",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uweOMvbfFMqXv/W4rujK9Q", "kid":"J8igjqvNS7yI7aNpDL9qrw" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#EXTINF:-1 tvg-id="Cinema World" tvg-chno="61" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/CinemaWorld-Chl-61.jpg",Cinema World HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+9bkVAuakXon2ovgFUL1Pw", "kid":"lY33RvJPNx3/yV581xT71w" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-chno="62" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/Cinemax-Chl-62.jpg",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayve.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWN
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Galaxy" tvg-chno="63" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/Galaxy-Chl-63.jpg",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vLKsEuEcaVlLohe/6HFO/g", "kid":"5cQCkvjQGx1fDGs5BNcxBA" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-chno="64" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/GalaxyPremium-Chl-64.jpg",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BoSalTo42pl7MbrPQzzHSg", "kid":"e8Kf9fQF3/lx46MmIj/ibA" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-chno="65" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/HBO-Chl-65.jpg",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayve.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWN
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO.Family.HD.id" tvg-chno="66" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/HBOFamily-Chl-66.jpg",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayve.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWN
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO.Hits.HD.id" tvg-chno="67" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/HBOHits-Chl-67.jpg",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayve.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWN
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO.Signature.HD.id" tvg-chno="68" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/HBOSignature-Chl-68.jpg",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayve.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMy4wLjAuMCBTYWZhcmkvNTM3LjM2TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWN
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HIts Movie" tvg-chno="36" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/HITSMovies-Chl-36.jpg",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kC52NIIMJqj/NvNwjwGR1A", "kid":"XZaEsXN+O2iAG0z/ciXUuw" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 tvg-id="IMC" tvg-chno="69" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/IMC-Chl-69.jpg",IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sPPeAG1uMelnpbxBvghuZA", "kid":"GlUeMO+IpaEh3OpqdKOu5w" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-id="Rock Action" tvg-chno="39" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/RockAction-Chl-39.jpg",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0bRzerQfDarnM_EaS4T6Ag", "kid":"mec28XCxSP-xbQrWyPk-9A" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+
+#EXTINF:-1 tvg-id="TVN Movies" tvg-chno="41" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/tvNMovies-Chl-41.jpg",tvN Movies
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
+
+#EXTINF:-1 tvg-id="TVN Movies" tvg-chno="41" group-title="Movies" tvg-logo="https://alzizz.github.io/logos/tvNMovies-Chl-41.jpg",tvN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBhEJDiG7h7cZIvN_fiLKg", "kid":"UMZFoQ0-TkuKXX30Gdx1Zg" } ], "type":"temporary" }
+#https://atemeshield2-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-chno="71" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN1-Chl-71.jpg",BeIN Sports 1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1eNcDznHat8khT1-oYxx5w", "kid":"V9KskhDPvKNZbMZ5oByLKQ" } ], "type":"temporary" }
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-chno="71" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN1-Chl-71.jpg",BeIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TTikAcyedv6GYPQDYkaMTg", "kid":"J9996Wn7sxlgW-aT6apl7Q" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://bimasakti.serv00.net/red/play.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-chno="71" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN1-Chl-71.jpg",BeIN Sports 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6299&type=drm
+#https://surf.openwindows038.workers.dev/play.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-chno="72" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN2-Chl-72.jpg",BeIN Sports 2
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1eNcDznHat8khT1-oYxx5w", "kid":"V9KskhDPvKNZbMZ5oByLKQ" } ], "type":"temporary" }
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-chno="72" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN2-Chl-72.jpg",BeIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2ps-ehmhQwsZBHeS_GrdZw", "kid":"bYGBvKmU6qVzKeBMmBIoaA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://bimasakti.serv00.net/red/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-chno="72" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN2-Chl-72.jpg",BeIN Sports 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17875&type=drm
+#https://surf.openwindows038.workers.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-chno="73" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN3-Chl-73.jpg",BeIN Sports 3
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1eNcDznHat8khT1-oYxx5w", "kid":"V9KskhDPvKNZbMZ5oByLKQ" } ], "type":"temporary" }
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-chno="73" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN3-Chl-73.jpg",BeIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oMJ3UcAVVPjXkjBMgjA5VQ", "kid":"td_suxD-DTY46mkvnFAdaQ" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36  
+https://bimasakti.serv00.net/red/play.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-chno="73" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN3-Chl-73.jpg",BeIN Sports 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6317&type=drm
+#https://surf.openwindows038.workers.dev/play.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-chno="74" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN4-Chl-74.jpg",BeIN Sports 4
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1eNcDznHat8khT1-oYxx5w", "kid":"V9KskhDPvKNZbMZ5oByLKQ" } ], "type":"temporary" }
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-chno="75" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/beIN5-Chl-75.jpg",BeIN Sports 5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1eNcDznHat8khT1-oYxx5w", "kid":"V9KskhDPvKNZbMZ5oByLKQ" } ], "type":"temporary" }
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
+#EXTINF:-1 tvg-id="CTV.1.id" tvg-chno="76" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV1-Chl-76.jpg",Champions TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"n8MHmHSaSajPr3opFZUjlQ", "kid":"E-f67QSpw7m-jKUgPWBvrw" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://bimasakti.serv00.net/red/play.mpd?id=6685&type=dash
+#https://bimasakti.serv00.net/red/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-id="CTV.1.id" tvg-chno="76" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV1-Chl-76.jpg",Champions TV 1a
+#EXTINF:-1 tvg-id="CTV.1.id" tvg-chno="76" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV1-Chl-76.jpg",Champions TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QXiyFUNutA7HM63CM_8XYA", "kid":"Ia_M_KiCtv0Cm_vxAbA5xA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://bimasakti.serv00.net/red/play.mpd?id=17938&type=dash
+#https://bimasakti.serv00.net/red/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="CTV.1.id" tvg-chno="76" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV1-Chl-76.jpg",Champions TV 1
+#EXTINF:-1 tvg-id="CTV.1.id" tvg-chno="76" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV1-Chl-76.jpg",Champions TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17938&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="CTV.2.id" tvg-chno="77" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV2-Chl-77.jpg",Champions TV 2a
+#EXTINF:-1 tvg-id="CTV.2.id" tvg-chno="77" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV2-Chl-77.jpg",Champions TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dp3eSKx8vllEfmjW7v51gw", "kid":"gJf4mQPAxq--P7tPgsB-Eg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://bimasakti.serv00.net/red/play.mpd?id=6686&type=dash
+#https://bimasakti.serv00.net/red/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-id="CTV.2.id" tvg-chno="77" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV2-Chl-77.jpg",Champions TV 2
+#EXTINF:-1 tvg-id="CTV.2.id" tvg-chno="77" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV2-Chl-77.jpg",Champions TV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6686&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-id="CTV.3.id" tvg-chno="78" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV3-Chl-78.jpg",Champions TV 3a
+#EXTINF:-1 tvg-id="CTV.3.id" tvg-chno="78" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV3-Chl-78.jpg",Champions TV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U5TYKg0Epin5W4POZhKXOw", "kid":"PRxS9xMz8GUfm3lx66TW1w" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://bimasakti.serv00.net/red/play.mpd?id=6786&type=dash
+#https://bimasakti.serv00.net/red/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-id="CTV.3.id" tvg-chno="78" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV3-Chl-78.jpg",Champions TV 3
+#EXTINF:-1 tvg-id="CTV.3.id" tvg-chno="78" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV3-Chl-78.jpg",Champions TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6786&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-id="CTV.5.id" tvg-chno="79" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV5-Chl-79.jpg",Champions TV 5a
+#EXTINF:-1 tvg-id="CTV.5.id" tvg-chno="79" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV5-Chl-79.jpg",Champions TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hFudkc77cFMDgOh0nY3CAQ", "kid":"evfArDx3R4vpcSv8Dw0otA" } ], "type":"temporary" } 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://bimasakti.serv00.net/red/play.mpd?id=9182&type=dash
+#https://bimasakti.serv00.net/red/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-id="CTV.5.id" tvg-chno="79" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV5-Chl-79.jpg",Champions TV 5
+#EXTINF:-1 tvg-id="CTV.5.id" tvg-chno="79" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV5-Chl-79.jpg",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9182&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-id="CTV.6.id" tvg-chno="80" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV6-Chl-80.jpg",Champions TV 6a
+#EXTINF:-1 tvg-id="CTV.6.id" tvg-chno="80" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV6-Chl-80.jpg",Champions TV 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= { "keys":[ { "kty":"oct", "k":"SlRat0ldQPGGpb89iNR4Ag", "kid":"TKHPeJBgTJiVkWCqgKj8Pg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://bimasakti.serv00.net/red/play.mpd?id=9183&type=dash
+#https://bimasakti.serv00.net/red/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="CTV.6.id" tvg-chno="80" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/ChampionsTV6-Chl-80.jpg",Champions TV 6
+#EXTINF:-1 tvg-id="CTV.6.id" tvg-chno="80" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/ChampionsTV6-Chl-80.jpg",Champions TV 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9183&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-chno="87" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/PLTV-Chl-87.jpg",Premier League TV
+#EXTINF:-1 tvg-id="" tvg-chno="87" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/PLTV-Chl-87.jpg",Premier League TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key= { "keys":[ { "kty":"oct", "k":"hOR2XhclndAUtR0tFmrGPg", "kid":"pq3lfprpzqSyhjOIioTESA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
 #https://bimasakti.serv00.net/red/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-chno="87" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/PLTV-Chl-87.jpg",Premier League TV
+#EXTINF:-1 tvg-id="" tvg-chno="87" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/PLTV-Chl-87.jpg",Premier League TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9353&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-chno="88" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/PLEvent1-Chl-88.jpg",PL: Event 1
+#EXTINF:-1 tvg-id="" tvg-chno="88" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/PLEvent1-Chl-88.jpg",PL: Event 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17653&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=17653&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-chno="89" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/PLEvent2-Chl-89.jpg",PL: Event 2
+#EXTINF:-1 tvg-id="" tvg-chno="89" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/PLEvent2-Chl-89.jpg",PL: Event 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17638&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=17638&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-chno="90" group-title="Sports2" tvg-logo="https://alzizz.github.io/logos/PLEvent3-Chl-90.jpg",PL: Event 3
+#EXTINF:-1 tvg-id="" tvg-chno="90" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/PLEvent3-Chl-90.jpg",PL: Event 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17882&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=17882&type=dash
 
-#EXTINF:-1,Unknown 0
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=204&type=hls
-
-#EXTINF:-1,Unknown 01
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=1&type=hls
-
-#EXTINF:-1,Unknown 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=2&type=hls
-
-#EXTINF:-1,Unknown 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=3&type=hls
-
-#EXTINF:-1,Unknown 3
-https://kametv.my.id/pdx/play.m3u8?id=4&type=hls
-
-#EXTINF:-1,Unknown 4
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=5&type=hls
-
-#EXTINF:-1,Unknown 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=6&type=hls
-
-#EXTINF:-1,Unknown 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=7&type=hls
-
-#EXTINF:-1,Unknown 7
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=8&type=hls
-
-#EXTINF:-1,Unknown 8
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=9&type=hls
-
-#EXTINF:-1,Unknown 9
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=10&type=hls
-
-#EXTINF:-1,Unknown 10
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=11&type=hls
-
-#EXTINF:-1,Unknown 11
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=12&type=hls
-
-#EXTINF:-1,Unknown 12
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=13&type=hls
-
-#EXTINF:-1,Unknown 13
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=14&type=hls
-
-#EXTINF:-1,Unknown 14
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=15&type=hls
-
-#EXTINF:-1,Unknown 15
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=16&type=hls
-
-#EXTINF:-1,Unknown 16
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=17&type=hls
-
-#EXTINF:-1,Unknown 17
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=18&type=hls
-
-#EXTINF:-1,Unknown 18
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=19&type=hls
-
-#EXTINF:-1,Unknown 19
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=20&type=hls
-
-#EXTINF:-1,Unknown 20
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=21&type=hls
-
-#EXTINF:-1,Unknown 21
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=22&type=hls
-
-#EXTINF:-1,Unknown 22
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=23&type=hls
-
-#EXTINF:-1,Unknown 23
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=24&type=hls
-
-#EXTINF:-1,Unknown 24
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=25&type=hls
-
-#EXTINF:-1,Unknown 25
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=26&type=hls
-
-#EXTINF:-1,Unknown 26
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=27&type=hls
-
-#EXTINF:-1,Unknown 27
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=28&type=hls
-
-#EXTINF:-1,Unknown 28
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=29&type=hls
-
-#EXTINF:-1,Unknown 29
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=30&type=hls
-
-#EXTINF:-1,Unknown 30
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=31&type=hls
-
-#EXTINF:-1,Unknown 31
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=32&type=hls
-
-#EXTINF:-1,Unknown 32
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=33&type=hls
-
-#EXTINF:-1,Unknown 33
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=34&type=hls
-
-#EXTINF:-1,Unknown 34
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=35&type=hls
-
-#EXTINF:-1,Unknown 35
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=36&type=hls
-
-#EXTINF:-1,Unknown 36
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=37&type=hls
-
-#EXTINF:-1,Unknown 37
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=38&type=hls
-
-#EXTINF:-1,Unknown 38
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=39&type=hls
-
-#EXTINF:-1,Unknown 39
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=40&type=hls
-
-#EXTINF:-1,Unknown 40
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=41&type=hls
-
-#EXTINF:-1,Unknown 41
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=42&type=hls
-
-#EXTINF:-1,Unknown 42
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=43&type=hls
-
-#EXTINF:-1,Unknown 43
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=44&type=hls
-
-#EXTINF:-1,Unknown 44
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=45&type=hls
-
-#EXTINF:-1,Unknown 45
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=46&type=hls
-
-#EXTINF:-1,Unknown 46
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=47&type=hls
-
-#EXTINF:-1,Unknown 47
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=48&type=hls
-
-#EXTINF:-1,Unknown 48
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=49&type=hls
-
-#EXTINF:-1,Unknown 49
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=50&type=hls
-
-#EXTINF:-1,Unknown 50
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=51&type=hls
-
-#EXTINF:-1,Unknown 51
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=52&type=hls
-
-#EXTINF:-1,Unknown 52
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=53&type=hls
-
-#EXTINF:-1,Unknown 53
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=54&type=hls
-
-#EXTINF:-1,Unknown 54
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=55&type=hls
-
-#EXTINF:-1,Unknown 55
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=56&type=hls
-
-#EXTINF:-1,Unknown 56
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=57&type=hls
-
-#EXTINF:-1,Unknown 57
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=58&type=hls
-
-#EXTINF:-1,Unknown 58
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=59&type=hls
-
-#EXTINF:-1,Unknown 59
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=60&type=hls
-
-#EXTINF:-1,Unknown 60
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=61&type=hls
-
-#EXTINF:-1,Unknown 61
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=62&type=hls
-
-#EXTINF:-1,Unknown 62
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=63&type=hls
-
-#EXTINF:-1,Unknown 63
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=64&type=hls
-
-#EXTINF:-1,Unknown 64
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=65&type=hls
-
-#EXTINF:-1,Unknown 65
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=66&type=hls
-
-#EXTINF:-1,Unknown 66
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=67&type=hls
-
-#EXTINF:-1,Unknown 67
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=68&type=hls
-
-#EXTINF:-1,Unknown 68
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=69&type=hls
-
-#EXTINF:-1,Unknown 69
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=70&type=hls
-
-#EXTINF:-1,Unknown 70
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=71&type=hls
-
-#EXTINF:-1,Unknown 71
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=72&type=hls
-
-#EXTINF:-1,Unknown 72
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=73&type=hls
-
-#EXTINF:-1,Unknown 73
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=74&type=hls
-
-#EXTINF:-1,Unknown 74
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=75&type=hls
-
-#EXTINF:-1,Unknown 75
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=76&type=hls
-
-#EXTINF:-1,Unknown 76
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=77&type=hls
-
-#EXTINF:-1,Unknown 77
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=78&type=hls
-
-#EXTINF:-1,Unknown 78
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=79&type=hls
-
-#EXTINF:-1,Unknown 79
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=80&type=hls
-
-#EXTINF:-1,Unknown 80
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=81&type=hls
-
-#EXTINF:-1,Unknown 81
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=82&type=hls
-
-#EXTINF:-1,Unknown 82
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=83&type=hls
-
-#EXTINF:-1,Unknown 83
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=84&type=hls
-
-#EXTINF:-1,Unknown 84
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=85&type=hls
-
-#EXTINF:-1,Unknown 85
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=86&type=hls
-
-#EXTINF:-1,Unknown 86
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=87&type=hls
-
-#EXTINF:-1,Unknown 87
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=88&type=hls
-
-#EXTINF:-1,Unknown 88
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=89&type=hls
-
-#EXTINF:-1,Unknown 89
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=90&type=hls
-
-#EXTINF:-1,Unknown 90
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=91&type=hls
-
-#EXTINF:-1,Unknown 91
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=92&type=hls
-
-#EXTINF:-1,Unknown 92
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=93&type=hls
-
-#EXTINF:-1,Unknown 93
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=94&type=hls
-
-#EXTINF:-1,Unknown 94
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=95&type=hls
-
-#EXTINF:-1,Unknown 95
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=96&type=hls
-
-#EXTINF:-1,Unknown 96
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=97&type=hls
-
-#EXTINF:-1,Unknown 97
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=98&type=hls
-
-#EXTINF:-1,Unknown 98
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=99&type=hls
-
-#EXTINF:-1,Unknown 99
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=100&type=hls
-
-#EXTINF:-1,Unknown 100
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=101&type=hls
-
-#EXTINF:-1,Unknown 102
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=103&type=hls
-
-#EXTINF:-1,Unknown 103
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=104&type=hls
-
-#EXTINF:-1,Unknown 105
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=106&type=hls
-
-#EXTINF:-1,Unknown 106
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=107&type=hls
-
-#EXTINF:-1,Unknown 107
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=108&type=hls
-
-#EXTINF:-1,Unknown 108
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=109&type=hls
-
-#EXTINF:-1,Unknown 109
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=110&type=hls
-
-#EXTINF:-1,Unknown 110
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=111&type=hls
-
-#EXTINF:-1,Unknown 111
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=112&type=hls
-
-#EXTINF:-1,Unknown 112
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=113&type=hls
-
-#EXTINF:-1,Unknown 113
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=114&type=hls
-
-#EXTINF:-1,Unknown 114
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=115&type=hls
-
-#EXTINF:-1,Unknown 115
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=116&type=hls
-
-#EXTINF:-1,Unknown 116
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=117&type=hls
-
-#EXTINF:-1,Unknown 117
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=118&type=hls
-
-#EXTINF:-1,Unknown 118
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=119&type=hls
-
-#EXTINF:-1,Unknown 119
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=120&type=hls
-
-#EXTINF:-1,Unknown 120
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=121&type=hls
-
-#EXTINF:-1,Unknown 121
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=122&type=hls
-
-#EXTINF:-1,Unknown 122
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=123&type=hls
-
-#EXTINF:-1,Unknown 123
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=124&type=hls
-
-#EXTINF:-1,Unknown 124
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=125&type=hls
-
-#EXTINF:-1,Unknown 125
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=126&type=hls
-
-#EXTINF:-1,Unknown 126
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=127&type=hls
-
-#EXTINF:-1,Unknown 127
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=128&type=hls
-
-#EXTINF:-1,Unknown 128
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=129&type=hls
-
-#EXTINF:-1,Unknown 129
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=130&type=hls
-
-#EXTINF:-1,Unknown 130
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=131&type=hls
-
-#EXTINF:-1,Unknown 131
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=132&type=hls
-
-#EXTINF:-1,Unknown 132
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=133&type=hls
-
-#EXTINF:-1,Unknown 133
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=134&type=hls
-
-#EXTINF:-1,Unknown 134
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=135&type=hls
-
-#EXTINF:-1,Unknown 135
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=136&type=hls
-
-#EXTINF:-1,Unknown 136
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=137&type=hls
-
-#EXTINF:-1,Unknown 137
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=138&type=hls
-
-#EXTINF:-1,Unknown 138
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=139&type=hls
-
-#EXTINF:-1,Unknown 139
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=140&type=hls
-
-#EXTINF:-1,Unknown 140
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=141&type=hls
-
-#EXTINF:-1,Unknown 141
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=142&type=hls
-
-#EXTINF:-1,Unknown 142
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=143&type=hls
-
-#EXTINF:-1,Unknown 143
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=144&type=hls
-
-#EXTINF:-1,Unknown 144
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=145&type=hls
-
-#EXTINF:-1,Unknown 145
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=146&type=hls
-
-#EXTINF:-1,Unknown 146
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=147&type=hls
-
-#EXTINF:-1,Unknown 147
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=148&type=hls
-
-#EXTINF:-1,Unknown 148
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=149&type=hls
-
-#EXTINF:-1,Unknown 149
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=150&type=hls
-
-#EXTINF:-1,Unknown 150
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=151&type=hls
-
-#EXTINF:-1,Unknown 151
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=152&type=hls
-
-#EXTINF:-1,Unknown 152
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=153&type=hls
-
-#EXTINF:-1,Unknown 153
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=154&type=hls
-
-#EXTINF:-1,Unknown 154
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=155&type=hls
-
-#EXTINF:-1,Unknown 155
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=156&type=hls
-
-#EXTINF:-1,Unknown 156
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=157&type=hls
-
-#EXTINF:-1,Unknown 157
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=158&type=hls
-
-#EXTINF:-1,Unknown 158
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=159&type=hls
-
-#EXTINF:-1,Unknown 159
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=160&type=hls
-
-#EXTINF:-1,Unknown 160
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=161&type=hls
-
-#EXTINF:-1,Unknown 161
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=162&type=hls
-
-#EXTINF:-1,Unknown 162
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=163&type=hls
-
-#EXTINF:-1,Unknown 163
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=164&type=hls
-
-#EXTINF:-1,Unknown 164
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=165&type=hls
-
-#EXTINF:-1,Unknown 165
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=166&type=hls
-
-#EXTINF:-1,Unknown 166
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=167&type=hls
-
-#EXTINF:-1,Unknown 167
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=168&type=hls
-
-#EXTINF:-1,Unknown 168
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=169&type=hls
-
-#EXTINF:-1,Unknown 169
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=170&type=hls
-
-#EXTINF:-1,Unknown 170
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=171&type=hls
-
-#EXTINF:-1,Unknown 171
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=172&type=hls
-
-#EXTINF:-1,Unknown 172
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=173&type=hls
-
-#EXTINF:-1,Unknown 173
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=174&type=hls
-
-#EXTINF:-1,Unknown 174
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=175&type=hls
-
-#EXTINF:-1,Unknown 175
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=176&type=hls
-
-#EXTINF:-1,Unknown 176
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=177&type=hls
-
-#EXTINF:-1,Unknown 177
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=178&type=hls
-
-#EXTINF:-1,Unknown 178
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=179&type=hls
-
-#EXTINF:-1,Unknown 179
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=180&type=hls
-
-#EXTINF:-1,Unknown 180
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=181&type=hls
-
-#EXTINF:-1,Unknown 181
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=182&type=hls
-
-#EXTINF:-1,Unknown 182
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=183&type=hls
-
-#EXTINF:-1,Unknown 183
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=184&type=hls
-
-#EXTINF:-1,Unknown 184
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=185&type=hls
-
-#EXTINF:-1,Unknown 185
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=186&type=hls
-
-#EXTINF:-1,Unknown 186
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=187&type=hls
-
-#EXTINF:-1,Unknown 187
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=188&type=hls
-
-#EXTINF:-1,Unknown 188
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=189&type=hls
-
-#EXTINF:-1,Unknown 189
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=190&type=hls
-
-#EXTINF:-1,Unknown 190
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=191&type=hls
-
-#EXTINF:-1,Unknown 191
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=192&type=hls
-
-#EXTINF:-1,Unknown 192
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=193&type=hls
-
-#EXTINF:-1,Unknown 193
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=194&type=hls
-
-#EXTINF:-1,Unknown 194
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=195&type=hls
-
-#EXTINF:-1,Unknown 195
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=196&type=hls
-
-#EXTINF:-1,Unknown 196
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=197&type=hls
-
-#EXTINF:-1,Unknown 197
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=198&type=hls
-
-#EXTINF:-1,Unknown 198
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=199&type=hls
-
-#EXTINF:-1,Unknown 199
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=200&type=hls
-
-#EXTINF:-1,Unknown 200
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=201&type=hls
-
-#EXTINF:-1,Unknown 201
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=202&type=hls
-
-#EXTINF:-1,Unknown 202
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=203&type=hls
-
-#EXTINF:-1,Unknown 204
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=205&type=hls
-
-#EXTINF:-1,Unknown 205
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=206&type=hls
-
-#EXTINF:-1,Unknown 206
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=207&type=hls
-
-#EXTINF:-1,Unknown 207
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=208&type=hls
-
-#EXTINF:-1,Unknown 208
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=209&type=hls
-
-#EXTINF:-1,Unknown 209
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=210&type=hls
-
-#EXTINF:-1,Unknown 210
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=211&type=hls
-
-#EXTINF:-1,Unknown 211
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=212&type=hls
-
-#EXTINF:-1,Unknown 212
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=213&type=hls
-
-#EXTINF:-1,Unknown 213
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=214&type=hls
-
-#EXTINF:-1,Unknown 214
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=215&type=hls
-
-#EXTINF:-1,Unknown 215
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=216&type=hls
-
-#EXTINF:-1,Unknown 216
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=217&type=hls
-
-#EXTINF:-1,Unknown 217
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=218&type=hls
-
-#EXTINF:-1,Unknown 218
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=219&type=hls
-
-#EXTINF:-1,Unknown 219
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=220&type=hls
-
-#EXTINF:-1,Unknown 220
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=221&type=hls
-
-#EXTINF:-1,Unknown 221
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=222&type=hls
-
-#EXTINF:-1,Unknown 222
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=223&type=hls
-
-#EXTINF:-1,Unknown 223
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=224&type=hls
-
-#EXTINF:-1,Unknown 224
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=225&type=hls
-
-#EXTINF:-1,Unknown 225
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=226&type=hls
-
-#EXTINF:-1,Unknown 226
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=227&type=hls
-
-#EXTINF:-1,Unknown 227
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=228&type=hls
-
-#EXTINF:-1,Unknown 228
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=229&type=hls
-
-#EXTINF:-1,Unknown 229
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=230&type=hls
-
-#EXTINF:-1,Unknown 230
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=231&type=hls
-
-#EXTINF:-1,Unknown 231
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=232&type=hls
-
-#EXTINF:-1,Unknown 232
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=233&type=hls
-
-#EXTINF:-1,Unknown 233
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=234&type=hls
-
-#EXTINF:-1,Unknown 234
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=235&type=hls
-
-#EXTINF:-1,Unknown 235
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=236&type=hls
-
-#EXTINF:-1,Unknown 236
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=237&type=hls
-
-#EXTINF:-1,Unknown 237
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=238&type=hls
-
-#EXTINF:-1,Unknown 238
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=239&type=hls
-
-#EXTINF:-1,Unknown 239
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=240&type=hls
-
-#EXTINF:-1,Unknown 240
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=241&type=hls
-
-#EXTINF:-1,Unknown 241
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=242&type=hls
-
-#EXTINF:-1,Unknown 242
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=243&type=hls
-
-#EXTINF:-1,Unknown 243
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=244&type=hls
-
-#EXTINF:-1,Unknown 244
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=245&type=hls
-
-#EXTINF:-1,Unknown 245
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=246&type=hls
-
-#EXTINF:-1,Unknown 246
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=247&type=hls
-
-#EXTINF:-1,Unknown 247
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=248&type=hls
-
-#EXTINF:-1,Unknown 248
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=249&type=hls
-
-#EXTINF:-1,Unknown 249
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=250&type=hls
-
-#EXTINF:-1,Unknown 250
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=251&type=hls
-
-#EXTINF:-1,Unknown 251
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=252&type=hls
-
-#EXTINF:-1,Unknown 252
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=253&type=hls
-
-#EXTINF:-1,Unknown 253
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=254&type=hls
-
-#EXTINF:-1,Unknown 254
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=255&type=hls
-
-#EXTINF:-1,Unknown 255
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=256&type=hls
-
-#EXTINF:-1,Unknown 256
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=257&type=hls
-
-#EXTINF:-1,Unknown 257
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=258&type=hls
-
-#EXTINF:-1,Unknown 258
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=259&type=hls
-
-#EXTINF:-1,Unknown 259
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=260&type=hls
-
-#EXTINF:-1,Unknown 260
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=261&type=hls
-
-#EXTINF:-1,Unknown 261
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=262&type=hls
-
-#EXTINF:-1,Unknown 262
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=263&type=hls
-
-#EXTINF:-1,Unknown 263
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=264&type=hls
-
-#EXTINF:-1,Unknown 264
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=265&type=hls
-
-#EXTINF:-1,Unknown 265
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=266&type=hls
-
-#EXTINF:-1,Unknown 266
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=267&type=hls
-
-#EXTINF:-1,Unknown 267
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=268&type=hls
-
-#EXTINF:-1,Unknown 268
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=269&type=hls
-
-#EXTINF:-1,Unknown 269
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=270&type=hls
-
-#EXTINF:-1,Unknown 270
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=271&type=hls
-
-#EXTINF:-1,Unknown 271
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=272&type=hls
-
-#EXTINF:-1,Unknown 272
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=273&type=hls
-
-#EXTINF:-1,Unknown 273
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=274&type=hls
-
-#EXTINF:-1,Unknown 274
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=275&type=hls
-
-#EXTINF:-1,Unknown 275
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=276&type=hls
-
-#EXTINF:-1,Unknown 276
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=277&type=hls
-
-#EXTINF:-1,Unknown 277
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=278&type=hls
-
-#EXTINF:-1,Unknown 278
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=279&type=hls
-
-#EXTINF:-1,Unknown 279
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=280&type=hls
-
-#EXTINF:-1,Unknown 280
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=281&type=hls
-
-#EXTINF:-1,Unknown 281
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=282&type=hls
-
-#EXTINF:-1,Unknown 282
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=283&type=hls
-
-#EXTINF:-1,Unknown 283
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=284&type=hls
-
-#EXTINF:-1,Unknown 284
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=285&type=hls
-
-#EXTINF:-1,Unknown 285
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=286&type=hls
-
-#EXTINF:-1,Unknown 286
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=287&type=hls
-
-#EXTINF:-1,Unknown 287
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=288&type=hls
-
-#EXTINF:-1,Unknown 288
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=289&type=hls
-
-#EXTINF:-1,Unknown 289
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=290&type=hls
-
-#EXTINF:-1,Unknown 290
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=291&type=hls
-
-#EXTINF:-1,Unknown 291
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=292&type=hls
-
-#EXTINF:-1,Unknown 292
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=293&type=hls
-
-#EXTINF:-1,Unknown 293
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=294&type=hls
-
-#EXTINF:-1,Unknown 294
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=295&type=hls
-
-#EXTINF:-1,Unknown 295
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=296&type=hls
-
-#EXTINF:-1,Unknown 296
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=297&type=hls
-
-#EXTINF:-1,Unknown 297
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=298&type=hls
-
-#EXTINF:-1,Unknown 298
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=299&type=hls
-
-#EXTINF:-1,Unknown 299
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=300&type=hls
-
-#EXTINF:-1,Unknown 300
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=301&type=hls
-
-#EXTINF:-1,Unknown 301
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=302&type=hls
-
-#EXTINF:-1,Unknown 302
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=303&type=hls
-
-#EXTINF:-1,Unknown 303
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=304&type=hls
-
-#EXTINF:-1,Unknown 304
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=305&type=hls
-
-#EXTINF:-1,Unknown 305
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=306&type=hls
-
-#EXTINF:-1,Unknown 306
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=307&type=hls
-
-#EXTINF:-1,Unknown 307
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=308&type=hls
-
-#EXTINF:-1,Unknown 308
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=309&type=hls
-
-#EXTINF:-1,Unknown 309
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=310&type=hls
-
-#EXTINF:-1,Unknown 310
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=311&type=hls
-
-#EXTINF:-1,Unknown 311
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=312&type=hls
-
-#EXTINF:-1,Unknown 312
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=313&type=hls
-
-#EXTINF:-1,Unknown 313
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=314&type=hls
-
-#EXTINF:-1,Unknown 314
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=315&type=hls
-
-#EXTINF:-1,Unknown 315
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=316&type=hls
-
-#EXTINF:-1,Unknown 316
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=317&type=hls
-
-#EXTINF:-1,Unknown 317
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=318&type=hls
-
-#EXTINF:-1,Unknown 318
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=319&type=hls
-
-#EXTINF:-1,Unknown 319
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=320&type=hls
-
-#EXTINF:-1,Unknown 320
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=321&type=hls
-
-#EXTINF:-1,Unknown 321
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=322&type=hls
-
-#EXTINF:-1,Unknown 322
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=323&type=hls
-
-#EXTINF:-1,Unknown 323
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=324&type=hls
-
-#EXTINF:-1,Unknown 324
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=325&type=hls
-
-#EXTINF:-1,Unknown 325
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=326&type=hls
-
-#EXTINF:-1,Unknown 326
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=327&type=hls
-
-#EXTINF:-1,Unknown 327
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=328&type=hls
-
-#EXTINF:-1,Unknown 328
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=329&type=hls
-
-#EXTINF:-1,Unknown 329
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=330&type=hls
-
-#EXTINF:-1,Unknown 330
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=331&type=hls
-
-#EXTINF:-1,Unknown 331
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=332&type=hls
-
-#EXTINF:-1,Unknown 332
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=333&type=hls
-
-#EXTINF:-1,Unknown 333
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=334&type=hls
-
-#EXTINF:-1,Unknown 334
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=335&type=hls
-
-#EXTINF:-1,Unknown 335
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=336&type=hls
-
-#EXTINF:-1,Unknown 336
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=337&type=hls
-
-#EXTINF:-1,Unknown 337
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=338&type=hls
-
-#EXTINF:-1,Unknown 338
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=339&type=hls
-
-#EXTINF:-1,Unknown 339
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=340&type=hls
-
-#EXTINF:-1,Unknown 340
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=341&type=hls
-
-#EXTINF:-1,Unknown 341
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=342&type=hls
-
-#EXTINF:-1,Unknown 342
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=343&type=hls
-
-#EXTINF:-1,Unknown 343
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=344&type=hls
-
-#EXTINF:-1,Unknown 344
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=345&type=hls
-
-#EXTINF:-1,Unknown 345
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=346&type=hls
-
-#EXTINF:-1,Unknown 346
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=347&type=hls
-
-#EXTINF:-1,Unknown 347
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=348&type=hls
-
-#EXTINF:-1,Unknown 348
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=349&type=hls
-
-#EXTINF:-1,Unknown 349
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=350&type=hls
-
-#EXTINF:-1,Unknown 350
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=351&type=hls
-
-#EXTINF:-1,Unknown 351
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=352&type=hls
-
-#EXTINF:-1,Unknown 352
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=353&type=hls
-
-#EXTINF:-1,Unknown 353
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=354&type=hls
-
-#EXTINF:-1,Unknown 354
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=355&type=hls
-
-#EXTINF:-1,Unknown 355
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=356&type=hls
-
-#EXTINF:-1,Unknown 356
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=357&type=hls
-
-#EXTINF:-1,Unknown 357
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=358&type=hls
-
-#EXTINF:-1,Unknown 358
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=359&type=hls
-
-#EXTINF:-1,Unknown 359
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=360&type=hls
-
-#EXTINF:-1,Unknown 360
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=361&type=hls
-
-#EXTINF:-1,Unknown 361
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=362&type=hls
-
-#EXTINF:-1,Unknown 362
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=363&type=hls
-
-#EXTINF:-1,Unknown 363
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=364&type=hls
-
-#EXTINF:-1,Unknown 364
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=365&type=hls
-
-#EXTINF:-1,Unknown 365
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=366&type=hls
-
-#EXTINF:-1,Unknown 366
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=367&type=hls
-
-#EXTINF:-1,Unknown 367
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=368&type=hls
-
-#EXTINF:-1,Unknown 368
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=369&type=hls
-
-#EXTINF:-1,Unknown 369
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=370&type=hls
-
-#EXTINF:-1,Unknown 370
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=371&type=hls
-
-#EXTINF:-1,Unknown 371
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=372&type=hls
-
-#EXTINF:-1,Unknown 372
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=373&type=hls
-
-#EXTINF:-1,Unknown 373
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=374&type=hls
-
-#EXTINF:-1,Unknown 374
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=375&type=hls
-
-#EXTINF:-1,Unknown 375
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=376&type=hls
-
-#EXTINF:-1,Unknown 376
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=377&type=hls
-
-#EXTINF:-1,Unknown 377
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=378&type=hls
-
-#EXTINF:-1,Unknown 378
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=379&type=hls
-
-#EXTINF:-1,Unknown 379
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=380&type=hls
-
-#EXTINF:-1,Unknown 380
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=381&type=hls
-
-#EXTINF:-1,Unknown 381
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=382&type=hls
-
-#EXTINF:-1,Unknown 382
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=383&type=hls
-
-#EXTINF:-1,Unknown 383
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=384&type=hls
-
-#EXTINF:-1,Unknown 384
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=385&type=hls
-
-#EXTINF:-1,Unknown 385
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=386&type=hls
-
-#EXTINF:-1,Unknown 386
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=387&type=hls
-
-#EXTINF:-1,Unknown 387
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=388&type=hls
-
-#EXTINF:-1,Unknown 388
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=389&type=hls
-
-#EXTINF:-1,Unknown 389
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=390&type=hls
-
-#EXTINF:-1,Unknown 390
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=391&type=hls
-
-#EXTINF:-1,Unknown 391
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=392&type=hls
-
-#EXTINF:-1,Unknown 392
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=393&type=hls
-
-#EXTINF:-1,Unknown 393
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=394&type=hls
-
-#EXTINF:-1,Unknown 394
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=395&type=hls
-
-#EXTINF:-1,Unknown 395
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=396&type=hls
-
-#EXTINF:-1,Unknown 396
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=397&type=hls
-
-#EXTINF:-1,Unknown 397
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=398&type=hls
-
-#EXTINF:-1,Unknown 398
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=399&type=hls
-
-#EXTINF:-1,Unknown 399
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=400&type=hls
-
-#EXTINF:-1,Unknown 400
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=401&type=hls
-
-#EXTINF:-1,Unknown 401
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=402&type=hls
-
-#EXTINF:-1,Unknown 402
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=403&type=hls
-
-#EXTINF:-1,Unknown 403
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=404&type=hls
-
-#EXTINF:-1,Unknown 404
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=405&type=hls
-
-#EXTINF:-1,Unknown 405
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=406&type=hls
-
-#EXTINF:-1,Unknown 406
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=407&type=hls
-
-#EXTINF:-1,Unknown 407
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=408&type=hls
-
-#EXTINF:-1,Unknown 408
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=409&type=hls
-
-#EXTINF:-1,Unknown 409
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=410&type=hls
-
-#EXTINF:-1,Unknown 410
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=411&type=hls
-
-#EXTINF:-1,Unknown 411
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=412&type=hls
-
-#EXTINF:-1,Unknown 412
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=413&type=hls
-
-#EXTINF:-1,Unknown 413
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=414&type=hls
-
-#EXTINF:-1,Unknown 414
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=415&type=hls
-
-#EXTINF:-1,Unknown 415
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=416&type=hls
-
-#EXTINF:-1,Unknown 416
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=417&type=hls
-
-#EXTINF:-1,Unknown 417
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=418&type=hls
-
-#EXTINF:-1,Unknown 418
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=419&type=hls
-
-#EXTINF:-1,Unknown 419
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=420&type=hls
-
-#EXTINF:-1,Unknown 420
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=421&type=hls
-
-#EXTINF:-1,Unknown 421
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=422&type=hls
-
-#EXTINF:-1,Unknown 422
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=423&type=hls
-
-#EXTINF:-1,Unknown 423
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=424&type=hls
-
-#EXTINF:-1,Unknown 424
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=425&type=hls
-
-#EXTINF:-1,Unknown 425
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=426&type=hls
-
-#EXTINF:-1,Unknown 426
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=427&type=hls
-
-#EXTINF:-1,Unknown 427
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=428&type=hls
-
-#EXTINF:-1,Unknown 428
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=429&type=hls
-
-#EXTINF:-1,Unknown 429
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=430&type=hls
-
-#EXTINF:-1,Unknown 430
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=431&type=hls
-
-#EXTINF:-1,Unknown 431
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=432&type=hls
-
-#EXTINF:-1,Unknown 432
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=433&type=hls
-
-#EXTINF:-1,Unknown 433
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=434&type=hls
-
-#EXTINF:-1,Unknown 434
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=435&type=hls
-
-#EXTINF:-1,Unknown 435
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=436&type=hls
-
-#EXTINF:-1,Unknown 436
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=437&type=hls
-
-#EXTINF:-1,Unknown 437
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=438&type=hls
-
-#EXTINF:-1,Unknown 438
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=439&type=hls
-
-#EXTINF:-1,Unknown 439
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=440&type=hls
-
-#EXTINF:-1,Unknown 440
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=441&type=hls
-
-#EXTINF:-1,Unknown 441
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=442&type=hls
-
-#EXTINF:-1,Unknown 442
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=443&type=hls
-
-#EXTINF:-1,Unknown 443
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=444&type=hls
-
-#EXTINF:-1,Unknown 444
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=445&type=hls
-
-#EXTINF:-1,Unknown 445
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=446&type=hls
-
-#EXTINF:-1,Unknown 446
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=447&type=hls
-
-#EXTINF:-1,Unknown 447
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=448&type=hls
-
-#EXTINF:-1,Unknown 448
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=449&type=hls
-
-#EXTINF:-1,Unknown 449
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=450&type=hls
-
-#EXTINF:-1,Unknown 450
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=451&type=hls
-
-#EXTINF:-1,Unknown 451
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=452&type=hls
-
-#EXTINF:-1,Unknown 452
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=453&type=hls
-
-#EXTINF:-1,Unknown 453
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=454&type=hls
-
-#EXTINF:-1,Unknown 454
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=455&type=hls
-
-#EXTINF:-1,Unknown 455
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=456&type=hls
-
-#EXTINF:-1,Unknown 456
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=457&type=hls
-
-#EXTINF:-1,Unknown 457
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=458&type=hls
-
-#EXTINF:-1,Unknown 458
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=459&type=hls
-
-#EXTINF:-1,Unknown 459
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=460&type=hls
-
-#EXTINF:-1,Unknown 460
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=461&type=hls
-
-#EXTINF:-1,Unknown 461
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=462&type=hls
-
-#EXTINF:-1,Unknown 462
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=463&type=hls
-
-#EXTINF:-1,Unknown 463
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=464&type=hls
-
-#EXTINF:-1,Unknown 464
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=465&type=hls
-
-#EXTINF:-1,Unknown 465
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=466&type=hls
-
-#EXTINF:-1,Unknown 466
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=467&type=hls
-
-#EXTINF:-1,Unknown 467
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=468&type=hls
-
-#EXTINF:-1,Unknown 468
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=469&type=hls
-
-#EXTINF:-1,Unknown 469
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=470&type=hls
-
-#EXTINF:-1,Unknown 470
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=471&type=hls
-
-#EXTINF:-1,Unknown 471
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=472&type=hls
-
-#EXTINF:-1,Unknown 472
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=473&type=hls
-
-#EXTINF:-1,Unknown 473
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=474&type=hls
-
-#EXTINF:-1,Unknown 474
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=475&type=hls
-
-#EXTINF:-1,Unknown 475
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=476&type=hls
-
-#EXTINF:-1,Unknown 476
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=477&type=hls
-
-#EXTINF:-1,Unknown 477
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=478&type=hls
-
-#EXTINF:-1,Unknown 478
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=479&type=hls
-
-#EXTINF:-1,Unknown 479
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=480&type=hls
-
-#EXTINF:-1,Unknown 480
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=481&type=hls
-
-#EXTINF:-1,Unknown 481
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=482&type=hls
-
-#EXTINF:-1,Unknown 482
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=483&type=hls
-
-#EXTINF:-1,Unknown 483
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=484&type=hls
-
-#EXTINF:-1,Unknown 484
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=485&type=hls
-
-#EXTINF:-1,Unknown 485
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=486&type=hls
-
-#EXTINF:-1,Unknown 486
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=487&type=hls
-
-#EXTINF:-1,Unknown 487
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=488&type=hls
-
-#EXTINF:-1,Unknown 488
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=489&type=hls
-
-#EXTINF:-1,Unknown 489
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=490&type=hls
-
-#EXTINF:-1,Unknown 490
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=491&type=hls
-
-#EXTINF:-1,Unknown 491
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=492&type=hls
-
-#EXTINF:-1,Unknown 492
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=493&type=hls
-
-#EXTINF:-1,Unknown 493
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=494&type=hls
-
-#EXTINF:-1,Unknown 494
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=495&type=hls
-
-#EXTINF:-1,Unknown 495
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=496&type=hls
-
-#EXTINF:-1,Unknown 496
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=497&type=hls
-
-#EXTINF:-1,Unknown 497
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=498&type=hls
-
-#EXTINF:-1,Unknown 498
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=499&type=hls
-
-#EXTINF:-1,Unknown 499
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=500&type=hls
-
-#EXTINF:-1,Unknown 500
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=501&type=hls
-
-#EXTINF:-1,Unknown 501
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=502&type=hls
-
-#EXTINF:-1,Unknown 502
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=503&type=hls
-
-#EXTINF:-1,Unknown 503
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=504&type=hls
-
-#EXTINF:-1,Unknown 504
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=505&type=hls
-
-#EXTINF:-1,Unknown 505
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=506&type=hls
-
-#EXTINF:-1,Unknown 506
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=507&type=hls
-
-#EXTINF:-1,Unknown 507
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=508&type=hls
-
-#EXTINF:-1,Unknown 508
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=509&type=hls
-
-#EXTINF:-1,Unknown 509
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=510&type=hls
-
-#EXTINF:-1,Unknown 510
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=511&type=hls
-
-#EXTINF:-1,Unknown 511
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=512&type=hls
-
-#EXTINF:-1,Unknown 512
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=513&type=hls
-
-#EXTINF:-1,Unknown 513
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=514&type=hls
-
-#EXTINF:-1,Unknown 514
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=515&type=hls
-
-#EXTINF:-1,Unknown 515
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=516&type=hls
-
-#EXTINF:-1,Unknown 516
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=517&type=hls
-
-#EXTINF:-1,Unknown 517
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=518&type=hls
-
-#EXTINF:-1,Unknown 518
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=519&type=hls
-
-#EXTINF:-1,Unknown 519
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=520&type=hls
-
-#EXTINF:-1,Unknown 520
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=521&type=hls
-
-#EXTINF:-1,Unknown 521
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=522&type=hls
-
-#EXTINF:-1,Unknown 522
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=523&type=hls
-
-#EXTINF:-1,Unknown 523
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=524&type=hls
-
-#EXTINF:-1,Unknown 524
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=525&type=hls
-
-#EXTINF:-1,Unknown 525
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=526&type=hls
-
-#EXTINF:-1,Unknown 526
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=527&type=hls
-
-#EXTINF:-1,Unknown 527
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=528&type=hls
-
-#EXTINF:-1,Unknown 528
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=529&type=hls
-
-#EXTINF:-1,Unknown 529
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=530&type=hls
-
-#EXTINF:-1,Unknown 530
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=531&type=hls
-
-#EXTINF:-1,Unknown 531
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=532&type=hls
-
-#EXTINF:-1,Unknown 532
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=533&type=hls
-
-#EXTINF:-1,Unknown 533
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=534&type=hls
-
-#EXTINF:-1,Unknown 534
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=535&type=hls
-
-#EXTINF:-1,Unknown 535
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=536&type=hls
-
-#EXTINF:-1,Unknown 536
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=537&type=hls
-
-#EXTINF:-1,Unknown 537
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=538&type=hls
-
-#EXTINF:-1,Unknown 538
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=539&type=hls
-
-#EXTINF:-1,Unknown 539
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=540&type=hls
-
-#EXTINF:-1,Unknown 540
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=541&type=hls
-
-#EXTINF:-1,Unknown 541
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=542&type=hls
-
-#EXTINF:-1,Unknown 542
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=543&type=hls
-
-#EXTINF:-1,Unknown 543
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=544&type=hls
-
-#EXTINF:-1,Unknown 544
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=545&type=hls
-
-#EXTINF:-1,Unknown 545
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=546&type=hls
-
-#EXTINF:-1,Unknown 546
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=547&type=hls
-
-#EXTINF:-1,Unknown 547
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=548&type=hls
-
-#EXTINF:-1,Unknown 548
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=549&type=hls
-
-#EXTINF:-1,Unknown 549
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=550&type=hls
-
-#EXTINF:-1,Unknown 550
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=551&type=hls
-
-#EXTINF:-1,Unknown 551
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=552&type=hls
-
-#EXTINF:-1,Unknown 552
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=553&type=hls
-
-#EXTINF:-1,Unknown 553
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=554&type=hls
-
-#EXTINF:-1,Unknown 554
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=555&type=hls
-
-#EXTINF:-1,Unknown 555
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=556&type=hls
-
-#EXTINF:-1,Unknown 556
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=557&type=hls
-
-#EXTINF:-1,Unknown 557
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=558&type=hls
-
-#EXTINF:-1,Unknown 558
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=559&type=hls
-
-#EXTINF:-1,Unknown 559
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=560&type=hls
-
-#EXTINF:-1,Unknown 560
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=561&type=hls
-
-#EXTINF:-1,Unknown 561
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=562&type=hls
-
-#EXTINF:-1,Unknown 562
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=563&type=hls
-
-#EXTINF:-1,Unknown 563
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=564&type=hls
-
-#EXTINF:-1,Unknown 564
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=565&type=hls
-
-#EXTINF:-1,Unknown 565
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=566&type=hls
-
-#EXTINF:-1,Unknown 566
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=567&type=hls
-
-#EXTINF:-1,Unknown 567
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=568&type=hls
-
-#EXTINF:-1,Unknown 568
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=569&type=hls
-
-#EXTINF:-1,Unknown 569
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=570&type=hls
-
-#EXTINF:-1,Unknown 570
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=571&type=hls
-
-#EXTINF:-1,Unknown 571
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=572&type=hls
-
-#EXTINF:-1,Unknown 572
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=573&type=hls
-
-#EXTINF:-1,Unknown 573
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=574&type=hls
-
-#EXTINF:-1,Unknown 574
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=575&type=hls
-
-#EXTINF:-1,Unknown 575
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=576&type=hls
-
-#EXTINF:-1,Unknown 576
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=577&type=hls
-
-#EXTINF:-1,Unknown 577
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=578&type=hls
-
-#EXTINF:-1,Unknown 578
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=579&type=hls
-
-#EXTINF:-1,Unknown 579
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=580&type=hls
-
-#EXTINF:-1,Unknown 580
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=581&type=hls
-
-#EXTINF:-1,Unknown 581
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=582&type=hls
-
-#EXTINF:-1,Unknown 582
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=583&type=hls
-
-#EXTINF:-1,Unknown 583
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=584&type=hls
-
-#EXTINF:-1,Unknown 584
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=585&type=hls
-
-#EXTINF:-1,Unknown 585
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=586&type=hls
-
-#EXTINF:-1,Unknown 586
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=587&type=hls
-
-#EXTINF:-1,Unknown 587
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=588&type=hls
-
-#EXTINF:-1,Unknown 588
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=589&type=hls
-
-#EXTINF:-1,Unknown 589
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=590&type=hls
-
-#EXTINF:-1,Unknown 590
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=591&type=hls
-
-#EXTINF:-1,Unknown 591
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=592&type=hls
-
-#EXTINF:-1,Unknown 592
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=593&type=hls
-
-#EXTINF:-1,Unknown 593
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=594&type=hls
-
-#EXTINF:-1,Unknown 594
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=595&type=hls
-
-#EXTINF:-1,Unknown 595
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=596&type=hls
-
-#EXTINF:-1,Unknown 596
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=597&type=hls
-
-#EXTINF:-1,Unknown 597
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=598&type=hls
-
-#EXTINF:-1,Unknown 598
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=599&type=hls
-
-#EXTINF:-1,Unknown 599
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=600&type=hls
-
-#EXTINF:-1,Unknown 600
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=601&type=hls
-
-#EXTINF:-1,Unknown 601
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=602&type=hls
-
-#EXTINF:-1,Unknown 602
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=603&type=hls
-
-#EXTINF:-1,Unknown 603
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=604&type=hls
-
-#EXTINF:-1,Unknown 604
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=605&type=hls
-
-#EXTINF:-1,Unknown 605
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=606&type=hls
-
-#EXTINF:-1,Unknown 606
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=607&type=hls
-
-#EXTINF:-1,Unknown 607
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=608&type=hls
-
-#EXTINF:-1,Unknown 608
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=609&type=hls
-
-#EXTINF:-1,Unknown 609
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=610&type=hls
-
-#EXTINF:-1,Unknown 610
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=611&type=hls
-
-#EXTINF:-1,Unknown 611
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=612&type=hls
-
-#EXTINF:-1,Unknown 612
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=613&type=hls
-
-#EXTINF:-1,Unknown 613
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=614&type=hls
-
-#EXTINF:-1,Unknown 614
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=615&type=hls
-
-#EXTINF:-1,Unknown 615
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=616&type=hls
-
-#EXTINF:-1,Unknown 616
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=617&type=hls
-
-#EXTINF:-1,Unknown 617
-https://kametv.my.id/pdx/play.m3u8?id=618&type=hls
-
-#EXTINF:-1,Unknown 618
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=619&type=hls
-
-#EXTINF:-1,Unknown 619
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=620&type=hls
-
-#EXTINF:-1,Unknown 620
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=621&type=hls
-
-#EXTINF:-1,Unknown 621
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=622&type=hls
-
-#EXTINF:-1,Unknown 622
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=623&type=hls
-
-#EXTINF:-1,Unknown 623
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=624&type=hls
-
-#EXTINF:-1,Unknown 624
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=625&type=hls
-
-#EXTINF:-1,Unknown 625
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=626&type=hls
-
-#EXTINF:-1,Unknown 626
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=627&type=hls
-
-#EXTINF:-1,Unknown 627
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=628&type=hls
-
-#EXTINF:-1,Unknown 628
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=629&type=hls
-
-#EXTINF:-1,Unknown 629
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=630&type=hls
-
-#EXTINF:-1,Unknown 630
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=631&type=hls
-
-#EXTINF:-1,Unknown 631
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=632&type=hls
-
-#EXTINF:-1,Unknown 632
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=633&type=hls
-
-#EXTINF:-1,Unknown 633
-https://kametv.my.id/pdx/play.m3u8?id=634&type=hls
-
-#EXTINF:-1,Unknown 634
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=635&type=hls
-
-#EXTINF:-1,Unknown 635
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=636&type=hls
-
-#EXTINF:-1,Unknown 636
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=637&type=hls
-
-#EXTINF:-1,Unknown 637
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=638&type=hls
-
-#EXTINF:-1,Unknown 638
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=639&type=hls
-
-#EXTINF:-1,Unknown 639
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=640&type=hls
-
-#EXTINF:-1,Unknown 640
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=641&type=hls
-
-#EXTINF:-1,Unknown 641
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=642&type=hls
-
-#EXTINF:-1,Unknown 642
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=643&type=hls
-
-#EXTINF:-1,Unknown 643
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=644&type=hls
-
-#EXTINF:-1,Unknown 644
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=645&type=hls
-
-#EXTINF:-1,Unknown 645
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=646&type=hls
-
-#EXTINF:-1,Unknown 646
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=647&type=hls
-
-#EXTINF:-1,Unknown 647
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=648&type=hls
-
-#EXTINF:-1,Unknown 648
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=649&type=hls
-
-#EXTINF:-1,Unknown 649
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=650&type=hls
-
-#EXTINF:-1,Unknown 650
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=651&type=hls
-
-#EXTINF:-1,Unknown 651
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=652&type=hls
-
-#EXTINF:-1,Unknown 652
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=653&type=hls
-
-#EXTINF:-1,Unknown 653
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=654&type=hls
-
-#EXTINF:-1,Unknown 654
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=655&type=hls
-
-#EXTINF:-1,Unknown 655
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=656&type=hls
-
-#EXTINF:-1,Unknown 656
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=657&type=hls
-
-#EXTINF:-1,Unknown 657
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=658&type=hls
-
-#EXTINF:-1,Unknown 658
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=659&type=hls
-
-#EXTINF:-1,Unknown 659
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=660&type=hls
-
-#EXTINF:-1,Unknown 660
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=661&type=hls
-
-#EXTINF:-1,Unknown 661
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=662&type=hls
-
-#EXTINF:-1,Unknown 662
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=663&type=hls
-
-#EXTINF:-1,Unknown 663
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=664&type=hls
-
-#EXTINF:-1,Unknown 664
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=665&type=hls
-
-#EXTINF:-1,Unknown 665
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=666&type=hls
-
-#EXTINF:-1,Unknown 666
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=667&type=hls
-
-#EXTINF:-1,Unknown 667
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=668&type=hls
-
-#EXTINF:-1,Unknown 668
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=669&type=hls
-
-#EXTINF:-1,Unknown 669
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=670&type=hls
-
-#EXTINF:-1,Unknown 670
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=671&type=hls
-
-#EXTINF:-1,Unknown 671
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=672&type=hls
-
-#EXTINF:-1,Unknown 672
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=673&type=hls
-
-#EXTINF:-1,Unknown 673
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=674&type=hls
-
-#EXTINF:-1,Unknown 674
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=675&type=hls
-
-#EXTINF:-1,Unknown 675
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=676&type=hls
-
-#EXTINF:-1,Unknown 676
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=677&type=hls
-
-#EXTINF:-1,Unknown 677
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=678&type=hls
-
-#EXTINF:-1,Unknown 678
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=679&type=hls
-
-#EXTINF:-1,Unknown 679
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=680&type=hls
-
-#EXTINF:-1,Unknown 680
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=681&type=hls
-
-#EXTINF:-1,Unknown 681
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=682&type=hls
-
-#EXTINF:-1,Unknown 682
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=683&type=hls
-
-#EXTINF:-1,Unknown 683
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=684&type=hls
-
-#EXTINF:-1,Unknown 684
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=685&type=hls
-
-#EXTINF:-1,Unknown 685
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=686&type=hls
-
-#EXTINF:-1,Unknown 686
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=687&type=hls
-
-#EXTINF:-1,Unknown 687
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=688&type=hls
-
-#EXTINF:-1,Unknown 688
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=689&type=hls
-
-#EXTINF:-1,Unknown 689
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=690&type=hls
-
-#EXTINF:-1,Unknown 690
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=691&type=hls
-
-#EXTINF:-1,Unknown 691
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=692&type=hls
-
-#EXTINF:-1,Unknown 692
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=693&type=hls
-
-#EXTINF:-1,Unknown 693
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=694&type=hls
-
-#EXTINF:-1,Unknown 694
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=695&type=hls
-
-#EXTINF:-1,Unknown 695
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=696&type=hls
-
-#EXTINF:-1,Unknown 696
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=697&type=hls
-
-#EXTINF:-1,Unknown 697
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=698&type=hls
-
-#EXTINF:-1,Unknown 698
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=699&type=hls
-
-#EXTINF:-1,Unknown 699
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=700&type=hls
-
-#EXTINF:-1,Unknown 700
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=701&type=hls
-
-#EXTINF:-1,Unknown 701
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=702&type=hls
-
-#EXTINF:-1,Unknown 702
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=703&type=hls
-
-#EXTINF:-1,Unknown 703
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=704&type=hls
-
-#EXTINF:-1,Unknown 704
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=705&type=hls
-
-#EXTINF:-1,Unknown 705
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=706&type=hls
-
-#EXTINF:-1,Unknown 706
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=707&type=hls
-
-#EXTINF:-1,Unknown 707
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=708&type=hls
-
-#EXTINF:-1,Unknown 708
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=709&type=hls
-
-#EXTINF:-1,Unknown 709
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=710&type=hls
-
-#EXTINF:-1,Unknown 710
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=711&type=hls
-
-#EXTINF:-1,Unknown 711
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=712&type=hls
-
-#EXTINF:-1,Unknown 712
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=713&type=hls
-
-#EXTINF:-1,Unknown 713
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=714&type=hls
-
-#EXTINF:-1,Unknown 714
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=715&type=hls
-
-#EXTINF:-1,Unknown 715
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=716&type=hls
-
-#EXTINF:-1,Unknown 716
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=717&type=hls
-
-#EXTINF:-1,Unknown 717
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=718&type=hls
-
-#EXTINF:-1,Unknown 718
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=719&type=hls
-
-#EXTINF:-1,Unknown 719
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=720&type=hls
-
-#EXTINF:-1,Unknown 720
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=721&type=hls
-
-#EXTINF:-1,Unknown 721
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=722&type=hls
-
-#EXTINF:-1,Unknown 722
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=723&type=hls
-
-#EXTINF:-1,Unknown 723
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=724&type=hls
-
-#EXTINF:-1,Unknown 724
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=725&type=hls
-
-#EXTINF:-1,Unknown 725
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=726&type=hls
-
-#EXTINF:-1,Unknown 726
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=727&type=hls
-
-#EXTINF:-1,Unknown 727
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=728&type=hls
-
-#EXTINF:-1,Unknown 728
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=729&type=hls
-
-#EXTINF:-1,Unknown 729
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=730&type=hls
-
-#EXTINF:-1,Unknown 730
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=731&type=hls
-
-#EXTINF:-1,Unknown 731
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=732&type=hls
-
-#EXTINF:-1,Unknown 732
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=733&type=hls
-
-#EXTINF:-1,Unknown 733
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=734&type=hls
-
-#EXTINF:-1,Unknown 734
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=735&type=hls
-
-#EXTINF:-1,Unknown 735
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=736&type=hls
-
-#EXTINF:-1,Unknown 736
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=737&type=hls
-
-#EXTINF:-1,Unknown 737
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=738&type=hls
-
-#EXTINF:-1,Unknown 738
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=739&type=hls
-
-#EXTINF:-1,Unknown 739
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=740&type=hls
-
-#EXTINF:-1,Unknown 740
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=741&type=hls
-
-#EXTINF:-1,Unknown 741
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=742&type=hls
-
-#EXTINF:-1,Unknown 742
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=743&type=hls
-
-#EXTINF:-1,Unknown 743
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=744&type=hls
-
-#EXTINF:-1,Unknown 744
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=745&type=hls
-
-#EXTINF:-1,Unknown 745
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=746&type=hls
-
-#EXTINF:-1,Unknown 746
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=747&type=hls
-
-#EXTINF:-1,Unknown 747
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=748&type=hls
-
-#EXTINF:-1,Unknown 748
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=749&type=hls
-
-#EXTINF:-1,Unknown 749
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=750&type=hls
-
-#EXTINF:-1,Unknown 750
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=751&type=hls
-
-#EXTINF:-1,Unknown 751
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=752&type=hls
-
-#EXTINF:-1,Unknown 752
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=753&type=hls
-
-#EXTINF:-1,Unknown 753
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=754&type=hls
-
-#EXTINF:-1,Unknown 754
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=755&type=hls
-
-#EXTINF:-1,Unknown 755
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=756&type=hls
-
-#EXTINF:-1,Unknown 756
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=757&type=hls
-
-#EXTINF:-1,Unknown 757
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=758&type=hls
-
-#EXTINF:-1,Unknown 758
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=759&type=hls
-
-#EXTINF:-1,Unknown 759
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=760&type=hls
-
-#EXTINF:-1,Unknown 760
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=761&type=hls
-
-#EXTINF:-1,Unknown 761
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=762&type=hls
-
-#EXTINF:-1,Unknown 762
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=763&type=hls
-
-#EXTINF:-1,Unknown 763
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=764&type=hls
-
-#EXTINF:-1,Unknown 764
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=765&type=hls
-
-#EXTINF:-1,Unknown 765
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=766&type=hls
-
-#EXTINF:-1,Unknown 766
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=767&type=hls
-
-#EXTINF:-1,Unknown 767
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=768&type=hls
-
-#EXTINF:-1,Unknown 768
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=769&type=hls
-
-#EXTINF:-1,Unknown 769
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=770&type=hls
-
-#EXTINF:-1,Unknown 770
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=771&type=hls
-
-#EXTINF:-1,Unknown 771
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=772&type=hls
-
-#EXTINF:-1,Unknown 772
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=773&type=hls
-
-#EXTINF:-1,Unknown 773
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=774&type=hls
-
-#EXTINF:-1,Unknown 774
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=775&type=hls
-
-#EXTINF:-1,Unknown 775
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=776&type=hls
-
-#EXTINF:-1,Unknown 776
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=777&type=hls
-
-#EXTINF:-1,Unknown 778
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=779&type=hls
-
-#EXTINF:-1,Unknown 779
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=780&type=hls
-
-#EXTINF:-1,Unknown 780
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=781&type=hls
-
-#EXTINF:-1,Unknown 781
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=782&type=hls
-
-#EXTINF:-1,Unknown 782
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=783&type=hls
-
-#EXTINF:-1,Unknown 783
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=784&type=hls
-
-#EXTINF:-1,Unknown 784
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=785&type=hls
-
-#EXTINF:-1,Unknown 785
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=786&type=hls
-
-#EXTINF:-1,Unknown 786
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=787&type=hls
-
-#EXTINF:-1,Unknown 787
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=788&type=hls
-
-#EXTINF:-1,Unknown 788
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=789&type=hls
-
-#EXTINF:-1,Unknown 789
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=790&type=hls
-
-#EXTINF:-1,Unknown 790
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=791&type=hls
-
-#EXTINF:-1,Unknown 791
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=792&type=hls
-
-#EXTINF:-1,Unknown 792
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=793&type=hls
-
-#EXTINF:-1,Unknown 793
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=794&type=hls
-
-#EXTINF:-1,Unknown 794
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=795&type=hls
-
-#EXTINF:-1,Unknown 795
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=796&type=hls
-
-#EXTINF:-1,Unknown 796
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=797&type=hls
-
-#EXTINF:-1,Unknown 797
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=798&type=hls
-
-#EXTINF:-1,Unknown 798
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=799&type=hls
-
-#EXTINF:-1,Unknown 799
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=800&type=hls
-
-#EXTINF:-1,Unknown 800
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=801&type=hls
-
-#EXTINF:-1,Unknown 801
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=802&type=hls
-
-#EXTINF:-1,Unknown 802
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=803&type=hls
-
-#EXTINF:-1,Unknown 803
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=804&type=hls
-
-#EXTINF:-1,Unknown 804
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=805&type=hls
-
-#EXTINF:-1,Unknown 805
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=806&type=hls
-
-#EXTINF:-1,Unknown 806
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=807&type=hls
-
-#EXTINF:-1,Unknown 807
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=808&type=hls
-
-#EXTINF:-1,Unknown 808
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=809&type=hls
-
-#EXTINF:-1,Unknown 809
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=810&type=hls
-
-#EXTINF:-1,Unknown 810
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=811&type=hls
-
-#EXTINF:-1,Unknown 811
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=812&type=hls
-
-#EXTINF:-1,Unknown 812
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=813&type=hls
-
-#EXTINF:-1,Unknown 813
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=814&type=hls
-
-#EXTINF:-1,Unknown 814
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=815&type=hls
-
-#EXTINF:-1,Unknown 815
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=816&type=hls
-
-#EXTINF:-1,Unknown 816
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=817&type=hls
-
-#EXTINF:-1,Unknown 817
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=818&type=hls
-
-#EXTINF:-1,Unknown 818
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=819&type=hls
-
-#EXTINF:-1,Unknown 819
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=820&type=hls
-
-#EXTINF:-1,Unknown 820
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=821&type=hls
-
-#EXTINF:-1,Unknown 821
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=822&type=hls
-
-#EXTINF:-1,Unknown 822
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=823&type=hls
-
-#EXTINF:-1,Unknown 823
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=824&type=hls
-
-#EXTINF:-1,Unknown 824
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=825&type=hls
-
-#EXTINF:-1,Unknown 825
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=826&type=hls
-
-#EXTINF:-1,Unknown 826
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=827&type=hls
-
-#EXTINF:-1,Unknown 827
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=828&type=hls
-
-#EXTINF:-1,Unknown 828
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=829&type=hls
-
-#EXTINF:-1,Unknown 829
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=830&type=hls
-
-#EXTINF:-1,Unknown 830
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=831&type=hls
-
-#EXTINF:-1,Unknown 831
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=832&type=hls
-
-#EXTINF:-1,Unknown 832
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=833&type=hls
-
-#EXTINF:-1,Unknown 833
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=834&type=hls
-
-#EXTINF:-1,Unknown 834
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=835&type=hls
-
-#EXTINF:-1,Unknown 835
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=836&type=hls
-
-#EXTINF:-1,Unknown 836
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=837&type=hls
-
-#EXTINF:-1,Unknown 837
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=838&type=hls
-
-#EXTINF:-1,Unknown 838
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=839&type=hls
-
-#EXTINF:-1,Unknown 839
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=840&type=hls
-
-#EXTINF:-1,Unknown 840
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=841&type=hls
-
-#EXTINF:-1,Unknown 841
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=842&type=hls
-
-#EXTINF:-1,Unknown 842
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=843&type=hls
-
-#EXTINF:-1,Unknown 843
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=844&type=hls
-
-#EXTINF:-1,Unknown 844
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=845&type=hls
-
-#EXTINF:-1,Unknown 845
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=846&type=hls
-
-#EXTINF:-1,Unknown 846
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=847&type=hls
-
-#EXTINF:-1,Unknown 847
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=848&type=hls
-
-#EXTINF:-1,Unknown 848
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=849&type=hls
-
-#EXTINF:-1,Unknown 849
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=850&type=hls
-
-#EXTINF:-1,Unknown 850
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=851&type=hls
-
-#EXTINF:-1,Unknown 851
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=852&type=hls
-
-#EXTINF:-1,Unknown 852
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=853&type=hls
-
-#EXTINF:-1,Unknown 853
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=854&type=hls
-
-#EXTINF:-1,Unknown 854
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=855&type=hls
-
-#EXTINF:-1,Unknown 855
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=856&type=hls
-
-#EXTINF:-1,Unknown 856
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=857&type=hls
-
-#EXTINF:-1,Unknown 857
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=858&type=hls
-
-#EXTINF:-1,Unknown 858
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=859&type=hls
-
-#EXTINF:-1,Unknown 859
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=860&type=hls
-
-#EXTINF:-1,Unknown 860
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=861&type=hls
-
-#EXTINF:-1,Unknown 861
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=862&type=hls
-
-#EXTINF:-1,Unknown 862
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=863&type=hls
-
-#EXTINF:-1,Unknown 863
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=864&type=hls
-
-#EXTINF:-1,Unknown 864
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=865&type=hls
-
-#EXTINF:-1,Unknown 865
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=866&type=hls
-
-#EXTINF:-1,Unknown 866
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=867&type=hls
-
-#EXTINF:-1,Unknown 867
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=868&type=hls
-
-#EXTINF:-1,Unknown 868
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=869&type=hls
-
-#EXTINF:-1,Unknown 869
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=870&type=hls
-
-#EXTINF:-1,Unknown 870
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=871&type=hls
-
-#EXTINF:-1,Unknown 871
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=872&type=hls
-
-#EXTINF:-1,Unknown 872
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=873&type=hls
-
-#EXTINF:-1,Unknown 873
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=874&type=hls
-
-#EXTINF:-1,Unknown 874
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=875&type=hls
-
-#EXTINF:-1,Unknown 875
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=876&type=hls
-
-#EXTINF:-1,Unknown 876
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=877&type=hls
-
-#EXTINF:-1,Unknown 877
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=878&type=hls
-
-#EXTINF:-1,Unknown 878
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=879&type=hls
-
-#EXTINF:-1,Unknown 879
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=880&type=hls
-
-#EXTINF:-1,Unknown 880
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=881&type=hls
-
-#EXTINF:-1,Unknown 881
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=882&type=hls
-
-#EXTINF:-1,Unknown 882
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=883&type=hls
-
-#EXTINF:-1,Unknown 883
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=884&type=hls
-
-#EXTINF:-1,Unknown 884
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=885&type=hls
-
-#EXTINF:-1,Unknown 885
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=886&type=hls
-
-#EXTINF:-1,Unknown 886
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=887&type=hls
-
-#EXTINF:-1,Unknown 887
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=888&type=hls
-
-#EXTINF:-1,Unknown 888
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=889&type=hls
-
-#EXTINF:-1,Unknown 889
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=890&type=hls
-
-#EXTINF:-1,Unknown 890
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=891&type=hls
-
-#EXTINF:-1,Unknown 891
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=892&type=hls
-
-#EXTINF:-1,Unknown 892
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=893&type=hls
-
-#EXTINF:-1,Unknown 893
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=894&type=hls
-
-#EXTINF:-1,Unknown 894
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=895&type=hls
-
-#EXTINF:-1,Unknown 895
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=896&type=hls
-
-#EXTINF:-1,Unknown 896
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=897&type=hls
-
-#EXTINF:-1,Unknown 897
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=898&type=hls
-
-#EXTINF:-1,Unknown 898
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=899&type=hls
-
-#EXTINF:-1,Unknown 899
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=900&type=hls
-
-#EXTINF:-1,Unknown 900
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=901&type=hls
-
-#EXTINF:-1,Unknown 901
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=902&type=hls
-
-#EXTINF:-1,Unknown 902
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=903&type=hls
-
-#EXTINF:-1,Unknown 903
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=904&type=hls
-
-#EXTINF:-1,Unknown 904
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=905&type=hls
-
-#EXTINF:-1,Unknown 905
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=906&type=hls
-
-#EXTINF:-1,Unknown 906
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=907&type=hls
-
-#EXTINF:-1,Unknown 907
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=908&type=hls
-
-#EXTINF:-1,Unknown 908
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=909&type=hls
-
-#EXTINF:-1,Unknown 909
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=910&type=hls
-
-#EXTINF:-1,Unknown 910
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=911&type=hls
-
-#EXTINF:-1,Unknown 911
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=912&type=hls
-
-#EXTINF:-1,Unknown 912
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=913&type=hls
-
-#EXTINF:-1,Unknown 913
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=914&type=hls
-
-#EXTINF:-1,Unknown 914
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=915&type=hls
-
-#EXTINF:-1,Unknown 915
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=916&type=hls
-
-#EXTINF:-1,Unknown 916
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=917&type=hls
-
-#EXTINF:-1,Unknown 917
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=918&type=hls
-
-#EXTINF:-1,Unknown 918
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=919&type=hls
-
-#EXTINF:-1,Unknown 919
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=920&type=hls
-
-#EXTINF:-1,Unknown 920
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=921&type=hls
-
-#EXTINF:-1,Unknown 921
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=922&type=hls
-
-#EXTINF:-1,Unknown 922
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=923&type=hls
-
-#EXTINF:-1,Unknown 923
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=924&type=hls
-
-#EXTINF:-1,Unknown 924
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=925&type=hls
-
-#EXTINF:-1,Unknown 925
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=926&type=hls
-
-#EXTINF:-1,Unknown 926
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=927&type=hls
-
-#EXTINF:-1,Unknown 927
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=928&type=hls
-
-#EXTINF:-1,Unknown 928
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=929&type=hls
-
-#EXTINF:-1,Unknown 929
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=930&type=hls
-
-#EXTINF:-1,Unknown 930
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=931&type=hls
-
-#EXTINF:-1,Unknown 931
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=932&type=hls
-
-#EXTINF:-1,Unknown 932
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=933&type=hls
-
-#EXTINF:-1,Unknown 933
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=934&type=hls
-
-#EXTINF:-1,Unknown 934
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=935&type=hls
-
-#EXTINF:-1,Unknown 935
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=936&type=hls
-
-#EXTINF:-1,Unknown 936
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=937&type=hls
-
-#EXTINF:-1,Unknown 937
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=938&type=hls
-
-#EXTINF:-1,Unknown 938
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=939&type=hls
-
-#EXTINF:-1,Unknown 939
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=940&type=hls
-
-#EXTINF:-1,Unknown 940
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=941&type=hls
-
-#EXTINF:-1,Unknown 941
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=942&type=hls
-
-#EXTINF:-1,Unknown 942
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=943&type=hls
-
-#EXTINF:-1,Unknown 943
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=944&type=hls
-
-#EXTINF:-1,Unknown 944
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=945&type=hls
-
-#EXTINF:-1,Unknown 945
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=946&type=hls
-
-#EXTINF:-1,Unknown 946
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=947&type=hls
-
-#EXTINF:-1,Unknown 947
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=948&type=hls
-
-#EXTINF:-1,Unknown 948
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=949&type=hls
-
-#EXTINF:-1,Unknown 949
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=950&type=hls
-
-#EXTINF:-1,Unknown 950
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=951&type=hls
-
-#EXTINF:-1,Unknown 951
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=952&type=hls
-
-#EXTINF:-1,Unknown 952
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=953&type=hls
-
-#EXTINF:-1,Unknown 953
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=954&type=hls
-
-#EXTINF:-1,Unknown 954
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=955&type=hls
-
-#EXTINF:-1,Unknown 955
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=956&type=hls
-
-#EXTINF:-1,Unknown 956
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=957&type=hls
-
-#EXTINF:-1,Unknown 957
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=958&type=hls
-
-#EXTINF:-1,Unknown 958
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=959&type=hls
-
-#EXTINF:-1,Unknown 959
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=960&type=hls
-
-#EXTINF:-1,Unknown 960
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=961&type=hls
-
-#EXTINF:-1,Unknown 961
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=962&type=hls
-
-#EXTINF:-1,Unknown 962
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=963&type=hls
-
-#EXTINF:-1,Unknown 963
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=964&type=hls
-
-#EXTINF:-1,Unknown 964
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=965&type=hls
-
-#EXTINF:-1,Unknown 965
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=966&type=hls
-
-#EXTINF:-1,Unknown 966
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=967&type=hls
-
-#EXTINF:-1,Unknown 967
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=968&type=hls
-
-#EXTINF:-1,Unknown 968
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=969&type=hls
-
-#EXTINF:-1,Unknown 969
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=970&type=hls
-
-#EXTINF:-1,Unknown 970
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=971&type=hls
-
-#EXTINF:-1,Unknown 971
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=972&type=hls
-
-#EXTINF:-1,Unknown 972
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=973&type=hls
-
-#EXTINF:-1,Unknown 973
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=974&type=hls
-
-#EXTINF:-1,Unknown 974
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=975&type=hls
-
-#EXTINF:-1,Unknown 975
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=976&type=hls
-
-#EXTINF:-1,Unknown 976
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=977&type=hls
-
-#EXTINF:-1,Unknown 977
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=978&type=hls
-
-#EXTINF:-1,Unknown 978
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=979&type=hls
-
-#EXTINF:-1,Unknown 979
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=980&type=hls
-
-#EXTINF:-1,Unknown 980
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=981&type=hls
-
-#EXTINF:-1,Unknown 981
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=982&type=hls
-
-#EXTINF:-1,Unknown 982
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=983&type=hls
-
-#EXTINF:-1,Unknown 983
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=984&type=hls
-
-#EXTINF:-1,Unknown 984
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=985&type=hls
-
-#EXTINF:-1,Unknown 985
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=986&type=hls
-
-#EXTINF:-1,Unknown 986
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=987&type=hls
-
-#EXTINF:-1,Unknown 987
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=988&type=hls
-
-#EXTINF:-1,Unknown 988
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=989&type=hls
-
-#EXTINF:-1,Unknown 989
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=990&type=hls
-
-#EXTINF:-1,Unknown 990
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=991&type=hls
-
-#EXTINF:-1,Unknown 991
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=992&type=hls
-
-#EXTINF:-1,Unknown 992
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=993&type=hls
-
-#EXTINF:-1,Unknown 993
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=994&type=hls
-
-#EXTINF:-1,Unknown 994
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=995&type=hls
-
-#EXTINF:-1,Unknown 995
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=996&type=hls
-
-#EXTINF:-1,Unknown 996
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=997&type=hls
-
-#EXTINF:-1,Unknown 997
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://kametv.my.id/pdx/play.m3u8?id=998&type=hls
+#EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-chno="81" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/SoccerCh-Chl-81.jpg",Soccer Channel
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fulQaxNIBJHXm3HAYqtTZg", "kid":"TTgGC/QbPCnfDslQ7Oa12g" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-id="SPOTV" tvg-chno="82" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/SPOTV-Chl-82.jpg",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IT9Di9SWHNqYfUG38VTx5Q", "kid":"5g7Ojw2QQvy1JQgFXsSOXg" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2" tvg-chno="83" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/SPOTV2-Chl-83.jpg",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O8bEVyLrX6ezQ96b_8T3xw", "kid":"5u0_326fSR2erRCfwLAM_A" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars.id" tvg-chno="84" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/Sportstars-Chl-84.jpg",Sportstars
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"12nZriOL3UJPi83NyaOAHw", "kid":"UxxtUOPp+bpmRG9iT0kiiQ" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars.2.id" tvg-chno="85" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/Sportstars2-Chl-85.jpg",Sportstars 2
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hD4iirEJ6apsSCLuStBdfQ", "kid":"Rf7JHOHxm2sfMdadz6r2zQ" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars.3.id" tvg-chno="86" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/Sportstars3-Chl-86.jpg",Sportstars 3
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9n_wjH68d59qb8_IODX2Ww", "kid":"-t0nIN7_WSWrht8IGc13dQ" } ], "type":"temporary" }
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-chno="12" group-title="Sports" tvg-logo="https://alzizz.github.io/logos/TVRISport-Chl-12.jpg",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+      </p>
+    </div>
+  </body>
+</html>
