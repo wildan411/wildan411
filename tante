@@ -403,7 +403,7 @@ https://raw.githubusercontent.com/eepunx/cancan/main/sc
 
 #EXTINF:-1 tvg-id="SCTV" tvg-chno="20" group-title="Lokal🇮🇩" tvg-logo="https://alzizz.github.io/logos/SCTV-Chl-20.jpg",SCTV (VIDIO)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://kametv.my.id/pdx/play.m3u8?id=204&type=hls
+https://surf.openwindows038.workers.dev/play.m3u8?id=204&type=hls
 
 #EXTINF:-1 group-title="Lokal🇮🇩" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV INDIHOME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -419,13 +419,13 @@ http://tv.zonanime.my.id/vidio/indosiar.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=205&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=205&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-chno="17" group-title="Lokal🇮🇩" tvg-logo="https://alzizz.github.io/logos/Indosiar-Chl-17.jpg",Indosiar2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DrK-tWM_jjXK-rRa89Id4A", "kid":"aotlyDA2Mp5xhbnNjL3uKQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://bimasakti.serv00.net/red/play.mpd?id=205&type=dash
+#https://bimasakti.serv00.net/red/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Lokal🇮🇩",Indosiar (dens)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
