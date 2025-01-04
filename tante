@@ -1080,38 +1080,21 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cf0b533f
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO +
-http://tv.amplista.com/live/gamaliel/2019/36963.ts
 #http://mantul.biz.id:8888/aruba/aruba/1.ts
 
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO
-http://tv.amplista.com/live/gamaliel/2019/36964.ts
-
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO2
-http://tv.amplista.com/live/gamaliel/2019/36966.ts
-
-#EXTINF:-1 group-title="Premium Movies" tvg-id="hbofamilyasia.sg" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO Family 
-http://tv.amplista.com/live/gamaliel/2019/36965.ts
-
-#EXTINF:-1 group-title="Premium Movies" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png",CINEMAX U
-http://tv.amplista.com/live/gamaliel/2019/36926.ts
-
 #EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="Premium Movies",HBO Hits
-http://tv.amplista.com/live/gamaliel/2019/36912.ts
 #http://mantul.biz.id:8888/aruba/aruba/3.ts
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="hbofamilyasia.sg" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO action
-http://tv.amplista.com/live/gamaliel/2019/36918.ts
+#EXTINF:-1 group-title="Premium Movies" tvg-id="hbofamilyasia.sg" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO Family
 #http://mantul.biz.id:8888/aruba/aruba/5.ts
 
 #EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature
-http://tv.amplista.com/live/gamaliel/2019/36962.ts
 #http://mantul.biz.id:8888/aruba/aruba/1019.ts
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax 
 #http://mantul.biz.id:8888/aruba/aruba/89.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://mantul.biz.id:8888/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj6CSIIfkL9aFviMkNoBon-4.png" group-title="Premium Movies",Warner TV
-http://tv.amplista.com/live/gamaliel/2019/36930.ts
 #http://mantul.biz.id:8888/aruba/aruba/49.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1131,12 +1114,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_
 
 #EXTINF:0 tvg-id="FLIKID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_RshNZ-RVYw2fxklkd-uy2qI3XIra1dFJA&usqp=CAU" group-title="Premium Movies",FLIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://mantul.biz.id:8888/aruba/aruba/223.ts
+#http://mantul.biz.id:8888/aruba/aruba/223.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/endrisusilo/endro/blob/main/flik.jpg?raw=true" group-title="Premium Movies",FLIK (indihome)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+#https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="",bioskop indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 
