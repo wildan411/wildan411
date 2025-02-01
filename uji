@@ -1694,7 +1694,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17938&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
 #EXTINF:-1 tvg-id="CTV.2.id" tvg-chno="77" group-title="🇮🇩CHAMPION TV🇮🇩" tvg-logo="https://alzizz.github.io/logos/ChampionsTV2-Chl-77.jpg",Champions TV 2a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1726,14 +1726,14 @@ https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hFudkc77cFMDgOh0nY3CAQ", "kid":"evfArDx3R4vpcSv8Dw0otA" } ], "type":"temporary" } 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://bimasakti.serv00.net/red/play.mpd?id=9182&type=dash
+#https://bimasakti.serv00.net/red/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="CTV.5.id" tvg-chno="79" group-title="🇮🇩CHAMPION TV🇮🇩" tvg-logo="https://alzizz.github.io/logos/ChampionsTV5-Chl-79.jpg",Champions TV 5b
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9182&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="CTV.6.id" tvg-chno="80" group-title="🇮🇩CHAMPION TV🇮🇩" tvg-logo="https://alzizz.github.io/logos/ChampionsTV6-Chl-80.jpg",Champions TV 6a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1746,7 +1746,7 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9183&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+#https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-chno="87" group-title="🇮🇩CHAMPION TV🇮🇩" tvg-logo="https://alzizz.github.io/logos/PLTV-Chl-83.jpg",Premier League TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1765,7 +1765,7 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9353&type=drm 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
-https://sritv.serv00.net/red/play.mpd?id=9353&type=dash
+#https://sritv.serv00.net/red/play.mpd?id=9353&type=dash
 
 #EXTINF:-1 tvg-id="beIN Sports 1" tvg-chno="71" group-title="🇮🇩CHAMPION TV🇮🇩" tvg-logo="https://alzizz.github.io/logos/beIN1-Chl-71.jpg",BeIN Sports 1 (VIDIO)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
