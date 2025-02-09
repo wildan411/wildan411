@@ -243,14 +243,15 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/f08e/6l6af1rwpp2g8fk5g.jpg" group-title="SPORTS" tvg-id="MNCSport.id" ch-number="36" tvg-name="SPORTSTARS",SPORTSTARS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
  
 == SPORTSTARS 2 ==
 #EXTINF:0 tvg-logo="https://www.mediafire.com/convkey/b439/80ob1d7pm6j2tw05g.jpg" group-title="SPORTS" tvg-id="MNCSport.id" ch-number="37" tvg-name="SPORTSTARS 2",SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+
 #EXTINF:0 tvg-logo="https://www.mediafire.com/convkey/b439/80ob1d7pm6j2tw05g.jpg" group-title="SPORTS" tvg-id="MNCSport.id" ch-number="38" tvg-name="SPORTSTARS 2",SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -261,7 +262,12 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://www.visionplus.id/
- 
+
+#EXTINF:0 tvg-logo="https://www.mediafire.com/convkey/d5b5/7tikqtl2sg7sj7v5g.jpg" group-title="SPORTS" tvg-id="MNCSport.id" ch-number="39" tvg-name="SPORTSTARS 3",SPORTSTARS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://d2abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
 == BRI LIGA 1 ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/19fc/2r6zl1b2ns7j3ft5g.jpg", group-title="SPORTS" tvg-id="Indosiar.id" ch-number="40" tvg-name="INDOSIAR",BRI LIGA 1 (live only)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 13; Mobile; rv:130.0) Gecko/130.0 Firefox/130.0
