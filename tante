@@ -649,7 +649,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #https://www.mnctv.com/
-#EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="🇮🇩 NASIONAL 2",INEWS (R+) 
+#EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="Indonesia Channels",INEWS (R+) 
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
@@ -2082,6 +2082,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="SonySports",SONY SPORTS TEN 5
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=487335&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="SonySports",SONY TEN 5
+http://humsab.xyz/S_Ten5/index.m3u8
+
 
 #EXTINF:-1 group-title="SSC Sports", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
