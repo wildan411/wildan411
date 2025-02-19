@@ -1468,22 +1468,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefami
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HIBURAN"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLOa4vtcn2Q30IKYU2csQUUnLoSF1on2CJpydscy5yQ&s",Watch Mojo TV
 https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",Action
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",Fantasy
-http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",Documentary
-http://epg.112114.xyz/douyu/4505431
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",Drama action
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",China movie
-http://epg.112114.xyz/douyu/276200
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",Fantasy action
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",Gmovies
-http://epg.112114.xyz/douyu/6140589
-
-
 <================ Korean Channels ===================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1875,6 +1859,20 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Go3 Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Go3_Sport_1_Logo_2023.svg/1200px-Go3_Sport_1_Logo_2023.svg.png" group-title="GO SPORT PREMIUM",GO3 SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="Go3 Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EKM0emv880CpzdZ7dsW0O9tbDfbg2HtFnHVeVUlufdbbuoPDn89TGyPj&s=10" group-title="GO SPORT PREMIUM",GO3 SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="Go3 Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh24NI_yYskz6oAYoodyst3sERU5l2ny80ZNIEVyplFXkNPfWCGyyB15Q2&s=10" group-title="GO SPORT PREMIUM",GO3 SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
 
 <============================ NATIONAL SPORTS ========================>
 #EXTINF:-1 tvg-id="beIN Sports 1 HD - [Channel 417].id" tvg-logo="https://iili.io/JhkLZXa.png" group-title="NATIONAL SPORTS",beIN Sports 1 Indonesia
@@ -1907,6 +1905,31 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 3
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/903
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 4
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 5 
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 6
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 7
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/Qk3G5k3/eurosp1.png" group-title="NATIONAL SPORTS", EUROSPORT 1 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
+https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/ZcRh80Q/eurosp2.png" group-title="NATIONAL SPORTS", EUROSPORT 2 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport FR 1" tvg-logo="http://mantul.biz.id:8888/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumtUh8MmWAedQfcIdEU5vK1F1ULHYQdmcX8C0A8iHv9puA.png" group-title="BeinSport",Bein Sport FR 1
 http://mantul.biz.id:8888/inetwork/gayanet12/4638.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport FR 2" tvg-logo="http://mantul.biz.id:8888/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwI1etnuvUv0GQGfMeVM0s2PI4OV3-5_GBFmZCb7ep-6Yw.png" group-title="BeinSport",Bein Sport FR 2
@@ -1927,9 +1950,36 @@ http://mantul.biz.id:8888/inetwork/gayanet12/5284.ts
 #EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-name="TR: beIN Sports Haber" tvg-logo="" group-title="BeinSport",TR: beIN Sports Haber
 http://mantul.biz.id:8888/inetwork/gayanet12/10702.ts
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="" group-title="ESPORTES",ESPN  4K
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/130
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="" group-title="ESPORTES",ESPN  HD
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/131
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="ESPORTES",ESPN 2 4K
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/129
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="ESPORTES",ESPN 2 HD
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/135
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 4K
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/127
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 HD
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/126
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 4K
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/142
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HD
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/143
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HDR" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HDR
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/899
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 4K" tvg-logo="" group-title="ESPORTES",ESPN 6 4K
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/133
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="" group-title="ESPORTES",ESPN 6 HD
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/134
+
 <============================ Sports ========================>
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="Sports",TVRI SPORT HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title="Sports",UNIFI SPORTS 🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="Sports",TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
