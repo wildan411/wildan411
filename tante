@@ -5,11 +5,7 @@
 #https://av-cdn.rakuda.online/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8.m3u8
 
 
-#EXTINF:-1 tvg-name="" group-title="test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2gYcj58UvJ7jKc7lvxJZp_8QUR5WAACYbVBdMvBwW7K3nOza0apMf0wd&s=10", vsport+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d5d9e0bb2cd4cd8954a894fd4377b6f:8c08b699ff6bff8e34ac518b334bafc2
-https://d1d2sbhidw0n3y.cloudfront.net/out/v1/00f8003079de4928bca50fe7c346b6ab/index.mpd
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmRH7-hi_LQG7HBTXjL_BsovX7TwNrrkigA&usqp=CAU" group-title="timnas",timnas3
@@ -299,41 +295,24 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="NATIONAL SPORTS",INDOSIAR LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="NATIONAL SPORTS",LIVE 3 
-#EXTVLCOPT:http-referrer=https://m.vidio.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-
-#EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png", LIVE4
-#KODIPROP:inputstream.adaptive.license_type=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="NATIONAL SPORTS",Champions TV 1 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=#https://video.jasoncreak8.workers.dev/play?id=17938&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash 
+#https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash 
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818" group-title="NATIONAL SPORTS",Champions TV 2 *
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6686&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash 
+#https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="NATIONAL SPORTS",Champions TV 3 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6786&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash 
+#https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash 
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="NATIONAL SPORTS",Champions TV 5 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -341,7 +320,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
+$https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="NATIONAL SPORTS",Champions TV 6 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -349,7 +328,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm 
-https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash 
+$https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash 
 
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-name="TV Sports" tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png", SPOTV HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -367,7 +346,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="NATIONAL SPORTS",SPOTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -380,7 +359,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#https://cempedak-cdn-fly.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8dfFQjx/Untitled-1-30.png" group-title="NATIONAL SPORTS",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -406,7 +385,13 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-H
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-name="" group-title="test" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-m.png",Sportstars 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d5d9e0bb2cd4cd8954a894fd4377b6f:8c08b699ff6bff8e34ac518b334bafc2
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/00f8003079de4928bca50fe7c346b6ab/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-m.png" group-title="NATIONAL SPORTS", SPORTSTAR 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
