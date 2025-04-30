@@ -254,14 +254,6 @@
 
 
 
-#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="Knowled",Outdor
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb543d1d7d6c648b92d43e64d6ef49a9f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad96ea7af1c56953145f5964298d415ee80d10a83408674a7099c93a5ddce41d6d4947ea102b7635f0a7a28cc8129c7fbaad7b0ef01e14e7652242e7da4c8a3f647308f575355f6fad8cd0a9571efba554ae4aad97afc6e97398b11c0614a5949d2c995de45407bd4aca5898cc397c2daae4f569f6ff8ade59f37145c6a1c0a24ea4ceb58520882f2dd1d8ac010d6b925c597681039d2984b9e8ef2b0faa2c72cf6419e93a4c86f032631753f8bf83c48369009a4abc4dfdfcaf77364e7f174d78fd8111d63418f8c5feeb47ad3c6a68cc50737c661540fa63099133265c230636bf66dd7ae7c3dd9685ade750af25663d419bca07aa1ee9bc4162bb9dbf047fd44e6a14587a555e73e6a194a98da187269003ddce76d08705ec646efdc83a1540112e3fac8b191016e4969590242dba2d4719d8fd220524392046833225032920399388d56075060995083de7c1eef312823e2a8284e1a3dc6bad6afb3969b14fb2fa980975002325a71b2200a207aa1dfa050fe2a446d755b94750a66b9005f02a7d5feec978461d98f26cd1c670768d1ff074b6a032a3112fa700961895a407b5d03d82b043f321022390edfbbd9c880/192/1920x1080_5287612/index.m3u8
-
-#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="Knowled",Discovery scane
-https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="Knowled",animal planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="TV DIGITAL",Moji
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
@@ -414,6 +406,221 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
 
+
+#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="HBO GROUP",HBO
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="HBO GROUP",HBO Hits
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="HBO GROUP",HBO Family Asia
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="HBO GROUP",HBO Signature
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="HBO GROUP",CINEMAX HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/2156
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png", HBO Fhilipina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png", HBO HITS Fhilipina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png", HBO FAMILY Fhilipina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png", HBO SIGNATURE Fhilipina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png", CINEMAX Fhilipina
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIES" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/03/30/573f546f-9605-45d1-8596-e2d7dda3253f_43.jpg?w=600&q=90",FLIK 
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165095
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",ID: ETV BIOSKOP 01
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",ID: ETV BIOSKOP 02
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",ID: ETV BIOSKOP 03
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",ID: ETV BIOSKOP 04
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951",Citra Dangdut
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="MOVIES",Citra Entertainment
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-id="44" tvg-logo="https://www.dens.tv/images/channel-logo/44.jpg" group-title="MOVIES", ROCK Action
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
+
+#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 78].id" tvg-name="Rock Entertainment" tvg-logo="http://guki.my.id/logo/movie/rockenter.png" group-title="MOVIES", Rock Entertainment
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-logo="https://www.dens.tv/images/channel-logo/49.jpg" group-title="MOVIES", KIX HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+
+#EXTINF:-1 tvg-id="100" tvg-logo="https://www.dens.tv/images/channel-logo/100.jpg" group-title="MOVIES", K-PLUS HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
+
+#EXTINF:-1 tvg-id="59" tvg-logo="https://www.dens.tv/images/channel-logo/59.jpg" group-title="MOVIES", tvN HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
+
+#EXTINF:-1 tvg-id="58" tvg-logo="https://www.dens.tv/images/channel-logo/58.jpg" group-title="MOVIES", tvN Movies HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" group-title="MOVIES", Celestial Movies HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
+
+#EXTINF:-1 tvg-id="110" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg" group-title="MOVIES", CCM (Celestial Classic MV)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
+
+#EXTINF:-1 tvg-id="109" tvg-logo="https://www.dens.tv/images/channel-logo/109.jpg" group-title="MOVIES", My Cinema Asia
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+
+#EXTINF:-1 tvg-id="55" tvg-logo="https://www.dens.tv/images/channel-logo/55.jpg" group-title="MOVIES", Thrill
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
+
+#EXTINF:-1 tvg-id="92" tvg-logo="https://www.dens.tv/images/channel-logo/92.jpg" group-title="MOVIES", My Cinema Europe HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://www.dens.tv/images/channel-logo/114.jpg" group-title="MOVIES", My Family Channel
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES",Moviesphere Free
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/airtel_movies3.png" group-title="MOVIES",SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=fb2e94da77630d22a5714ae79b923f1c&server=v2.catcast.tv
+https://d1ku2wsea2oun8.cloudfront.net/playlist720p.m3u8
+
+
+=========KNOWLEDGE==========
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="KNOWLEDGE",Dens Learning & Knowledge
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="KNOWLEDGE",History HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+
+#EXTINF:-1 tvg-url="" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="KNOWLEDGE",HGTV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="KNOWLEDGE",Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="KNOWLEDGE" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="KNOWLEDGE",Discovery Channel 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="KNOWLEDGE",Discovery Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="KNOWLEDGE" tvg-id="" tvg-name="", Outdoor Channel
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb543d1d7d6c648b92d43e64d6ef49a9f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7454db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad96ea7af1c56953145f5964298d415ee80d10a83408674a7099c93a5ddce41d6d4947ea102b7635f0a7a28cc8129c7fbaad7b0ef01e14e7652242e7da4c8a3f647308f575355f6fad8cd0a9571efba554ae4aad97afc6e97398b11c0614a5949d2c995de45407bd4aca5898cc397c2daae4f569f6ff8ade59f37145c6a1c0a24ea4ceb58520882f2dd1d8ac010d6b925c597681039d2984b9e8ef2b0faa2c72cf6419e93a4c86f032631753f8bf83c48369009a4abc4dfdfcaf77364e7f174d78fd8111d63418f8c5feeb47ad3c6a68cc50737c661540fa63099133265c230636bf66dd7ae7c3dd9685ade750af25663d419bca07aa1ee9bc4162bb9dbf047fd44e6a14587a555e73e6a194a98da187269003ddce76d08705ec646efdc83a1540112e3fac8b191016e4969590242dba2d4719d8fd220524392046833225032920399388d56075060995083de7c1eef312823e2a8284e1a3dc6bad6afb3969b14fb2fa980975002325a71b2200a207aa1dfa050fe2a446d755b94750a66b9005f02a7d5feec978461d98f26cd1c670768d1ff074b6a032a3112fa700961895a407b5d03d82b043f321022390edfbbd9c880/192/1920x1080_5287612/index.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD - [Channel 463].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="KNOWLEDGE",Love Nature
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png",Crime Investigation
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
+
+#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="Knowled",Discovery scane
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="Knowled",animal planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
 
 =====================================================================================================
