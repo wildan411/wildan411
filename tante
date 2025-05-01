@@ -267,25 +267,40 @@
 
 #☯☯ || FTA LOKAL CHANNELS || ☯☯
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="National",RCTI (V+)
+http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+
 #EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="1" tvg-logo="https://static.mncnow.id/images/channel/e8b7a6a8/f009.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="National",MNCTV (V+)
+http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="2" tvg-logo="https://static.mncnow.id/images/channel/c121c900/d11c.png",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="National",GTV (V+)
+http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
 #EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="3" tvg-logo="https://static.mncnow.id/images/channel/9436da00/11fe.png",GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="National",Inews (V+)
+http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
 #EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="4" tvg-logo="https://static.mncnow.id/images/channel/0a37b838/4414.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="National",Sindonews (V+)
+http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 #EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="5" tvg-logo="https://static.mncnow.id/images/channel/b9736293/4569.png",MNC News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,6 +316,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="FTA Lokal",SCTV DIGITAL
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="National",TVONE (V+)
+http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="FTA Lokal", INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -356,6 +374,18 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 https://dsgtq5sngxkde.cloudfront.net/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="National",Kompas TV (V+)
+http://202.147.193.244/live/eds/KompasTV/sa_dash/KompasTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png" group-title="National",MDTV (V+)
+http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="National",Antv (V+)
+http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="National",RTV (V+)
+http://202.147.193.244/live/eds/RTV/sa_dash/RTV.mpd
 
 #EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="13" tvg-logo="https://static.mncnow.id/images/channel/c125ffa6/d442.png",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -941,7 +971,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-title="SSC Sport Sport" tvg-id="SSC 2" tvg-logo="http://guki.my.id/logo/sports/sc2.jpg",SSC 2
+#EXTINF:-1 group-title="SSC Sport" tvg-id="SSC 2" tvg-logo="http://guki.my.id/logo/sports/sc2.jpg",SSC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
