@@ -265,6 +265,58 @@
 
 #EXTM3U url-tvg="https://epg.kampung.xyz/IPTV.xml"
 
+
+
+#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="Daftar", MIC
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png" group-title="MyRepublic",MTV Live (V+)
+http://202.147.193.244/live/eds/MTV/sa_dash/MTV.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/669/669-LOGO-m.png" group-title="083152323277",MTV 90s (V+)
+http://202.147.193.244/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="National",RCTI (V+)
+http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="National",GTV (V+)
+http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="National",MNCTV (V+)
+http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="National",Inews (V+)
+http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="National",Sindonews (V+)
+http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="National",Metro TV (V+) 
+http://202.147.193.244/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="National",TVONE (V+)
+http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="National",Kompas TV (V+)
+http://202.147.193.244/live/eds/KompasTV/sa_dash/KompasTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="National",Metro TV (V+) 
+http://202.147.193.244/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="National",TVONE (V+)
+http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="National",Kompas TV (V+)
+http://202.147.193.244/live/eds/KompasTV/sa_dash/KompasTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png" group-title="National",MDTV (V+)
+http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="National",Antv (V+)
+http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="National",RTV (V+)
+http://202.147.193.244/live/eds/RTV/sa_dash/RTV.mpd
+
+
 #☯☯ || FTA LOKAL CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="1" tvg-logo="https://static.mncnow.id/images/channel/e8b7a6a8/f009.png",RCTI
@@ -728,13 +780,24 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 #☯☯ || MOVIES CHANNELS || ☯☯
 
 #EXTINF:-1 group-title="Movies" group-logo="https://dl.dropboxusercontent.com/scl/fi/jploy4nk8ptg2piu0ma1f/movies-channel.png?rlkey=9tkfwm9pdo8dkwfusjuycaj7j" ch-number="50" tvg-logo="https://static.mncnow.id/images/channel/744ecff1/e339.png",IMC
+http://202.147.193.244/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Movies",astro BOO
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/37457
+
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Movies" tvg-logo="https://pictr.com/images/2025/02/02/xGxoGq.jpg",Syfy (DDY)
+https://zekonew.newkso.ru/zeko/premium373/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Movies" tvg-logo="https://pictr.com/images/2025/02/02/xGxoGq.jpg",Syfy
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+http://45.159.93.14:8080/live/144264/661943/22946.ts
+https://aseanic.github.io/hls/119.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1258,6 +1321,7 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sport",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
