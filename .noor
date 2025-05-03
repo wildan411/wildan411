@@ -1,30 +1,9 @@
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png" group-title="National1",RCTI+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png" group-title="National1",RCTI OKE
 #https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="National1",MNC TV (R+) 
-#EXTVLCOPT:http-user-agent=android-R+ 
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="National1",MNCTV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="National1",GTV+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-#EXTINF:0 CUID="15" tvg-name="INewsTV" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png" group-title="National1",INewsTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="TvONE" tvg-name="Tvone" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="National1", TVONE 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1621,14 +1600,14 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/refs/heads/B-
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Eropa/refs/heads/B-inal22/SportTV6.m3u8
 
 
-#EXTINF:-1 tvg-id="145" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Philippines",Cinema One Global
+#EXTINF:-1 tvg-id="145" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Philippine Channels",Cinema One Global
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
-#EXTINF:-1 tvg-id="144" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="Philippines",TFC ASIA
+#EXTINF:-1 tvg-id="144" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="Philippine Channels",TFC ASIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1639,93 +1618,93 @@ https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
-#EXTINF:-1 tvg-id="tfceurope" tvg-logo="https://i.ibb.co/DQJZMV1/85604140bc3167780da75560608e7a26-removebg-preview.png" group-title="Philippines",TFC EUROPE
+#EXTINF:-1 tvg-id="tfceurope" tvg-logo="https://i.ibb.co/DQJZMV1/85604140bc3167780da75560608e7a26-removebg-preview.png" group-title="Philippine Channels",TFC EUROPE
 https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
-#EXTINF:-1 tvg-id="tfccanada" tvg-logo="https://i.ibb.co/RPFXz4Y/Welcome-to-i-Want-TFC-Hero5-removebg-preview.png" group-title="Philippines",TFC CANADA
+#EXTINF:-1 tvg-id="tfccanada" tvg-logo="https://i.ibb.co/RPFXz4Y/Welcome-to-i-Want-TFC-Hero5-removebg-preview.png" group-title="Philippine Channels",TFC CANADA
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
 
-#EXTINF:-1 tvg-id="GMA" group-title="Philippines",GMA
+#EXTINF:-1 tvg-id="GMA" group-title="Philippine Channels",GMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://iili.io/2rSp1ZQ.png"  group-title="Philippines",GMA Pinoy TV
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://iili.io/2rSp1ZQ.png"  group-title="Philippine Channels",GMA Pinoy TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
-#EXTINF:-1 tvg-id="Buko.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHllr.jpg" group-title="Philippines", Buko Channel
+#EXTINF:-1 tvg-id="Buko.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHllr.jpg" group-title="Philippine Channels", Buko Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
-#EXTINF:-1 tvg-id="PBO.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Philippines", PBO
+#EXTINF:-1 tvg-id="PBO.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Philippine Channels", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
-#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHYPP.png" group-title="Philippines", Viva Cinema
+#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://pictr.com/images/2025/02/02/xGHYPP.png" group-title="Philippine Channels", Viva Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
-#EXTINF:-1 tvg-id="Cinema One" group-title="Philippines",Cinema One
+#EXTINF:-1 tvg-id="Cinema One" group-title="Philippine Channels",Cinema One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-1 tvg-id="Cinemo" group-title="Philippines",Cinemo
+#EXTINF:-1 tvg-id="Cinemo" group-title="Philippine Channels",Cinemo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Jeepney TV" group-title="Philippines",Jeepney TV
+#EXTINF:-1 tvg-id="Jeepney TV" group-title="Philippine Channels",Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Tagalized.Movie.Channel.ph" tvg-logo="https://tmc.ph/storage/images/299570476c6f0309545110c592b6a63b/c/TMC_LOGO_crop-default.png" group-title="Philippines", TMC
+#EXTINF:-1 tvg-id="Tagalized.Movie.Channel.ph" tvg-logo="https://tmc.ph/storage/images/299570476c6f0309545110c592b6a63b/c/TMC_LOGO_crop-default.png" group-title="Philippine Channels", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
-#EXTINF:-1 tvg-id="Sari.Sari.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/36/Sari-Sari_Channel_Logo_2016.png/revision/latest/scale-to-width-down/300?cb=20210301154319" group-title="Philippines", Sari Sari
+#EXTINF:-1 tvg-id="Sari.Sari.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/36/Sari-Sari_Channel_Logo_2016.png/revision/latest/scale-to-width-down/300?cb=20210301154319" group-title="Philippine Channels", Sari Sari
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
-#EXTINF:-1 tvg-id="Kapamilya Channel.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Philippines",Kapamilya Channel
+#EXTINF:-1 tvg-id="Kapamilya Channel.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Philippine Channels",Kapamilya Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Philippines", ANC
+#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Philippine Channels", ANC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
 
-#EXTINF:-1 tvg-id="MYX.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" group-title="Philippines",MYX Global
+#EXTINF:-1 tvg-id="MYX.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" group-title="Philippine Channels",MYX Global
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1736,27 +1715,6 @@ https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/in
 http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Philippine Channels",HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="PBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Philippine Channels",FX
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="PBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Philippine Channels",FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="PBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Philippine Channels",VIVA CINEMA
-http://portal.skytv4k.org:8080/live/rIH8RnqlWk/yWvV7sF5if/118697.ts
-#EXTINF:-1 tvg-id="PBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="Philippine Channels",Cinema 
-http://portal.skytv4k.org:8080/live/rIH8RnqlWk/yWvV7sF5if/118695.ts
-
-#EXTINF:-1 tvg-id="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Philippine Channels",Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Philippine Channels",MYX Philippines
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="Philippine Channels", TV 5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Philippine Channels", CINEMO!
-https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-id="GMA LIFE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png" group-title="Philippine Channels",GMA LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bit.ly/44MSmz6
 
 #EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Philippine Channels",playtv
 http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
