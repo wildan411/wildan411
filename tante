@@ -294,86 +294,46 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="National",Inews (V+)
 http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="4" tvg-logo="https://static.mncnow.id/images/channel/0a37b838/4414.png",iNews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="National",Sindonews (V+)
 http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="5" tvg-logo="https://static.mncnow.id/images/channel/b9736293/4569.png",MNC News
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="8" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png",SCTV
+#EXTINF:-1 group-title="National" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="8" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png",SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FTA Lokal", SCTV
+#EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="National", SCTV
 
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="FTA Lokal",SCTV DIGITAL
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="National",SCTV DIGITAL
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="National",TVONE (V+)
 http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="FTA Lokal", INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="National", INDOSIAR
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="9" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar
+#EXTINF:-1 group-title="National" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="9" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="FTA Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="FTA Lokal",INDOSIAR DIGITAL
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="FTA Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGhP9BxyggeKaEAHJITGr-fcFFWjQxC5LCj4NGR9hDReTvnY&s" group-title="National",INDOSIAR DIGITAL
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="10" tvg-logo="https://static.mncnow.id/images/channel/a4a92511/72f3.png",ANTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash/ANTV.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="FTA Lokal",TRANS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="National",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="6" tvg-logo="https://static.mncnow.id/images/channel/a8d7c4e0/902f.png",Trans TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuokGe04JP6AHC2NHhAyYzMRzNAmId7nq1AQ&usqp=CAU" group-title="FTA Lokal",TRANS 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuokGe04JP6AHC2NHhAyYzMRzNAmId7nq1AQ&usqp=CAU" group-title="National",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="7" tvg-logo="https://static.mncnow.id/images/channel/6d6723a2/ee51.png",Trans 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="11" tvg-logo="https://static.mncnow.id/images/channel/2f8a7055/0c6d.png",RTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash/RTV.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="12" tvg-logo="https://static.mncnow.id/images/channel/a259cb00/cb59.png",tvOne
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png", MOJI TV 
+#EXTINF:-1 group-title="National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png", MOJI TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="FTA Lokal",MDTV HD
+#EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="National",MDTV HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="23" tvg-logo="https://static.mncnow.id/images/channel/7be23e50/34cb.png",Net TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="National",Kompas TV (V+)
 http://202.147.193.244/live/eds/KompasTV/sa_dash/KompasTV.mpd
@@ -387,70 +347,7 @@ http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="National",RTV (V+)
 http://202.147.193.244/live/eds/RTV/sa_dash/RTV.mpd
 
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="13" tvg-logo="https://static.mncnow.id/images/channel/c125ffa6/d442.png",Kompas TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash/KompasTV.mpd
 
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="14" tvg-logo="https://static.mncnow.id/images/channel/d416b98b/80d6.png",Metro TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="15" tvg-logo="https://static.mncnow.id/images/channel/c8824723/62eb.png",Berita Satu
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="16" tvg-logo="https://static.mncnow.id/images/channel/b6b97ee9/d48f.png",TVRI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="17" tvg-logo="https://static.mncnow.id/images/channel/c868eee1/8759.png",SEA Today
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="18" tvg-logo="https://static.mncnow.id/images/channel/3509e0b2/6d55.png",DAAI TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/DAAITV/sa_dash/DAAITV.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="24" tvg-logo="https://static.mncnow.id/images/channel/9fa92211/60f6.png",JTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/JTV/sa_dash/JTV.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="25" tvg-logo="https://static.mncnow.id/images/channel/f1fe5c8d/c1be.png",JAKTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/JakTV/sa_dash/JakTV.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="26" tvg-logo="https://static.mncnow.id/images/channel/d9f7ad03/ae6c.png",Bali TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="27" tvg-logo="https://static.mncnow.id/images/channel/fd8fe6ac/8c1a.png",Bandung TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BandungTV/sa_dash/BandungTV.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="28" tvg-logo="https://static.mncnow.id/images/channel/8ff133ff/7992.png",TV9
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TV9/sa_dash/TV9.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="29" tvg-logo="https://static.mncnow.id/images/channel/8595e71c/9f5a.png",Tawaf TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TawafTV/sa_dash/TawafTV.mpd
-
-#EXTINF:-1 group-title="FTA Lokal" group-logo="https://dl.dropboxusercontent.com/scl/fi/fbheiji9y3utpdshqzxmr/fta-lokal-channel.png?rlkey=frjnghnv0aelwel5ja76926e1" ch-number="30" tvg-logo="https://static.mncnow.id/images/channel/d72eca4c/05f0.png",Muhammadiyah TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-https://dsgtq5sngxkde.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash/TVMuhammadiyah.mpd
 
 
 #☯☯ || HBO GROUP || ☯☯
