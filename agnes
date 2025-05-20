@@ -1,8 +1,6 @@
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Indonesia Channels
-//========================================================================
-
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
+
+<====================== Indonesia Channels ========================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -91,7 +89,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Indonesia Channels",TransTV HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2048714342_b744100_sleng.m3u8
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -174,7 +171,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 https://fta2-cdn-flr.visionplus.id/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -183,7 +179,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=16
 #EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional
 https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -194,12 +189,11 @@ https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="Indonesia Channels",ANTV
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-
 ##EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="Indonesia Channels",ANTV
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-##https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 #EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/030/50030-SNAPSHOT-l.png",BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -234,10 +228,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1457300562_b
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w82829404_b384000_sleng.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/01YAHgw.png" group-title="Indonesia Channels",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w942100365_b1128000_sleng.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
@@ -261,7 +253,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
-
 
 #EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/739/527/png-clipart-nbc-news-correspondent-nbcuniversal-peacock-productions-golf-channel-on-nbc-text-logo.png",NBC News Now
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b&checkedby:iptvcat.com
@@ -288,7 +279,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=149
 #EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
 https://fta1-cdn-flr.visionplus.id/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -409,9 +399,7 @@ https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png",Rusia Today
 http://202.147.193.244/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 
-
 <=============Christian Channels==================>
-
 
 #EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png" group-title="Christian Channels",Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
@@ -505,7 +493,6 @@ https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 #EXTINF:-1 tvg-id="ZooMoo.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids",ZooMoo
 https://fta3-cdn-flr.visionplus.id/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-
 #EXTINF:-1 group-title="Kids" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=vtv  
@@ -563,7 +550,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-
 <===================================== HBO FMX =================================>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -605,7 +591,6 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-
 
 <================================================== HBO Transcorp ===========================================>
 
@@ -661,7 +646,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO HD",Cinemax
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
-
 
 <======================== Premium Movies ==========================>
 
@@ -820,7 +804,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=39
 #EXTINF:-1 tvg-id="CinemachiMax" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png" group-title="Premium Movies",SUPERRIX
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1119,7 +1102,6 @@ http://202.147.193.244/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
-
 <=================== Entertainment & Lifestyle =============================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1268,7 +1250,6 @@ https://streaming.indihometv.com/atm/DASH/tv5monde/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
-
 <======================= Music ==========================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1291,7 +1272,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
-
 
 <============================ Sports ========================>
 
