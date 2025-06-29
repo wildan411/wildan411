@@ -2283,17 +2283,9 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
 
 ########################################################   Sony Sport  ########################################################
 
-#EXTINF:-1 tvg-logo="" group-title="Sony Sport",Bein Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="Sony Sport",Ten Sports PK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sony Sport",Bein Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sony Sport",Star Sports 1 HD (TATA PLAY)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sony Sport",Star Sports 1 HD
 http://103.120.172.74:4600
@@ -2325,7 +2317,7 @@ http://103.120.172.74:5500
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg" group-title="Sony Sport",Star Sports Select 2
 http://103.120.172.74:4700
 
-#EXTINF:-1 tvg-logo=""group-title="Sony Sport",RTA Sports
+#EXTINF:-1 tvg-logo="" group-title="Sony Sport",RTA Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
@@ -2333,14 +2325,12 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="Sony Sport",Ten Sports PK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png" group-title="Sony Sport",Willow Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://xtv.ooo:8080/1817176580/5916124420/167583
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png" group-title="Sony Sport",Willow Cricket 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://xtv.ooo:8080/1817176580/5916124420/167582
 
 #EXTINF:-1 group-title="Sony Sport" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" , SONY SPORTS TEN 1
