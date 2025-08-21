@@ -170,6 +170,21 @@ https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="Sooka",TV3 Malaysia
+#https://stream2.smg.my/live/tvsplus.m3u8
+#https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8|Referer=https://tonton-live-sg3.akamaized.net/
+https://smart.pendy.dpdns.org/Smart.php?id=TV3
+
+#EXTINF:-1 tvg-logo="https://iili.io/2rSp1ZQ.png" group-title="Sooka",GMA PinoyTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
+#EXTINF:-1 group-title="Sooka" tvg-logo="https://i.imgur.com/c447diw.png",ThaiTV
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
 #EXTINF:-1 group-title="Sooka" tvg-id="132.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png",Drama Hebat
 #KODIPROP:contentlookup=False
@@ -785,6 +800,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://cdn4.mbahnunungonline.net/img/TAjYixM.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia 
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="Movies",MNX HD
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="Movies",SONY PIX
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="Movies",eTvBioskop1
 #KODIPROP:contentlookup=False
@@ -1427,6 +1450,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://iili.io/JmoCv5u.png" group-title="Knowledge", Discovery HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature4K_190x80_TV-Guide.png",Love Nature
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
+https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
