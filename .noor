@@ -1748,6 +1748,11 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd|user-agent=Ex
 #EXTINF:-1 tvg-logo="" group-title="India" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="India" tvg-logo="https://pictr.com/images/2025/01/14/x12Nkx.png",BollywooDᴴᴰ बॉलीवुड
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="India" tvg-logo="https://pictr.com/images/2025/01/14/x12iav.png",BollywooD Classicᴴᴰ बॉलीवुड क्लासिक
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 #EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id" tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="India", Zee Bioskop 
@@ -1913,6 +1918,37 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://iili.io/2UfPhb9.png" group-title="Korean Channels", JTBC 1
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
+
+
+#EXTINF:-1 tvg-id="KBS2TV.kr" group-title="KOREAN PREMIUM",KBS 2TV 
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBSDrama.kr" group-title="KOREAN PREMIUM",KBS24
+http://mytv.dothome.co.kr/ch/catv/1.php
+#EXTINF:-1 tvg-id="KBSDrama.kr" group-title="KOREAN PREMIUM",KBS Drama 
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSJoy.kr" group-title="KOREAN PREMIUM",KBS Joy 
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSKids.kr" group-title="KOREAN PREMIUM",KBS Kids 
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-id="KBSLife.kr" group-title="KOREAN PREMIUM",KBS Life 
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-id="KBSStory.kr" group-title="KOREAN PREMIUM",KBS Story 
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="KBSWorld.kr" group-title="KOREAN PREMIUM",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 tvg-id="KBSWorld.kr" group-title="KOREAN PREMIUM",KBS?
+http://mytv.dothome.co.kr/ch/catv/38.php
+#EXTINF:-1 tvg-id="KBSWorld.kr" group-title="KOREAN PREMIUM",JCTV
+http://mytv.dothome.co.kr/ch/catv/58.php
+
+http://mytv.dothome.co.kr/ch/catv/61.php
+
+http://mytv.dothome.co.kr/ch/catv/91.php
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" group-title="KOREAN PREMIUM",CJOHNSYLE
+http://mytv.dothome.co.kr/ch/catv/92.php
+
+
 
 
 #EXTINF:-1 tvg-id="EBS1TV.kr" group-title="KOREAN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png", EBS 1
