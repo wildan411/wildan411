@@ -10470,14 +10470,19 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/d7a
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PHOENIX INFONEWS" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_INFO.png" group-title="china",PHOENIX INFONEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://iptv.kilas7.com:80/kaukia/asdfrewq/35
 #EXTINF:-1 tvg-id="" tvg-name="PHOENIX CHINESE" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_CH.png" group-title="china",PHOENIX CHINESE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 #EXTINF:-1 tvg-id="" tvg-name="PHOENIX HONGKONG" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_HK.png" group-title="china",PHOENIX HONGKONG
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://iptv.kilas7.com:80/kaukia/asdfrewq/37
 #EXTINF:-1 tvg-id="" tvg-name="XING KONG" tvg-logo="https://tv.cic.net.id/uploads/XINGKONG.png" group-title="china",XING KONG
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://iptv.kilas7.com:80/kaukia/asdfrewq/38
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL V CHINA" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL-V.png" group-title="china",CHANNEL V CHINA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 http://iptv.kilas7.com:80/kaukia/asdfrewq/39
 
 //========================================================================
@@ -10489,24 +10494,11 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/39
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="ArirangTV.id" tvg-name="Arirang TV" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png" group-title="Korea", Arirang TV 🔵
-https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash/Arirang.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="ArirangTV.id" tvg-name="Arirang TV" tvg-logo="https://iili.io/Jmo2lu2.png" group-title="Korea", Arirang TV 🟢
-https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
 
 #EXTINF:-1 tvg-id="ArirangTV.id" tvg-name="Arirang TV" tvg-logo="https://iili.io/Jmo2lu2.png" group-title="Korea", Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 http://khano.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World (HD)" tvg-logo="https://iili.io/Jmo21Z7.png" group-title="Korea", KBS World 🟢
-https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -10532,8 +10524,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=Kplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="ONE HD" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png" group-title="Korea", ONE 🔵
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
-https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
@@ -10546,8 +10536,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd|user-agent=Ex
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="tvNAsia.hk" tvg-name="tvN HD" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-m.png" group-title="Korea", tvN 🔵
-https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -10560,17 +10549,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="KBS2TV.kr" group-title="Korea",KBS 2TV [Not 24/7]
+#EXTINF:-1 tvg-id="KBS2TV.kr" group-title="Korea",KBS 2TV 
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="KBSDrama.kr" group-title="Korea",KBS Drama (480p)
+#EXTINF:-1 tvg-id="KBSDrama.kr" group-title="Korea",KBS Drama 
 http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-id="KBSJoy.kr" group-title="Korea",KBS Joy (480p)
+#EXTINF:-1 tvg-id="KBSJoy.kr" group-title="Korea",KBS Joy 
 http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 tvg-id="KBSKids.kr" group-title="Korea",KBS Kids (480p)
+#EXTINF:-1 tvg-id="KBSKids.kr" group-title="Korea",KBS Kids 
 http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 tvg-id="KBSLife.kr" group-title="Korea",KBS Life (480p)
+#EXTINF:-1 tvg-id="KBSLife.kr" group-title="Korea",KBS Life 
 http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 tvg-id="KBSStory.kr" group-title="Korea",KBS Story (480p)
+#EXTINF:-1 tvg-id="KBSStory.kr" group-title="Korea",KBS Story 
 http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Korea",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
@@ -10595,8 +10584,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" tvg-logo="https://cdn4.mbahnunungonline.net/img/0c5WJlU.png?v=1.1.1.1" group-title="Malaysia", TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
 http://iptv.kilas7.com:80/kaukia/asdfrewq/26
-https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://cdn4.mbahnunungonline.net/img/dhrruWp.png?v=1.0.0.1" group-title="Malaysia", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
@@ -10607,7 +10596,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 #EXTINF:-1 tvg-id="149.astro" tvg-name="TV9" tvg-logo="https://cdn4.mbahnunungonline.net/img/SQWHP5j.png?v=1.0.0.1" group-title="Malaysia", TV9
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="128.unifi" tvg-logo="https://pictr.com/images/2025/01/14/x12DQ1.png",Unifi Dunia Sinema
+#EXTINF:-1 group-title="Malaysia" tvg-id="128.unifi" tvg-logo="https://pictr.com/images/2025/01/14/x12DQ1.png",Unifi Dunia Sinema HD
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -10617,6 +10606,26 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="Malaysia" tvg-logo="https://pictr.com/images/2025/01/14/x12iav.png",BollywooD Classicᴴᴰ बॉलीवुड क्लासिक
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="Malaysia",Dunia Sinemaᵘⁿⁱᶠⁱ  
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="118.unifi" ch-number="118" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-logo="" group-title="Malaysia",Inspirasiᵘⁿⁱᶠⁱ  
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="Malaysia",Salamᵘⁿⁱᶠⁱ 
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="Malaysia",Siarᵘⁿⁱᶠⁱ  
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="https://cdn4.mbahnunungonline.net/img/uc2cHnp.png?v=1.0.0.1" group-title="Malaysia", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -10691,27 +10700,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="Malaysia",SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="Malaysia",Dunia Sinemaᵘⁿⁱᶠⁱ  
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="118.unifi" ch-number="118" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-logo="" group-title="Malaysia",Inspirasiᵘⁿⁱᶠⁱ  
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="Malaysia",Salamᵘⁿⁱᶠⁱ 
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="Malaysia",Siarᵘⁿⁱᶠⁱ  
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" tvg-logo="https://cdn4.mbahnunungonline.net/img/QglagQp.png?v=1.0.0.1" group-title="Malaysia", Al-Hijrah
