@@ -3,6 +3,16 @@
 ##########################################   National TV   ##################################################
 #############################################################################################################
 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="National TV",DAFTAR DISINI
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ctbhakfog65pugm8msu0&ratio=720p&line=0
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="National TV",0831-5232-3277
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f360000bupoprjphouv4f104kdg&ratio=720p&line=0
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="National TV",WILDAN MyRepublic
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=7004
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1171,7 +1181,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index
 
 #EXTINF:-1 tvg-id="SportStars.id" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="khusus live Bola", Sportstars 3 ᴸᴼᵂ
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1293,25 +1302,20 @@ https://dl.dropboxusercontent.com/scl/fi/tl353kjolxj71hwxjspni/beinar6.m3u8?rlke
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
 https://dl.dropboxusercontent.com/scl/fi/siybw6mvi7my2tsntkj6v/beinar7.m3u8?rlkey=2kvl4fq1jnbe2z2wbz1lst8t1&st=t8xo9y08
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
 https://dl.dropboxusercontent.com/scl/fi/19d7mkq0vl3sq6nynd8e1/beinar8.m3u8?rlkey=65cw1zjl2u9alcy9sje0g44sl
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
 https://dl.dropboxusercontent.com/scl/fi/1m7ms0bitb8eqn9eda07x/beinar9.m3u8?rlkey=pvlczxrtrf51hg8ehrm6zwuj2&st=5f9y3r58
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
@@ -1320,21 +1324,17 @@ https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
 https://dl.dropboxusercontent.com/scl/fi/cm0enrb6tjwgluwfeo9rj/astro-premier-league-2.m3u8?rlkey=tbelnegqpb8opa6td6mv5qxb5
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 1
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="SPORTS CHANNEL", ASTRO ARENA 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -1342,30 +1342,20 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW PREMIER SPORTS 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20premier%20sports%201.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%202.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%203.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
 http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
 https://dl.dropboxusercontent.com/scl/fi/amdunf9ml9put022ai42r/skysportsmainevent.m3u8?rlkey=qouiiuoj3ig62e9vw9ipmv51d
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
 https://dl.dropboxusercontent.com/scl/fi/woin0d6w6272or9nwc5o0/skysportspl.m3u8?rlkey=vavvm0zlt5vs7mwqf4rezdefj&st=3p1ekhha
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
 https://dl.dropboxusercontent.com/scl/fi/302zmxhxy5xi9qdsx3tmb/sky-sports-football.m3u8?rlkey=4rjua1ssq9tv1d2hexub90jor&st=9z0jdwpx
@@ -1379,34 +1369,23 @@ https://dl.dropboxusercontent.com/scl/fi/51vk0ol0f0zo1falb559o/supersport-premie
 #EXTINF: -1 tvg-logo="https://i.imgur.com/um67TJh.png" group-title="SPORTS CHANNEL", SUPERSPORT FOOTBALL
 https://dl.dropboxusercontent.com/scl/fi/13pfox5ze8vmkdjpi13zj/supersport-football.m3u8?rlkey=fn1d2xsbkwjgibm2p721iljsp&st=ai9zxlbk
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS CHANNEL", SUPERSPORT LALIGA
 https://dl.dropboxusercontent.com/scl/fi/m66tepegfonq6q289syyt/supersport-laliga.m3u8?rlkey=1zbiq4m9npwpj84eprwpjbc3a&st=qknkt699
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS NEWS
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS ARENA
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
 
-
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
@@ -1420,20 +1399,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT SPORTS 1
 https://dl.dropboxusercontent.com/scl/fi/yhvzwkxc9ugh74lee9o0k/tnt-sports-1.m3u8?rlkey=kjehglslwbrx769va3wlvj6yf&st=i66l39hv
 
-
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/S88QAk8.png", TNT SPORTS 2
 https://dl.dropboxusercontent.com/scl/fi/so6w7fw1af7wri3x1mul3/tnt-sports-2.m3u8?rlkey=rju8xjvyagfe6a1rtd92cgy8c&st=7ql7mgl1
 
-
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/eaPYjbw.png", TNT SPORTS 3
 https://dl.dropboxusercontent.com/scl/fi/mpt8mlwpr5gk7cz9oal5e/tnt-sports-3.m3u8?rlkey=vdi4ca569icfx3uamte9m9x4w&st=unx2zoyp
-
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GdwgxdO.png", TNT SPORTS 4
 https://dl.dropboxusercontent.com/scl/fi/fvm8nivmh4pn0mh6ne4q9/tnt-sports-4.m3u8?rlkey=o7hsh95ceaqvap5d94zzy0zd1&st=soh5l19z
@@ -1444,55 +1414,32 @@ https://dl.dropboxusercontent.com/scl/fi/fvm8nivmh4pn0mh6ne4q9/tnt-sports-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
 
-
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", ARENA SPORT 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", ARENA SPORT 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", ARENA SPORT 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
-
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0a9MAZ0.png", MOVISTAR LALIGA
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/movistar%20laliga.m3u8
 
-
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 1
 https://dl.dropboxusercontent.com/scl/fi/itbnujoo9qmc2v6429ci1/SSC-1.m3u8?rlkey=1c4uzaphy2b33wyj3qo8zxjqj&st=e4wpr7q6
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 2
 https://dl.dropboxusercontent.com/scl/fi/qm7ap4fhb1chubje4vsh6/SSC-2.m3u8?rlkey=ji6xy0cb3kkx8qgysonduerhz&st=4bx3wuot
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 3
 https://dl.dropboxusercontent.com/scl/fi/6cq20wy3b7rzcctw0gkqt/SSC-3.m3u8?rlkey=h3j0xn1gkgf7zil3vw1vkz30e&st=jemb3uza
@@ -1504,92 +1451,48 @@ https://dl.dropboxusercontent.com/scl/fi/forcf977az55y835ghzq9/SSC-4.m3u8?rlkey=
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 5
 https://dl.dropboxusercontent.com/scl/fi/kachg6ftfdn5aj2928s3q/SSC-5.m3u8?rlkey=xqubza01scykr50owds7ebgqm&st=zezulfni
 
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
 
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%202.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%203.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%204.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x5r5S7A.png" group-title="SPORTS CHANNEL", LFC TV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MUTV.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://stream1.freetv.fun/ipv6-cctv5-plus-25.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://stream1.freetv.fun/ipv6-cctv16-8.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://stream1.freetv.fun/83b1e6c293f5cf31391d1dde3bdf2dff9feef88eb40a923391f1595f180979e6.ctv
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16+
-#EXTVLCOPT:http-user-agent=Goiptv/0.0.1
-https://stream1.freetv.fun/5facd0f995ebfeae44770fd9935a478b30de4de8cc975faa6c931699b87dd877.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS CHANNEL", NBA TV
 https://dl.dropboxusercontent.com/scl/fi/0vfjx2zy9y5om21wo61kd/nbatv.m3u8?rlkey=xy4hkw9buucfc0l78237us257&st=cx6waj9l
@@ -1600,20 +1503,15 @@ https://dl.dropboxusercontent.com/scl/fi/o1m5zjgv6332pb80kiz2f/wwenetwork.m3u8?r
 #EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS CHANNEL", UFC FIGHT PASS
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
 
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/kPB5ml2.png", FIGHT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 
-
-
 #EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="SPORTS CHANNEL", TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
 http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS CHANNEL", UNIFI SPORTS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -1621,15 +1519,11 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="SPORTS CHANNEL", DAZN体育1 TW
 rtmp://f13h.mine.nu/sat/tv731
@@ -1644,15 +1538,12 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
-#EXTM3U
 #EXTINF:-1 tvg-id="Sports - Hub Premier 1" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier1.png" group-title="@Sports",Hub Premier 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 https://jembutkuda.beww.pl/HubPremier1/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="Sports - Hub Premier 2" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier2.png" group-title="@Sports",Hub Premier 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1661,16 +1552,12 @@ https://jembutkuda.beww.pl/HubPremier1/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
 https://jembutkuda.beww.pl/HubPremier12/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="Sports - Hub Premier 2 UHD" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier2.png" group-title="@Sports",Hub Premier 2 UHD
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
 https://jembutkuda.beww.pl/HubPremier2_4K/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="Sports - Hub Premier 3" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier3.png" group-title="@Sports",Hub Premier 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1679,16 +1566,12 @@ https://jembutkuda.beww.pl/HubPremier2_4K/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
 https://jembutkuda.beww.pl/HubPremier3/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="Sports - Hub Premier 4" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier4.png" group-title="@Sports",Hub Premier 4
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
 https://jembutkuda.beww.pl/HubPremier4/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="Sports - Hub Premier 5" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier5.png" group-title="@Sports",Hub Premier 5
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1697,16 +1580,12 @@ https://jembutkuda.beww.pl/HubPremier4/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
 https://jembutkuda.beww.pl/HubPremier5/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="Sports - Hub Premier 6" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier6.png" group-title="@Sports",Hub Premier 6
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
 https://jembutkuda.beww.pl/HubPremier6/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="Sports - Hub Premier 7" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier7.png" group-title="@Sports",Hub Premier 7
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1715,16 +1594,12 @@ https://jembutkuda.beww.pl/HubPremier6/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
 https://jembutkuda.beww.pl/HubPremier7/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="Sports - Hub Premier 8" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier8.png" group-title="@Sports",Hub Premier 8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
 https://jembutkuda.beww.pl/HubPremier8/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="Sports - Hub Premier 9" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier9.png" group-title="@Sports",Hub Premier 9
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1733,16 +1608,12 @@ https://jembutkuda.beww.pl/HubPremier8/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e314720a4fc9414cb84862f3a4d0b072:a1bb6155792c5338280af6ac8cb8033d
 https://jembutkuda.beww.pl/HubPremier9/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="Sports - Hub Premier 10" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier10.png" group-title="@Sports",Hub Premier 10
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9f5144687374b62a006b26fd15d6842:9ae3c1fbe13286859d852799a1189db4
 https://jembutkuda.beww.pl/HubPremier10/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="Sports - Hub Premier 11" tvg-logo="https://tvnow.my.id/assets/logo/sports/hubpremier11.png" group-title="@Sports",Hub Premier 11
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1760,16 +1631,12 @@ https://jembutkuda.beww.pl/HubPremier11/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
 https://jembutkuda.beww.pl/HubSports1HDnew1/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="StarHub - Hub Sports 2" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports2.png" group-title="@StarHub",Hub Sports 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
 https://jembutkuda.beww.pl/HubSports2HD/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="StarHub - Hub Sports 3" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports3.png" group-title="@StarHub",Hub Sports 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1778,16 +1645,12 @@ https://jembutkuda.beww.pl/HubSports2HD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
 https://jembutkuda.beww.pl/HubSports3HDNEW/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="StarHub - Hub Sports 4" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports4.png" group-title="@StarHub",Hub Sports 4
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 https://jembutkuda.beww.pl/HubSports4HDNEW/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="StarHub - Hub Sports 5" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports5.png" group-title="@StarHub",Hub Sports 5
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1796,8 +1659,6 @@ https://jembutkuda.beww.pl/HubSports4HDNEW/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
 https://jembutkuda.beww.pl/HubSports5HD/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="StarHub - Hub Sports 6" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports6.png" group-title="@StarHub",Hub Sports 6
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1805,16 +1666,12 @@ https://jembutkuda.beww.pl/HubSports5HD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
 https://jembutkuda.beww.pl/HubSports6/output/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-id="StarHub - Hub Sports 7" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports7.png" group-title="@StarHub",Hub Sports 7
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
 https://jembutkuda.beww.pl/HubSports7/output/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="StarHub - Hub Sports 8" tvg-logo="https://tvnow.my.id/assets/logo/starhub/hubsports8.png" group-title="@StarHub",Hub Sports 8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RQ1A.210105.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36","Origin":"https://cors.beans.ai"}
@@ -1827,62 +1684,38 @@ https://jembutkuda.beww.pl/HubSports8/output/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport1-HD.png" group-title="@09. Sports TV",021. OptusSport1
 https://wahyu1ptv.pages.dev/OptusSport1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport2-HD.png" group-title="@09. Sports TV",022. OptusSport2
 https://wahyu1ptv.pages.dev/OptusSport2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport3-HD.png" group-title="@09. Sports TV",023. OptusSport3
 https://wahyu1ptv.pages.dev/OptusSport3-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport4-HD.png" group-title="@09. Sports TV",024. OptusSport4
 https://wahyu1ptv.pages.dev/OptusSport4-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS1.png" group-title="@09. Sports TV",025. BlueSport1
 https://wahyu1ptv.pages.dev/BlueSport1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BS2.png" group-title="@09. Sports TV",026. BlueSport2
 https://wahyu1ptv.pages.dev/BlueSport2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="@09. Sports TV",027. SuperSport1
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="@09. Sports TV",028. SuperSport2
 https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="@09. Sports TV",029. SuperSport3
 https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowPL1.png" group-title="@09. Sports TV",030. NowHKSportPL
 https://wahyu1ptv.pages.dev/NowHKSportPL-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowHKSport1-HD.png" group-title="@09. Sports TV",031. NowHKSport1
 https://wahyu1ptv.pages.dev/NowHkSport1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowHKSport2-HD.png" group-title="@09. Sports TV",032. NowHKSport2
 https://wahyu1ptv.pages.dev/NowHkSport2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowHKSport3-HD.png" group-title="@09. Sports TV",033. NowHKSport3
 https://wahyu1ptv.pages.dev/NowHkSport3-HD.m3u8
@@ -1890,118 +1723,71 @@ https://wahyu1ptv.pages.dev/NowHkSport3-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="@09. Sports TV",045. DaznSerieA
 https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga1.png" group-title="@09. Sports TV",046. DaznLaliga1
 https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga2.png" group-title="@09. Sports TV",047. DaznLaliga2
 https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="@09. Sports TV",048. SkySportMotoGP
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="@09. Sports TV",049. SkySportF1
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Premiere-HD.png" group-title="@09. Sports TV",050. Premiere
 https://wahyu1ptv.pages.dev/Premiere-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="@09. Sports TV",051. SetantaSports1
 https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports2.png" group-title="@09. Sports TV",052. SetantaSports2
 https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T1.png" group-title="@09. Sports TV",053. TringSport1
 https://wahyu1ptv.pages.dev/Tring1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T2.png" group-title="@09. Sports TV",054. TringSport2
 https://wahyu1ptv.pages.dev/Tring2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T3.png" group-title="@09. Sports TV",055. TringSport3
 https://wahyu1ptv.pages.dev/Tring3-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="@09. Sports TV",056. Go3SportOpen
 https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="@09. Sports TV",057. Go3Sport1
 https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="@09. Sports TV",058. Go3Sport2
 https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="@09. Sports TV",059. Go3Sport3
 https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football1-HD.png" group-title="@09. Sports TV",060. Match!Football1
 https://wahyu1ptv.pages.dev/Match!Football1-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football2-HD.png" group-title="@09. Sports TV",061. Match!Football2
 https://wahyu1ptv.pages.dev/Match!Football2-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football3-HD.png" group-title="@09. Sports TV",062. Match!Football3
 https://wahyu1ptv.pages.dev/Match!Football3-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TNTSports1.png" group-title="@09. Sports TV",063. TNTSports1
 https://wahyu1ptv.pages.dev/TNTSports1-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TNTSports2.png" group-title="@09. Sports TV",064. TNTSports2
 https://wahyu1ptv.pages.dev/TNTSports2-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TNTSports3.png" group-title="@09. Sports TV",065. TNTSports3
 https://wahyu1ptv.pages.dev/TNTSports3-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TNTSports4.png" group-title="@09. Sports TV",066. TNTSports4
 https://wahyu1ptv.pages.dev/TNTSports4-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="@09. Sports TV",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="@09. Sports TV",068. ArenaPremium2
 https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
@@ -2011,32 +1797,20 @@ https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="@09. Sports TV",069. ArenaPremium3
 https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="@09. Sports TV",070. ElevenSport1
 https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="@09. Sports TV",071. ElevenSport2
 https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="@09. Sports TV",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="@09. Sports TV",073. ElevenSport4
 https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport.png" group-title="@09. Sports TV",074. ZiggoSportSelect
 https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="@09. Sports TV",075. ZiggoSportVoetbal
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
@@ -2046,67 +1820,41 @@ https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball1.png" group-title="@09. Sports TV",076. TruePremiereFootball1
 https://wahyu1ptv.pages.dev/TruePremier1-HD.m3u8
 
-
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball2.png" group-title="@09. Sports TV",077. TruePremiereFootball2
 https://wahyu1ptv.pages.dev/TruePremier2-HD.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/M%2BLaliga-picsay.png" group-title="@09. Sports TV",078. M+Laliga
 https://wahyu1ptv.pages.dev/MLaliga-HD.m3u8
 
-
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="@09. Sports TV",079. Sport.TV1
 https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV2.png" group-title="@09. Sports TV",080. Sport.TV2
 https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
 
-
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV3.png" group-title="@09. Sports TV",081. Sport.TV3
 https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV4.png" group-title="@09. Sports TV",082. Sport.TV4
 https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
 
-
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV5.png" group-title="@09. Sports TV",083. Sport.TV5
 https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="@09. Sports TV",084. Sport.TV6
 https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC1.png" group-title="@09. Sports TV",085. SSC1
 https://wahyu1ptv.pages.dev/SSC1-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC2.png" group-title="@09. Sports TV",086. SSC2
 https://wahyu1ptv.pages.dev/SSC2-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC3.png" group-title="@09. Sports TV",087. SSC3
 https://wahyu1ptv.pages.dev/SSC3-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC4.png" group-title="@09. Sports TV",088. SSC4
 https://wahyu1ptv.pages.dev/SSC4-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SSC5.png" group-title="@09. Sports TV",089. SSC5
 https://wahyu1ptv.pages.dev/SSC5-HD.m3u8
@@ -2120,108 +1868,23 @@ https://wahyu1ptv.pages.dev/PTVSport-HD.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TenSports.png" group-title="@09. Sports TV",099. TenSports
 https://wahyu1ptv.pages.dev/TenSports-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports1.png" group-title="@09. Sports TV",100. SonySports1
 https://wahyu1ptv.pages.dev/SonySports1-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports2.png" group-title="@09. Sports TV",101. SonySports2
 https://wahyu1ptv.pages.dev/SonySports2-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports3.png" group-title="@09. Sports TV",102. SonySports3
 https://wahyu1ptv.pages.dev/SonySports3-HD.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports4.png" group-title="@09. Sports TV",103. SonySports4
 https://wahyu1ptv.pages.dev/SonySports4-HD.m3u8
 
-
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports5.png" group-title="@09. Sports TV",104. SonySports5
 https://wahyu1ptv.pages.dev/SonySports5-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/wwe-peacock.png" group-title="@09. Sports TV",105. WWEPeacook
 https://wahyu1ptv.pages.dev/WWePeacook-HD.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="SPOPOTY",Star Sports 1 HD (1)
-http://watchindia.net:8880/live/49387/51659/2232.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Star Sports 1 HD (2)
-http://watchindia.net:8880/live/49387/51659/2456.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Star Sports 1 HD (Hindi)
-http://watchindia.net:8880/live/49387/51659/2673.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Star Sports 1 HD (Tamil)
-http://watchindia.net:8880/live/49387/51659/2753.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Star Sports 2 HD (1)
-http://watchindia.net:8880/live/49387/51659/1069.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Star Sports 2 HD (2)
-http://watchindia.net:8880/live/49387/51659/2163.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Star Sports Select 1 HD
-http://watchindia.net:8880/live/49387/51659/1070.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Star Sports Select 2 HD
-http://watchindia.net:8880/live/49387/51659/1071.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sky Sports Cricket
-http://watchindia.net:8880/live/49387/51659/2090.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sky Sports F1
-http://watchindia.net:8880/live/49387/51659/2094.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sky Sports Golf
-http://watchindia.net:8880/live/49387/51659/2096.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sky Sports Main Event
-http://watchindia.net:8880/live/49387/51659/2091.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sky Sports Premier League
-http://watchindia.net:8880/live/49387/51659/2092.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sky Sports +
-http://watchindia.net:8880/live/49387/51659/2095.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sony Ten 1 HD (1)
-http://watchindia.net:8880/live/49387/51659/1756.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sony Ten 1 HD (2)
-http://watchindia.net:8880/live/49387/51659/2215.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sony Ten 2 HD
-http://watchindia.net:8880/live/49387/51659/1757.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sony Ten 3 HD
-http://watchindia.net:8880/live/49387/51659/1758.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sony Ten 4 HD
-http://watchindia.net:8880/live/49387/51659/2662.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Sony Ten 5 HD
-http://watchindia.net:8880/live/49387/51659/2663.ts
-
-#EXTINF:-1 group-title="SPOPOTY",DD Sports
-http://watchindia.net:8880/live/49387/51659/2380.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Eurosport HD
-http://watchindia.net:8880/live/49387/51659/2633.ts
-
-#EXTINF:-1 group-title="SPOPOTY",Fox Sports 1
-http://watchindia.net:8880/live/49387/51659/2421.ts
-
-#EXTINF:-1 group-title="SPOPOTY",TNT Sports 1
-http://watchindia.net:8880/live/49387/51659/2657.ts
 
 
 ============================================ ☆OLAHRAGA☆ =================================================
