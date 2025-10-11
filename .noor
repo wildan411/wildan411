@@ -2429,9 +2429,23 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beINSports5" group-title="beIN Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-r3
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="HUB SPORTS",HUB SPORTS 4
-https://7pal.short.gy/HPremier4
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/QgMN6gm.jpg" group-title="beIN Sports",BEIN SPORTS EXTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+   
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/CFK26ym.jpg" group-title="beIN Sports",BEIN SPORTS EXTRA n
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 #####################################
@@ -2991,6 +3005,27 @@ https://maldivesn.net/hilaytv/dazn5
 #EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 6" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="WORLD SPORTS",DAZN 6
 https://maldivesn.net/hilaytv/dazn6
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DvBeoWl.jpg" group-title="WORLD SPORTS",DAZN 1
+http://bmudnfh.megahdtv.xyz:900/0032829421/5272592091/165518
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6gQGTvi.jpg" group-title="WORLD SPORTS",DAZN 2
+http://bmudnfh.megahdtv.xyz:900/0032829421/5272592091/165519
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aVup1W.jpg" group-title="WORLD SPORTS",DAZN 3
+http://xxip25.top:8080/DAFsm1/015993/167748
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuVNAIM.jpg" group-title="WORLD SPORTS",DAZN 4
+http://bmudnfh.megahdtv.xyz:900/0032829421/5272592091/165521
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6Cvpx5.jpg" group-title="WORLD SPORTS",DAZN 5
+http://bmudnfh.megahdtv.xyz:900/0032829421/5272592091/165655
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CEkz3EZ.jpg" group-title="WORLD SPORTS",DAZN 6
+http://bmudnfh.megahdtv.xyz:900/0032829421/5272592091/165604
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugBtJIA.jpg" group-title="WORLD SPORTS", DAZN LALIGA
+https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
+
 #EXTINF:-1 tvg-id="sporttvplus" tvg-name="Sport TV+" tvg-logo="https://8upload.com/image/68abfb25e0af7/sporttvplushilay.png" group-title="WORLD SPORTS",Sport TV+
 https://maldivesn.net/hilaytv/sporttvplus
 #EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1" tvg-logo="https://8upload.com/image/68abfb25d3ed2/sporttv-1hilay.png" group-title="WORLD SPORTS",Sport TV 1
@@ -3049,3 +3084,246 @@ https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport3hd.m3u8?raw=
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport5-1.m3u8?raw=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/png/True_Sport_Logo.png?raw=true" group-title="WORLD SPORTS",TRUE SPORT 7
 https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/true-sport7-1.m3u8?raw=true
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ta779D.jpg" group-title="SPORTS CHANNEL",TENNIS CHANNEL 1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/JofXHRI.jpg" group-title="SPORTS CHANNEL",ESPN VIVO 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/ADc4YF5.jpg" group-title="SPORTS CHANNEL",ESPN 3
+http://46.151.196.223:14444/
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/oikIPP5.jpg" group-title="SPORTS CHANNEL",ESPN 4
+#https://wahyu1ptv.pages.dev/EspnDeportes-HD.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD0bDM0.jpg" group-title="SPORTS CHANNEL",ESPN 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YoLrcPe.jpg" group-title="SPORTS CHANNEL",ESPN 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#http://firetop1.site/live/158717872/875587369/48.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0e6EYt.jpg" group-title="SPORTS CHANNEL",ESPN
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:F1:20:39&stream=151305&extension=ts
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rL5ApWv.jpg" group-title="SPORTS CHANNEL",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PQv3oiM.jpg" group-title="SPORTS CHANNEL",ESPN U
+http://fl5.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXPFj3t.jpg" group-title="SPORTS CHANNEL", BLUE SPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqeY0m.jpg" group-title="SPORTS CHANNEL",BLUE SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mk9sAo.jpg" group-title="SPORTS CHANNEL", TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4VOKkah.jpg" group-title="SPORTS CHANNEL", SKY SPORTS BUNDESLIGA ᴴᴰ
+https://wahyu1ptv.pages.dev/SkySportBundesliga1-HD.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iXMNhha.jpg" group-title="SPORTS CHANNEL", SKY SPORTS LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/I1uGi27.jpg",GO3 SPORT OPEN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/BAxLcEX.jpg",GO3 SPORT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/sbDy6sn.jpg",GO3 SPORT 2
+https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
+  
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/IHB8uCF.jpg" group-title="SPORTS CHANNEL",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+  
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/nkmVAXH.jpg" group-title="SPORTS CHANNEL",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+  
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/yIpBhNI.jpg",SUPER SPORT 1
+https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rda7QXJ.jpg",SUPER SPORT 2
+https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/ah68fGX.jpg",SUPER SPORT 3
+https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
+  
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/AThIw8U.jpg" group-title="SPORTS CHANNEL", PEACOCK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+  
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://i.imgur.com/1yZKU0I.jpg" group-title="SPORTS CHANNEL", FOX SPORTS PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd   
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jojBiNu.jpg" group-title="SPORTS CHANNEL",LIVERPOOL TV ᴴᴰ
+http://supkartt.xyz:80/0242920061297/9BBD16CF312B/348275
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tP1WwdX.jpg" group-title="SPORTS CHANNEL",INTER TV ᴴᴰ
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+  
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/k44W7jg.jpg",MUTV ᴴᴰ
+http://supkartt.xyz:80/0242920061297/9BBD16CF312B/348278
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wddA7nT.jpg" group-title="SPORTS CHANNEL",REAL MADRID TV ᴴᴰ
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJoFi92.jpg" group-title="SPORTS CHANNEL",BARCA TV ᴴᴰ
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H7jsqS9.jpg" group-title="SPORTS CHANNEL", GEO SUPER
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18190&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=18190&type=dash
+  
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9OKm59.jpg" group-title="SPORTS CHANNEL", NBA PHILIPPINES
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd 
+ 
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/zd4PN0h.jpg",TRACE SPORTS
+#http://vallest.uk/livehttpplay?channel_id=30003
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuY7wEZ.jpg" group-title="SPORTS CHANNEL",BILLIYARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5Io6W5.jpg" group-title="SPORTS CHANNEL", WWE NXT ᴴᴰ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+http://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/lYfXQRd.jpg",IMPACT! WRESTLING
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LESwRIy.jpg" group-title="SPORTS CHANNEL", BELLATOR MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+  
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/tf5eBeL.jpg",GLORY KICKBOXING
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+  
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/2T3vsGO.jpg",BOXING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bbb-bxntv-freelivesports.otteravision.com/bbb/bxntv/bxntv_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvUS84o.jpg" group-title="SPORTS CHANNEL", FIGHT NETWORK
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951132
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urSD8A8.jpg" group-title="SPORTS CHANNEL",FIGHT SPORTS
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.imgur.com/gzswICu.jpg" group-title="SPORTS CHANNEL", UNIFI SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+  
+#EXTINF:-1 tvg-id="xtremsports.us" tvg-logo="https://i.imgur.com/VmTiFBk.jpg" group-title="SPORTS CHANNEL",XTREM SPORTS
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+  
+#EXTINF:-1 xui-id="2539" tvg-id="" tvg-name="FANCODE" tvg-logo="https://i.imgur.com/Jy4wIUs.jpg" group-title="SPORTS CHANNEL",ONE FIGHTING CHAMP
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+  
+#EXTINF:-1 xui-id="2539" tvg-id="" tvg-name="FANCODE" tvg-logo="https://i.imgur.com/eqhIohu.jpg" group-title="SPORTS CHANNEL",STRONGMAN CHAMPIONSHIP
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+  
+#EXTINF:-1 tvg-id="racingtv.us" tvg-logo="https://i.imgur.com/mKVya0G.jpg" group-title="SPORTS CHANNEL",MOTOR RACING TV
+https://fl5.moveonjoy.com/MOTOR_TREND/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MCgoSXm.jpg" , DUBAI RACING
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/D0U9LWt.jpg" , DUBAI RACING 2 
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148
+
+#EXTINF:-1 tvg-id="HorseTVHD.it" tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="SPORTS CHANNEL",HORSE TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="SPORTS CHANNEL",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+  
+  
+#EXTINF:-1 xui-id="2540" tvg-id="" tvg-name="FISHING NETWORKS" tvg-logo="https://i.imgur.com/h0hBl6C.jpg" group-title="SPORTS CHANNEL",FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+  
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AVvISbb.jpg" group-title="SPORTS CHANNEL",JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIh6Tkb.jpg" group-title="SPORTS CHANNEL",PGA TOUR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zzjRsFx.jpg" group-title="SPORTS CHANNEL",GOLF PLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd 
+
+
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://i.imgur.com/YZ9umDn.jpg" group-title="SPORTS CHANNEL", ZIGGO SPORT ᴴᴰ
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/4864.ts
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZzJw3M.jpg" group-title="SPORTS CHANNEL" ,MOTORVISION TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://i.imgur.com/SCLW285.jpg" group-title="SPORTS CHANNEL", JOJ SPORT ᴴᴰ
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+  
+#EXTINF:-1 tvg-id="31" group-title="SPORTS CHANNEL"  tvg-logo="https://i.imgur.com/SlG6Oz3.jpg",SHARJAH SPORT
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
+  
+#EXTINF:-1 tvg-id="49" group-title="SPORTS CHANNEL"  tvg-logo="https://i.imgur.com/XoohwUr.jpg",OMAN SPORT
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+    
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38jTAvY.jpg" group-title="SPORTS CHANNEL",RAI SPORTS ᴴᴰ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
