@@ -2772,8 +2772,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
 
-
-
 #EXTINF:-1 group-title="Sports channel" tvg-logo="https://i.imgur.com/yIpBhNI.jpg",SUPER SPORT 1
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
 
@@ -3094,6 +3092,17 @@ https://maldivesn.net/hilaytv/starsportsselect1
 #EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="Sony Sport",Star Sports Select 2 HD
 https://maldivesn.net/hilaytv/starsportsselect2
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starsp1.mv" tvg-name="Star Sports 1 HD" tvg-logo="https://8upload.com/image/67dcf94f95d31/starsports1-e1740270475648.png" group-title="Sony Sport",Star Sports 1 HD
+https://maldivesn.net/hilaytv/starsports1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starsp2.mv" tvg-name="Star Sports 2 HD" tvg-logo="https://8upload.com/image/67dcf94fa230e/starsports2-e1740270058598.png" group-title="Sony Sport",Star Sports 2 HD
+https://maldivesn.net/hilaytv/starsports2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starsports3.mv" tvg-name="Star Sports 3 HD" tvg-logo="https://8upload.com/image/67d9be5ed9c6b/starsp3.jpg" group-title="Sony Sport",Star Sports 3 HD
+https://maldivesn.net/hilaytv/starsports3
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
