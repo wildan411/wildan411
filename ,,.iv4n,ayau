@@ -2901,6 +2901,12 @@ https://a1xs.vip/8000021
 #EXTINF:-1  tvg-name="Premier Sports 2 FHD" tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/WRoIfCr.png" group-title="BOLA | COPA DEL REY" radio="false",IRE: Premier Sports 2 FHD
 https://a1xs.vip/8000022
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsouajt.jpg" group-title="ASTRO MALAYSIA",M LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QDUEMAW.jpg" group-title="ASTRO MALAYSIA",M LIVE 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
@@ -3072,8 +3078,17 @@ https://damp-mouse-75ea.pejan97800.workers.dev/http://linearjitp-playback.astro.
 #############  beIN Sports #############
 #####################################
 
-#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="beIN Sports", UEFA Champions League
-https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/NykuEx8.jpg" group-title="beIN Sports",LIVE STREAM
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19406&type=drm
+https://spacetv.my.id/index.mpd?id=19406&type=dash
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="spotvprime.kr" tvg-logo="https://i.imgur.com/zKtVyjL.jpg",SPOTV PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="beIN Sports", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3115,9 +3130,17 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beINSports5" group-title="beIN Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
+#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="beIN Sports", UEFA Champions League
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
 #####################################
 #############  Sony Sport  ###############
 #####################################
+
+#EXTINF:-1 xui-id="2539" tvg-id="" tvg-name="FANCODE" tvg-logo="https://i.imgur.com/nmCstjd.jpg" group-title="Sony Sport",FANCODE TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="Sony Sport",Star Sports Select 1 HD
