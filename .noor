@@ -9,7 +9,7 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1
-https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mpd/firsthighlight.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mpd/firsthighlight.mpd
 
 #EXTINF:-1 group-title="ORDER DISINI" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png",WILDAN My Republic
 #KODIPROP:contentlookup=False
@@ -3224,8 +3224,12 @@ https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport", BLUE ZOOM DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 
 #EXTINF:-1 group-title="Sky Sport",Sky Sport 1
+http://185.188.188.237:5000/live/vixen/playlist.m3u8
 https://a1xs.vip/700031
 #EXTINF:-1 group-title="Sky Sport",Sky Sport 2
 https://a1xs.vip/700032
