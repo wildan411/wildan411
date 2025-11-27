@@ -3027,6 +3027,22 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF: -1 tvg-logo="https://pictr.com/images/7524/12/04/xSOgsl.png" group-title="Sports", Unifi Sport 3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-id="816.astro" tvg-name="816.astro" group-title="Sports" ch-number="816" tvg-logo="https://i.imgur.com/S4y146a.jpg",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+  
+#EXTINF:-1 tvg-id="810.astro" tvg-name="810.astro" ch-number="810" group-title="Sports" tvg-logo="https://i.imgur.com/PXXslVa.jpg",SPOTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-origin=https://cignalplay.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
 #EXTINF:-1 tvg-id="TAPSPORTS.ph" tvg-logo="https://i.imgur.com/EPDKOma.jpg" group-title="Sports", TAP SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3110,22 +3126,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="Sports channel" tvg-name="TV Sports" tvg-country="ID" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg", SPOTV 2 HD 
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mediampd/SPOTV2HD.mpd
-
-#EXTINF:-1 tvg-id="816.astro" tvg-name="816.astro" group-title="Sports channel" ch-number="816" tvg-logo="https://i.imgur.com/S4y146a.jpg",SPOTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191753fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-  
-#EXTINF:-1 tvg-id="810.astro" tvg-name="810.astro" ch-number="810" group-title="Sports channel" tvg-logo="https://i.imgur.com/PXXslVa.jpg",SPOTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -3282,6 +3282,13 @@ https://damp-mouse-75ea.pejan97800.workers.dev/http://linearjitp-playback.astro.
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://damp-mouse-75ea.pejan97800.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
+#EXTINF:-1  tvg-name="Astro Premier League" tvg-id="Astro.Premier.League.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-my.png?raw=true" group-title="ASTRO MALAYSIA" radio="false",Astro Premier League
+https://a1xs.vip/1100030
+#EXTINF:-1  tvg-name="Astro Premier League 2" tvg-id="Astro.Premier.League.2.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-2-my.png?raw=true" group-title="ASTRO MALAYSIA" radio="false",Astro Premier League 2
+https://a1xs.vip/1100031
+#EXTINF:-1  tvg-id="Astro.Premier.League.3.my" tvg-name="Astro Grandstand" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/0vxakz2.png" group-title="ASTRO MALAYSIA" radio="false",Astro Grandstand
+https://a1xs.vip/1100032
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsouajt.jpg" group-title="ASTRO MALAYSIA",M LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
