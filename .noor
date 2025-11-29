@@ -49,7 +49,7 @@ https://flv.intechmedia.net/live/ch29.m3u8
 #EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV" tvg-logo="https://mimipipi22.github.io/logo/religion/muslimtv.jpg" group-title="KAJIAN ISLAM",MUSLIM TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500021/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500021/1024.m3u8
 
 #EXTINF:-1 tvg-id="Tawaf TV.id" tvg-name="Tawaf TV.id" tvg-logo="https://mimipipi22.github.io/logo/religion/tawaftv.jpg" group-title="KAJIAN ISLAM",TAWAF TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -249,7 +249,9 @@ https://allcutv.rctiplus.id/rcti7523.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/rcti.jpg?raw=true" group-title="INDONESIA TV",RCTI LIVE SPORTS
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500143/1024.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/rcti.jpg?raw=true" group-title="INDONESIA TV",RCTI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500143/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
@@ -271,11 +273,13 @@ https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/gtv.jpg?raw=true" group-title="INDONESIA TV",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/gtv.jpg?raw=true" group-title="INDONESIA TV",GTV HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://allcutv.rctiplus.id/gtv7523.m3u8
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500113/1024.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/gtv.jpg?raw=true" group-title="INDONESIA TV",GTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500113/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/inews.jpg?raw=true" group-title="INDONESIA TV",INEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -408,10 +412,10 @@ https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="TV Indonesia",RTV ⚪
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="INDONESIA TV",RTV ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="TV Indonesia",RTV ᴸᴼᵂ
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="INDONESIA TV",RTV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
@@ -424,8 +428,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h10/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="INDONESIA TV",RTV 🟠
-#https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
-#https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="11" group-title="INDONESIA TV" tvg-logo="https://i.imgur.com/sJanooU.jpg",MENTARI TV ᴴᴰ
@@ -446,9 +448,10 @@ https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed77516590f2138d9fc10b807708b2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/tvone.jpg?raw=true" group-title="INDONESIA TV",TVONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500018/1024.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel7500018/1024.m3u8
+
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.png" group-title="INDONESIA TV", MDTV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -464,10 +467,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="TV Indonesia", Kompas TV ⚪
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="INDONESIA TV", Kompas TV ⚪
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="TV Indonesia", Kompas TV ᴸᴼᵂ
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="INDONESIA TV", Kompas TV ᴸᴼᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 
@@ -506,7 +509,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h12/index.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h211/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/metrotv.jpg?raw=true" group-title="INDONESIA TV",METRO TV2
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500004/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500004/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/cnnid.jpg?raw=true" group-title="INDONESIA TV",CNN INDONESIA
@@ -523,7 +526,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500041/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500041/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/beritasatu.jpg?raw=true" group-title="INDONESIA TV",BERITASATU HD
 https://op-group1-densxvisionhd-1.dens.tv/h/h759/index.m3u8
@@ -549,10 +552,11 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6475843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/daaitv.jpg?raw=true" group-title="INDONESIA TV",DAAI TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500044/1024.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500044/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/mdtv.jpg?raw=true" group-title="INDONESIA TV",MDTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500136/1024.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h223/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -563,12 +567,10 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h223/index.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500136/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/bntv.jpg?raw=true" group-title="INDONESIA TV",BN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-#http://103.179.182.117:6768/hls/44/44.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
@@ -576,7 +578,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/jtv.jpg?raw=true" group-title="INDONESIA TV",JTV
 https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
-#http://103.179.182.117:6768/hls/36/36.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -592,26 +593,26 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/jaktv.jpg?raw=true" group-title="INDONESIA TV",JAKTV
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500080/1024.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/jaktv.jpg?raw=true" group-title="INDONESIA TV",JAK TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500080/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/nusantaratv.jpg?raw=true" group-title="INDONESIA TV",NUSANTARA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-#http://103.179.182.117:6768/hls/93/93.m3u8
 
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/garudatv.jpg?raw=true" group-title="INDONESIA TV",GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#http://103.179.182.117:6768/hls/11/11.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e50e1506af46c780233c0091b67159:549788738d10df77094a0d4efaf0d567
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/bandungtv.jpg?raw=true" group-title="INDONESIA TV",BANDUNG TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500068/1024.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da758c459049c9bb0/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/f16b53f0d5ed459da758c459049c9bb0/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500068/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/75100101 Firefox/102.0/v2756
 #EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/elshintatv.jpg?raw=true" group-title="INDONESIA TV",ELSHINTA TV
@@ -654,7 +655,7 @@ https://tv.nasionaltv.com/ntvlive/index.m3u8
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/hanacaraka.jpg?raw=true" group-title="📺LOKAL CHANNEL",HANACARAKA TV
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500075/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500075/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -714,14 +715,13 @@ https://e.siar.us/live/dmtv.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="BALI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rQBUiWV.jpg" group-title="📺LOKAL CHANNEL",BALI TV
 https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf75a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/balitv.jpg?raw=true" group-title="📺LOKAL CHANNEL",BALI TV
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500042/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500042/1024.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
@@ -946,7 +946,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png" group-title="Kids",Dreamworks (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.754 Mobile Safari/537.36
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500164/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500164/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
@@ -961,7 +961,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="Kids",ANIMAX
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500122/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500122/1024.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
@@ -990,7 +990,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 
 #EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://images.indihometv.com/assets/88_NICKJR_7525_03_17_14_56_75.png" group-title="Kids",NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500118/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500118/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1071,15 +1071,15 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png" group-title="Kids",Nick (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.754 Mobile Safari/537.36
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500060/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500060/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png" group-title="Kids",Nick Jr (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.754 Mobile Safari/537.36
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500118/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500118/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png" group-title="Kids",Zoo Moo (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.754 Mobile Safari/537.36
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500151/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500151/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -1378,7 +1378,7 @@ https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 #http://103.179.182.117:6768/hls/34/34.m3u8
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/imc.jpg?raw=true" group-title="MOVIES",IMC2
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500133/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500133/1024.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="", IMC indi
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1416,7 +1416,7 @@ https://damp-mouse-75ea.pejan97800.workers.dev/http://linearjitp-playback.astro.
 #EXTINF:-1 tvg-id="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="MOVIES",AXN 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500119/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500119/1024.m3u8
 http://753.77.246.58:4500/udp/239.1.5.2:5000
 http://753.77.246.58:4500/udp/239.1.2.234:5000
 
@@ -1434,7 +1434,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 #EXTINF:-1 tvg-id="Originals.id" tvg-name="Originals" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/originals.jpg?raw=true" group-title="MOVIES",ORIGINALS
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500154/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500154/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
@@ -1443,7 +1443,7 @@ http://752.80.222.75/cdn/iptv/Tvod/001/channel7500154/1024.m3u8
 #EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/buddystar.jpg?raw=true" group-title="MOVIES",BUDDY STAR
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500157/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500157/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a475e9c83323023e
@@ -1452,7 +1452,7 @@ http://752.80.222.75/cdn/iptv/Tvod/001/channel7500157/1024.m3u8
 #EXTINF:-1 tvg-id="Uniques.id" tvg-name="Uniques" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/uniques.jpg?raw=true" group-title="MOVIES",UNIQUES
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500156/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500156/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
@@ -1461,7 +1461,7 @@ http://752.80.222.75/cdn/iptv/Tvod/001/channel7500156/1024.m3u8
 #EXTINF:-1 tvg-id="Superrix.id" tvg-name="Superrix" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/superrix.jpg?raw=true" group-title="MOVIES",SUPERRIX
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500155/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500155/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
@@ -1470,7 +1470,7 @@ http://752.80.222.75/cdn/iptv/Tvod/001/channel7500155/1024.m3u8
 #EXTINF:-1 tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/cineedge.jpg?raw=true" group-title="MOVIES",CINEEDGE
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500145/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500145/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
@@ -1493,7 +1493,7 @@ https://live-channel4-cdn.visionplus.id/out/v1/751a0982779f4edd904755eb351e275d/
 #EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/studiouniversal.jpg?raw=true" group-title="MOVIES",STUDIO UNIVERSAL
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500121/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500121/1024.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1511,7 +1511,7 @@ https://cdn10jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500175/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500175/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJMSTLm.jpg" group-title="MOVIES",CHINESE DRAMA INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1557,7 +1557,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc175b46e999d1eaa627cc544f/index
 #EXTINF:-1 tvg-id="HITSMovies.id" tvg-name="Hits Movies" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hitsmovies.jpg?raw=true" group-title="MOVIES",HITS MOVIES
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500139/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500139/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -1582,7 +1582,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 https://fta4-cdn-flr.visionplus.id/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 https://cdn10jtedge.indihometv.com/atm/DASH//zbioskop/manifest.mpd
-http://752.80.222.75/cdn/iptv/Tvod/001/channel7500061/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel7500061/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
