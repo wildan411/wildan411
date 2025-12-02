@@ -1,7 +1,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
 #EXTVLCOPT:http-origin=https://oxygentv.id
-#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/oxygentv.jpg?raw=true" group-title="ORDER DISINI",WILDAN Oxygen TV
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/oxygentv.jpg?raw=true" group-title="ORDER DISINI",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
@@ -9,9 +9,9 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1
-#https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mpd/firsthighlight.mpd
+https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mediampd/firsthighlight.mpd
 
-#EXTINF:-1 group-title="ORDER DISINI" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png",WILDAN My Republic
+#EXTINF:-1 group-title="ORDER DISINI" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png",indosat hifi
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -23,7 +23,7 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ctbhakfog65pugm8
 
 #EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sinpotv.jpg?raw=true" group-title="ORDER DISINI", 0831-5232-3277
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://spacetv.my.id/index.m3u8?id=19046&type=hls
+#https://spacetv.my.id/index.m3u8?id=19046&type=hls
 
 #EXTINF:-1 tvg-id="tvN.HD.my" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvn-hk.png" group-title="ORDER DISINI",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
