@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1
-https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mpd/firsthighlight.mpd
+https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mediampd/firsthighlight.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XJ1Gbkc/youtube.webp" group-title="DAFTAR w@ 083152323277",DAFTAR WIFI DISINI
 https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
@@ -270,6 +270,9 @@ https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mpd/firsthighlight.mpd
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
+#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="" group-title="FTA LOKAL",Indosiar HD
+https://smart.946985.filegear-sg.me/smart.php?id=Indosiar
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="FTA LOKAL",LigaBRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://popmi.my.id/tes.m3u8?id=205
@@ -283,7 +286,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 http://203.77.246.58:4500/udp/239.1.1.110:5000
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mediampd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://iili.io/JMp3wV1.png" group-title="FTA LOKAL", Indosiar Digital
 #KODIPROP:contentlookup=False
