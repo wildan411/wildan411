@@ -174,17 +174,39 @@ https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/5TpooR3.jpg" group-title="FTA LOKAL",TV ONE ᴴᴰ
+https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/mdtv.jpg?raw=true" group-title="FTA LOKAL",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://op-group1-densxvisionhd-1.dens.tv/h/h223/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/mdtv.jpg?raw=true" group-title="FTA LOKAL",MDTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="FTA LOKAL", Kompas TV 🔵
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+
 #EXTINF:-1 group-title="FTA LOKAL" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="", TVOne 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-https://atemeshield1-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 
 #EXTINF:-1 group-title="FTA LOKAL" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="", Kompas HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
 
 #EXTINF:-1 group-title="FTA LOKAL" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="", MOJI HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -197,12 +219,6 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
-
-#EXTINF:-1 group-title="FTA LOKAL" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="https://akukamusatu2023.000webhostapp.com/poster/TVRI.png", TVRI Lokal HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
-https://atemeshield1-voe.sysln.id/live/eds/TVRILokal HD/mediampd/TVRILokal HD.mpd
 
 #EXTINF:-1 group-title="FTA LOKAL" tvg-name="TV Religi" tvg-country="ID" tvg-logo="", Citra Muslim HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
