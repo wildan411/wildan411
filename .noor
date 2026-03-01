@@ -3234,7 +3234,7 @@ https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
 #http://87.255.35.150:18804/index.ts
 
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/star-sports-1-hindi-hd.jpg" group-title="Sony Sport",Star Sports 1 HINDI (TATA PLAY)  
-#https://cors-everywhere-wc8b4.ondigitalocean.app/http://163.61.227.29:8000/play/a062
+#https://cors-everywhere-wc8b4.ondigitalocean.app/http://163.61.227.29:8000/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_BoxCover_3a373a17-83ff-48f3-bfc8-abea26977ebf.png" group-title="Sony Sport",Star Sports 2 Hindi (TATA PLAY)
 #https://cors-everywhere-wc8b4.ondigitalocean.app/http://163.61.227.29:8000/play/a012
@@ -3246,12 +3246,30 @@ https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
 #https://cors-everywhere-wc8b4.ondigitalocean.app/http://163.61.227.29:8000/play/a069
 
 
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSports1HindiHD.jpg" group-title="Sony Sport",Star Sports 1 Hindi HD
+https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a062
+
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportHD1.jpg" group-title="Sony Sport",STARSPORTS 1 HD
+https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a00f
+
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHD2.jpg" group-title="Sony Sport",STARSPORTS 2 HD
+https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a069
+
+#EXTINF:-1  tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/KP-Channels/refs/heads/main/StarSportsHindiHD2.jpg" group-title="Sony Sport",Star Sports2 Hindi HD
+https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a012
+
+#EXTINF:-1 tvg-id="300" tvg-name="Star Sports Select HD 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png"  group-title="Sony Sport",Star Sports Select 1 HD
+https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a00u
+
+#EXTINF:-1 tvg-id="1114" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2/images/LOGO_HD/image.png"  group-title="Sony Sport",Star Sports Select 2
+https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a00v
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sony Sport",SONY SPORTS TEN 1 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sony Sport",SONY SPORTS TEN 1 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
 
@@ -3260,16 +3278,19 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Sony Sport",SONY SPORTS TEN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Sony Sport",SONY SPORTS TEN 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Sony Sport",SONY SPORTS TEN 2
+https://anywhere.pwisetthon.com/http://163.61.227.29:8000/play/a01l/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="Sony Sport",SONY SPORTS TEN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="Sony Sport",SONY SPORTS TEN 3 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63535
 
@@ -3278,7 +3299,7 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63535
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="Sony Sport",SONY SPORTS TEN 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="Sony Sport",SONY SPORTS TEN 4 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1441526
 
@@ -3287,7 +3308,7 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1441526
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="Sony Sport",SONY SPORTS TEN 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="Sony Sport",SONY SPORTS TEN 5 HD
 http://tv.cloudcdn.:80/play/live.ts?channelId=105350&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://tv.cloudcdn.:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=487335&extension=m3u8
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63499
