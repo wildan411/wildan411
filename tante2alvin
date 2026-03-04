@@ -318,54 +318,45 @@ http://103.179.182.117:6768/hls/3/3.m3u8
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> NEWS
 //========================================================================
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png" group-title="NEWS",IDX
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Jakarta GlobeNews" tvg-name="Jakarta GlobeNews" tvg-logo="https://pictr.com/images/2025/01/14/x19jen.png" group-title="NEWS",JAKARTA GLOBE CHANNEL
+https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://images.indihometv.com/assets/88_CNN_2025_03_17_14_54_58.png" group-title="NEWS",CNN INT
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Foxnews.id" tvg-name="Fox News" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png" group-title="NEWS",FOX NEWS
-https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mediampd/FOXNewsHD.mpd
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al-Manar TV" tvg-logo="https://cdn4.mbahnunungonline.net/img/xSCGVhz.png?v=1.0.0.1" group-title="NEWS", Al-Manar TV
+https://edge.fastpublish.me/live/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="BBCNews.id" tvg-name="BBC News" tvg-logo="https://www.visionplus.id/images/repository/672/493672-LOGO-m.png" group-title="NEWS",BBC NEWS
-https://atemecdnbalancer-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Al Arabiya HD.ae" tvg-name="Al Arabiya HD.ae" tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="NEWS", Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png" group-title="NEWS",Aljazeera International HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="DWEnglish.id" tvg-name="DW English" tvg-logo="https://images.indihometv.com/assets/88_DWTV_2025_03_17_15_01_10.png" group-title="NEWS",DW ENGLISH
-https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="France24English.id" tvg-name="France 24 English" tvg-logo="https://images.indihometv.com/assets/88_FRANCE24_2025_03_17_14_59_11.png" group-title="NEWS",FRANCE24
-https://atemeshield1-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="TRT World.id" tvg-name="TRT World" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png" group-title="NEWS",TRT WORLD
-https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
+https://atemeshield1-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://images.indihometv.com/assets/88_ALJAZEERA_2025_03_17_14_58_14.png" group-title="NEWS",ALJAZEERA ENGLISH
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
@@ -374,12 +365,56 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=023eb9bda4064967b74730834f5e022e:5af44730eaf2754f62199d7b86053709
+#EXTINF:-1 tvg-id="BBCNews.id" tvg-name="BBC News" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="NEWS", BBC World News
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-name="" tvg-country="ID" tvg-logo="", RAI Italia 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="RT English" tvg-name="RT English" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png" group-title="NEWS",RT ENGLISH
-https://atemeshield1-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTodayHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTodayHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-name="" tvg-country="ID" tvg-logo="", CCTV4 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
+https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mediampd/CCTV4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="DWEnglish.id" tvg-name="DW English" tvg-logo="https://images.indihometv.com/assets/88_DWTV_2025_03_17_15_01_10.png" group-title="NEWS",DW ENGLISH
+https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-name="DW Deutsch" tvg-logo="https://iili.io/Jhksu87.png" group-title="NEWS", Deutsche Welle+
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="France24English.id" tvg-name="France 24 English" tvg-logo="https://images.indihometv.com/assets/88_FRANCE24_2025_03_17_14_59_11.png" group-title="NEWS",FRANCE24
+https://atemeshield1-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="France24English.id" tvg-name="France 24 English" tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS", France 24 English 🟠
+https://cdn10jtedge.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="France24English.id" tvg-name="France 24 English" tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS", France 24 English ⚪
+https://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&userid=lite&chname=France_24
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="TRT World.id" tvg-name="TRT World" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png" group-title="NEWS",TRT WORLD
+https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
@@ -387,6 +422,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaToda
 #EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://images.indihometv.com/assets/88_EURONEWS_2025_03_17_15_02_11.png" group-title="NEWS",EURONEWS
 https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=023eb9bda4064967b74730834f5e022e:5af44730eaf2754f62199d7b86053709
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="RT English" tvg-name="RT English" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png" group-title="NEWS",RT ENGLISH
+https://atemeshield1-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTodayHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTodayHD.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhksYZb.png" group-title="News", RT English
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5
@@ -412,19 +457,68 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://images.indihometv.com/assets/88_BLOOMBERG_2025_03_17_15_29_38.png" group-title="NEWS",BLOOMBERG
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="NHKWorldJapan.id" tvg-name="NHK World Japan" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News", NHK World Japan ⚪
+https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&userid=lite&chname=NHK_WORLD-JAPAN
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.id" tvg-name="NHK World Japan" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News", NHK World Japan 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png" group-title="NEWS",IDX
-https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
+https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHK World Premium" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News", NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 group-title="News" tvg-name="" tvg-country="ID" tvg-logo="", TV5 HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
+https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
+
+#EXTINF:-1 group-title="News" tvg-name="" tvg-country="ID" tvg-logo="", ABC Australia 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
+https://atemeshield1-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
+
+#EXTINF:-1 group-title="News" tvg-name="" tvg-country="ID" tvg-logo="", Arirang HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
+https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
+
+=========================================================== News
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News", RTL HD
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="News",Sky News
+https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YKQ7bR9/newsworld.jpg" group-title="News",NEWS WORLD
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="News",REUTERS TV
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/17rc425/voa.png" group-title="News",VOA TV
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Jakarta GlobeNews" tvg-name="Jakarta GlobeNews" tvg-logo="https://pictr.com/images/2025/01/14/x19jen.png" group-title="NEWS",JAKARTA GLOBE CHANNEL
-https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+#EXTINF:-1 tvg-id="Foxnews.id" tvg-name="Fox News" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-m.png" group-title="NEWS",FOX NEWS
+https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mediampd/FOXNewsHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="BBCNews.id" tvg-name="BBC News" tvg-logo="https://www.visionplus.id/images/repository/672/493672-LOGO-m.png" group-title="NEWS",BBC NEWS
+https://atemecdnbalancer-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
 
 //========================================================================
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> KIDS
@@ -2643,24 +2737,7 @@ https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="" group-title="Entertainment",Popflix (720p)
 https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
 
-=========================================================== News
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News", RTL HD
-https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="News",Sky News
-https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2YKQ7bR9/newsworld.jpg" group-title="News",NEWS WORLD
-https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="News",REUTERS TV
-https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/17rc425/voa.png" group-title="News",VOA TV
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS (English)
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 
 =========================================================== Music
 
@@ -2840,9 +2917,6 @@ http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",vixen
-http://185.188.188.237:5000/live/vixen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",eroxx HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
