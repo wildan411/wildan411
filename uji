@@ -1,5 +1,9 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="" tvg-name="" tvg-country="ID" tvg-logo="",Berminat 0831-5232-3277
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1
+https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mediampd/firsthighlight.mpd
 #EXTINF:-1,RCTI
 http://103.66.62.83:8000/play/a025/index.m3u8
 #EXTINF:-1,RCTI HD
@@ -42,8 +46,9 @@ http://103.66.62.83:8000/play/a00t/index.m3u8
 http://103.66.62.83:8000/play/a00r/index.m3u8
 #EXTINF:-1,ANTV
 http://103.66.62.83:8000/play/ANTV/index.m3u8
-#EXTINF:-1,BTV
-http://103.66.62.83:8000/play/a00m/index.m3u8
+#EXTINF:-1,KOMPAS-TV
+http://103.66.62.83:8000/play/a04q/index.m3u8
+
 #EXTINF:-1,MDTV
 http://103.66.62.83:8000/play/a00l/index.m3u8
 #EXTINF:-1,MD-TV-HD
@@ -54,32 +59,38 @@ http://103.66.62.83:8000/play/a00k/index.m3u8
 http://103.66.62.83:8000/play/a00q/index.m3u8
 #EXTINF:-1TVRI WORLD
 http://103.66.62.83:8000/play/a00p/index.m3u8
-#EXTINF:-1,TVRI SPORT
-http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1,MOJI HD
 http://103.66.62.83:8000/play/a00i/index.m3u8
 #EXTINF:-1,MOJI
 http://103.66.62.83:8000/play/a02c/index.m3u8
+#EXTINF:-1,moji hd
+http://103.66.62.83:8000/play/BTV/index.m3u8
 #EXTINF:-1,MENTARITV
 http://103.66.62.83:8000/play/a00h/index.m3u8
 #EXTINF:-1,METROTV
 http://103.66.62.83:8000/play/a00g/index.m3u8
+#EXTINF:-1,METRO-TV
+http://103.66.62.83:8000/play/a02g/index.m3u8
+#EXTINF:-1,parlement
+http://103.66.62.83:8000/play/CHANNEL-U/index.m3u8
+#EXTINF:-1,CNN INDONESIA
+http://103.66.62.83:8000/play/a00e/index.m3u8
+#EXTINF:-1,CNN-INDO
+http://103.66.62.83:8000/play/CNN-INDO/index.m3u8
+#EXTINF:-1,CNBC-INDO
+http://103.66.62.83:8000/play/CNBC-INDO/index.m3u8
 #EXTINF:-1,CNBC
 http://103.66.62.83:8000/play/a007/index.m3u8
 #EXTINF:-1,CNBC HD
 http://103.66.62.83:8000/play/a00f/index.m3u8
-#EXTINF:-1,CNN INDONESIA
-http://103.66.62.83:8000/play/a00e/index.m3u8
 #EXTINF:-1,VTV HD
 http://103.66.62.83:8000/play/a00c/index.m3u8
+#EXTINF:-1,BTV
+http://103.66.62.83:8000/play/a00m/index.m3u8
 #EXTINF:-1,BANDUNG-TV
 http://103.66.62.83:8000/play/a03k/index.m3u8
 #EXTINF:-1,BANTEN-TV
 http://103.66.62.83:8000/play/a03l/index.m3u8
-#EXTINF:-1,KOMPAS-TV
-http://103.66.62.83:8000/play/a04q/index.m3u8
-#EXTINF:-1,BTV
-http://103.66.62.83:8000/play/BTV/index.m3u8
 #EXTINF:-1,ELSHINTA
 http://103.66.62.83:8000/play/a03n/index.m3u8
 #EXTINF:-1,JAMBI-TV
@@ -88,20 +99,14 @@ http://103.66.62.83:8000/play/a02l/index.m3u8
 http://103.66.62.83:8000/play/a03o/index.m3u8
 #EXTINF:-1,MAGNA
 http://103.66.62.83:8000/play/a046/index.m3u8
-#EXTINF:-1,METRO-TV
-http://103.66.62.83:8000/play/a02g/index.m3u8
+
 #EXTINF:-1,TVRI-JAMBI
 http://103.66.62.83:8000/play/a01s/index.m3u8
 #EXTINF:-1,TVRI-NASIONAL
 http://103.66.62.83:8000/play/a01v/index.m3u8
 #EXTINF:-1,TVRI-WORLD
 http://103.66.62.83:8000/play/a01u/index.m3u8
-#EXTINF:-1,CNN-INDO
-http://103.66.62.83:8000/play/CNN-INDO/index.m3u8
-#EXTINF:-1,CNBC-INDO
-http://103.66.62.83:8000/play/CNBC-INDO/index.m3u8
-#EXTINF:-1,parlement
-http://103.66.62.83:8000/play/CHANNEL-U/index.m3u8
+
 #EXTINF:-1,SAKTI-TV
 http://103.66.62.83:8000/play/a03t/index.m3u8
 #EXTINF:-1,TV9-NUSANTARA
@@ -209,7 +214,8 @@ http://103.66.62.83:8000/play/a01e/index.m3u8
 #EXTINF:-1,FASHION-TV
 http://103.66.62.83:8000/play/a031/index.m3u8
 
-
+#EXTINF:-1,TVRI SPORT
+http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1,TVRI-SPORT
 http://103.66.62.83:8000/play/a01q/index.m3u8
 #EXTINF:-1,SPOTV
