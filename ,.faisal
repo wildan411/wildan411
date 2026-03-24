@@ -1,5 +1,24 @@
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-name="" tvg-country="ID" tvg-logo="",MENERIMA PENDAFTARAN WIFI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1
+https://atemeshield1-voe.sysln.id/live/eds/firsthighlight/mediampd/firsthighlight.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="INDONESIA TV",Internet MyRepublic
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a885301cc764406fb897bd2b2738e97d:eb3d733397cab652cfe62788ee6939e1
+http://103.66.62.83:8000/play/a00e/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://oxygentv.id/
+#EXTVLCOPT:http-origin=https://oxygentv.id
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="INDONESIA TV",CP: 0853-5001-2224
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+https://why.biz.id/Iptv/oxygen.php?id=oxygentv
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -58,22 +77,12 @@ http://103.66.62.83:8000/play/a068/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_NbuJa40h-W8kJNpTnYjhn0MFJ_Z_xqdFIMOwzOEiLfHn1TM9jwNob0&s=10",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR (VIDIO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR DIGITAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-#https://master.drmstuff.my.id:443/CHANNEL_DEMO/FBXKZshfcg/507
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=205&type=dash
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR DIGITAL
+http://103.66.62.83:8000/play/a00o/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
@@ -2089,16 +2098,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXPFj3t.jpg" group-title="SPORTS CHANNEL", BLUE SPORT 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tAqeY0m.jpg" group-title="SPORTS CHANNEL",BLUE SPORT 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
