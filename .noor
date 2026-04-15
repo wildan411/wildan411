@@ -116,6 +116,30 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="INDONESIA TV",SCTV DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.148.44.38:8000/play/a05g/index.m3u8
+http://202.169.224.202:8800/udp/239.9.1.29:1234
+http://202.169.224.202:8800/udp/239.4.4.1:1234
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="INDONESIA TV",INDOSIAR DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.148.44.38:8000/play/a05c/index.m3u8
+http://202.169.224.202:8800/udp/239.9.1.25:1234
+http://202.169.224.202:8800/udp/239.4.4.2:1234
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="INDONESIA TV",MOJI
+http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6775de0ef884d7106e14f7
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1206,10 +1230,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="KAJIAN ISLAM",FATWA TV
 http://202.169.224.202:8800/udp/239.3.1.6:1234
-
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://mimipipi22.github.io/logo/religion/ashiiltv.jpg",ASHIIL TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 tvg-id="insantv" tvg-name="Insan TV" group-title="KAJIAN ISLAM" tvg-logo="https://www.insantv.com/wp-content/uploads/sites/2/2017/06/insantv.png",INSAN TV
 https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
