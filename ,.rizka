@@ -1581,14 +1581,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 #EXTINF:-1 tvg-id="Animal Planet.id" tvg-name="Animal Planet" tvg-logo="https://mimipipi22.github.io/logo/knowledge/animalplanet.jpg" group-title="KNOWLEDGE",ANIMAL PLANET (FMX)
-
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -4521,6 +4517,130 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166073881/1166082022/aa9232507b54d9f9c2f7ebac1712082f6a9705e1" group-title="VOD VIU", The Witch: Part 2. The Other One
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166073881&quality=s240p&product_id=1784476&lang=Malay
 
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=3oNPijgZAy8O
+#EXTINF:-1 tvg-id="gsat.GT11_CINEMA_1" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/rq6y7siegt_LANDSCAPE_HD.jpg" group-title=Philippine 🇵🇭",CINEMA ONE
+https://gsattv.akamaized.net/live/media0/cinema1/Widevine/cinema1.mpd
+
+#EXTINF:-1 tvg-id="SARI-SARI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="Philippine 🇵🇭",sari mabuhai
+https://live20.bozztv.com/giatvplayout7/giatv-210273/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="SARI-SARI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="Philippine 🇵🇭",3rsSINEPINOY
+https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" channel-number="2"  group-title="Philippine 🇵🇭", BuKO 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=z3m1aI3pAUDd
+#EXTINF:-1 tvg-id="gsat.ALLTV" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/uztogmo12h_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",ALLTV
+https://gsattv.akamaized.net/live/media0/all/Widevine/all.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" group-title="Philippine 🇵🇭", SARI-SARI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Philippine 🇵🇭", A2Z
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=jGSdhQTOHzaC
+#EXTINF:-1 tvg-id="gsat.INC" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/3ln53r00ede_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",INC
+https://gsattv.akamaized.net/live/media0/inc/Widevine/inc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Philippine 🇵🇭", TV5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=dqjRHKVo72cL
+#EXTINF:-1 tvg-id="gsat.KAPAMILYA_CHANNEL" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/hoxae81gmz5_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",KAPAMILYA CHANNEL
+https://gsattv.akamaized.net/live/media0/kapamilya/Widevine/kapamilya.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=PKKrb64vHtk0
+#EXTINF:-1 tvg-id="gsat.GT10_CINEMO" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/clmgo7mztml_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",CINEMO
+https://gsattv.akamaized.net/live/media0/cinemo/Widevine/cinemo.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=EqjRlHhGc0bC
+#EXTINF:-1 tvg-id="gsat.GMA_7" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/ojc26mdrika_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",GMA 7
+https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=ax1luIV0XoqY
+#EXTINF:-1 tvg-id="gsat.GT9_PBO" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/9zytybrz7zp_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",PBO
+https://gsattv.akamaized.net/live/media0/pbo/Widevine/pbo.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Philippine 🇵🇭", PBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="Philippine 🇵🇭", Viva Cinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=m6CKaXNnKiEW
+#EXTINF:-1 tvg-id="gsat.JEEPNEY_TV" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/fbw5jiqo79p_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",JEEPNEY TV
+https://gsattv.akamaized.net/live/media0/jeepney/Widevine/jeepney.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=uQTq2Tnjx7xM
+#EXTINF:-1 tvg-id="gsat.GT2_TAP_ACTION_FLIX" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/xsg36gm29a_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",TAP ACTION FLIX
+https://gsattv.akamaized.net/live/media0/tapaction/Widevine/tapaction.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=KJ0nmF8DB4md
+#EXTINF:-1 tvg-id="gsat.GNN" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/ip5xd935pf_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",GNN
+https://gsattv.akamaized.net/live/media0/gnn/Widevine/gnn.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Philippine 🇵🇭", TMC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Philippine 🇵🇭", Tap Movies 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=09aScCW0Tvrh
+#EXTINF:-1 tvg-id="gsat.TAP_EDGE" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/3g3vtx62o8_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",TAP EDGE
+https://gsattv.akamaized.net/live/media0/tapedge/Widevine/tapedge.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=sYKBruHMre23
+#EXTINF:-1 tvg-id="gsat.NET_25" tvg-logo="https://d3b82urek5tfep.cloudfront.net/POSTER/27wsuhwjqfk_LANDSCAPE_HD.jpg" group-title="Philippine 🇵🇭",NET 25
+https://gsattv.akamaized.net/live/media0/net25/Widevine/net25.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -4756,21 +4876,6 @@ http://t33.cdn2020.com/video/m3u8/2025/09/09/25fc50e8/index.m3u8
 http://t26.cdn2020.com/video/m3u8/2022/01/19/56a11163/index.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-//========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> RADIO INDONESIA
-//========================================================================
 
 #EXTINF:-1 group-title="RADIO INDONESIA" tvg-logo="https://i.imgur.io/CDE49Yr.jpeg?maxwidth=640",ID | Gadingharjo Core
 http://79.120.77.11:8002/blackmetal
