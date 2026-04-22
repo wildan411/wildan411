@@ -926,6 +926,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO" group-title="MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
+http://103.148.44.38:8000/play/a09a/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -934,6 +935,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBOHits" group-title="MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
+http://103.148.44.38:8000/play/a028/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -942,6 +944,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBOFamily" group-title="MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
+http://103.148.44.38:8000/play/a09d/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -950,6 +953,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBOSig" group-title="MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
+http://103.148.44.38:8000/play/a025/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -958,6 +962,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax" group-title="MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
+http://103.148.44.38:8000/play/a09e/index.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="300.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpzUvO.png",IQIYI 爱奇艺
@@ -978,6 +983,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK
+http://103.148.44.38:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK a
+http://103.148.44.38:8000/play/a09o/index.m3u8
+
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK b
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1183,6 +1193,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBios
 #############  Korean Channels  #############
 #####################################
 
+#EXTINF:-1 group-title="Korean Channels" tvg-name="" tvg-country="ID" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", ONE HD
+http://103.148.44.38:8000/play/a01v/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1195,6 +1208,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="Korean Channels",ONE (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mediampd/ONEHD.mpd
+
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="Korean Channels", KPlus 
+http://103.148.44.38:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="Korean Channels", KPlus 
+http://103.148.44.38:8000/play/a05s/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1429,7 +1448,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/Cri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 #EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-
+http://103.148.44.38:8000/play/a09q/index.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2193,6 +2212,9 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="Sports",NBA TV
 https://smart.946985.filegear-sg.me/smart.php?id=Nba
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="Sports",NBA 
+http://103.148.44.38:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/zd4PN0h.jpg",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
