@@ -1,5 +1,499 @@
-#EXTM3U
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.bevy.be/bevyfiles/indiapremium1.xml, https://www.bevy.be/bevyfiles/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://www.bevy.be/bevyfiles/australia.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://www.bevy.be/bevyfiles/norway.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.bevy.be/bevyfiles/canadapremium.xml, https://www.bevy.be/bevyfiles/france.xml, https://www.bevy.be/bevyfiles/germanypremium2.xml, https://www.bevy.be/bevyfiles/switzerland.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.bevy.be/bevyfiles/romania.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/sweden.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://www.bevy.be/bevyfiles/serbia.xml, https://www.bevy.be/bevyfiles/denmark.xml, https://www.bevy.be/bevyfiles/argentina.xml, https://www.bevy.be/bevyfiles/hongkong.xml, https://www.bevy.be/bevyfiles/hongkongpremium.xml, https://www.bevy.be/bevyfiles/mexico.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/chile.xml, https://www.bevy.be/bevyfiles/belgium.xml, https://www.bevy.be/bevyfiles/belgiumpremium.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/taiwanpremium.xml, https://www.bevy.be/bevyfiles/arabiapremium2.xml, https://www.bevy.be/bevyfiles/arabiapremiumeng.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml" refresh="3600"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -680,419 +1174,104 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=1.0.0.1" group-title="National" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
 
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="" tvg-name="PHOENIX INFONEWS" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_INFO.png" group-title="CHINA",PHOENIX INFONEWS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/35
-#EXTINF:-1 tvg-id="" tvg-name="PHOENIX CHINESE" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_CH.png" group-title="CHINA",PHOENIX CHINESE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/36
-#EXTINF:-1 tvg-id="" tvg-name="PHOENIX HONGKONG" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_HK.png" group-title="CHINA",PHOENIX HONGKONG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/37
-#EXTINF:-1 tvg-id="" tvg-name="XING KONG" tvg-logo="https://tv.cic.net.id/uploads/XINGKONG.png" group-title="CHINA",XING KONG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/38
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL V CHINA" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL-V.png" group-title="CHINA",CHANNEL V CHINA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://iptv.kilas7.com:80/kaukia/asdfrewq/39
-
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png", Jiangsu TV (1XL)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
-https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd
-
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV (1XL)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
-https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://iili.io/Jmo3wfn.png",TVB Xing He (1XL)
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",Zhejiang TV (1XL)
-https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV (1XL)
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png",Dragon TV (1XL)
-https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",Shenzen TV (1XL)
-https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://iili.io/JmKqf0x.png",TVBS News (1XL)
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mediampd/TVBSNews.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
-#EXTINF:-1 group-title="CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://iili.io/JmoKxjV.png",TVBS Asia (1XL)
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
-#EXTINF:-1 group-title="CHINA" tvg-id="CCTV-4" tvg-logo="https://iili.io/Jmo3WxI.png",CCTV 4 (1XL)
-https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mediampd/CCTV4.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-//========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> WORLD TV
-//========================================================================
-
-#EXTINF:-1 tvg-id="" group-title="WORLD TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_phoenixch.png",PHOENIX CHINESE
-https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/phoenixchinese-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
-
-#EXTINF:-1 tvg-id="" group-title="WORLD TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_phoenixinfonews.png",PHOENIX INFONEWS
-https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/phoenixinfonews-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
-
-#EXTINF:-1 tvg-id="New.Tv.Comprehensive.id" group-title="WORLD TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_newtvcompre.png",NEW TV COMPREHENSIVE
-https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/newtvcomprehensive-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
-
-#EXTINF:-1 tvg-id="New.Tv.Finance.id" group-title="WORLD TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_newtvfinance.png",NEW TV FINANCE
-https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/manifest.mpd
-
-#EXTINF:-1 tvg-id="New.Tv.Variety.id" group-title="WORLD TV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_newtvvariety.png",NEW TV VARIETY
-https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/newtvvariety-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
-
-#EXTINF:-1 tvg-name="东莞生活资讯" tvg-logo="https://11.112114.xyz/logo/东莞生活资讯.png" group-title="WORLD TV",Dongguan Life Information
-https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1729729688&ttl=3600&key=51bc3d05bf1a5bf32ebb25742b84d19f
-http://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-
-#EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://11.112114.xyz/logo/东莞新闻综合.png" group-title="WORLD TV",Dongguan News Summary
-https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1729661201&ttl=3600&key=efe2f59e0af760316837279011901742
-https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.m3u8
-https://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="WORLD TV", PHOENIX HK
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=phoenixhongkong&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="WORLD TV", PHOENIX CHINESE
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=phoenixchinese&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/guandongtv.jpg" group-title="WORLD TV", GUANGDONG TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-http://gooo.blog/opix/genx.m3u8?id=guangdongtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/cetv1.jpg" group-title="WORLD TV", CETV 1
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-https://gooo.blog/opix/genx.m3u8?id=cetv1&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png",Zhejiang Qianjiang 浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png",Zhejiang Economy 浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png",Zhejiang People's Livelihood 浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://i.imgur.com/puBiuLK.jpeg",Zhejiang Records 之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png",Zhejiang Education 浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",Zhejiang Children 浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png",Zhejiang International 浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="WORLD TV" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png",Zhejiang News 浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-
-
-//========================================================================
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> CHINA/HONGKONG/TAIWAN
-//========================================================================
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼", Lotus Macao 🇵🇭
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Movies", HBO 🇵🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼", Lotus Macao Skygo
-https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="Movies",HBO Hits 🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d0364d443b49_7r8B.jpg" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",VIUTV TAIWAN
-https://cdn10.163189.xyz/stream/163189/viu/
-http://67.220.71.199:2347/livehttpplay?channel_id=20131
-http://67.220.71.199:2347/livehttpplay?channel_id=30032
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="Movies",HBO Family 🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/viutv6.jpg" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",VIUTV6 TAIWAN
-https://cdn10.163189.xyz/stream/163189/viu6/
-http://67.220.71.199:2347/livehttpplay?channel_id=20132
-http://67.220.71.199:2347/livehttpplay?channel_id=30033
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="Movies",HBO Signature 🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/viutv6.jpg" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",VIU
-http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="Movies",Cinemax 🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
-#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",HOYTV 76
-https://cdn11.163189.xyz/163189/2c86601a7180416e
-#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",HOYTV 77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-http://cdn.163189.xyz/163189/hoy
-http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="HOY Information Channel" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼", HOY News 78
-https://cdn.163189.xyz/163189/hoy78
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/imc.jpg?raw=true" group-title="Movies",Action Movies
+https://live20.bozztv.com/giatvplayout7/giatv-210903/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",RTHK 31
-http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-http://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",RTHK 32
-http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-http://cdn.163189.xyz/163189/rthk32
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/imc.jpg?raw=true" group-title="Movies",IMC 🔵
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Now Live Channel
-http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Now News Channel
-http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="Movies" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png",Drama Hotpot
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
-#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB娱乐新闻台
-http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB华丽翡翠台
-http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB星河
-http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB星河
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Movies",MNX HD
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnxhd
 
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CHC Action Movies HD
-http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CHC Action Movies
-http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=test20251009
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CHC Movie Fans HD
-http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CHC Movie Fans
-http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CHC Home Theater HD
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CHC Home Theater
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=test20251009
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MN+" tvg-name="MN+" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Movies",MN+
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnplus
+https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnplus/out/v1/254ff351a5d543a88abf92189bff886e/index.mpd
+https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnxhd/out/v1/405c7c835d534bc8afcf9cd5daa7f77d/index.mpd
 
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV1HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV1
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV2HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV2
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV3HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV3
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV4HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV4
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV5HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV5+HD
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV5+
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV6HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV6
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV7HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV7
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV8HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV8
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV9HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV9
-http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV10HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV10
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV11HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV11
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV12HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV12
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV13HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV13
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV13 b
-http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV14HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV14
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV15HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV15
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV16HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV17HD
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV17
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="Movies Now" tvg-name="Movies Now" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",MOVIES NOW
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Weapon Technology
-http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼", CCTV Health and Wellness
-http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Billiards
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV First Theater
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Fengyun Theater
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Nostalgia Theater
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Sports Football
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Sports Music
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV World Geography
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV TV Guide
-http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Weapon Technology
-http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTB Golf & Tennis
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Cultural Masterpieces
-http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",CCTV Women's Fashion
-http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WnZe5JF.png?v=1.0.0.1" group-title="Movies",MyCinema Europe (DNS)
+https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1 tvg-name="Dragon TV" tvg-logo="https://live.fanmingming.cn/tv/Dragon TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Dragon TV
-http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="Jiangsu TV" tvg-logo="https://live.fanmingming.cn/tv/Jiangsu TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Jiangsu TV
-http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="Zhejiang TV" tvg-logo="https://live.fanmingming.cn/tv/浙卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Zhejiang TV
-http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Zhejiang TV" tvg-logo="https://live.fanmingming.cn/tv/浙卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",gdzj
-http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="Zhejiang TV" tvg-logo="https://live.fanmingming.cn/tv/浙卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",gdty
-http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-name="Beijing TV" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Beijing TV
-http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Shandong TV" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Shandong TV
-http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Sichuan TV
-http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Guangdong TV
-http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Shenzhen TV" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Shenzhen TV
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Heilongjiang TV" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Heilongjiang TV
-http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Jilin TV" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Jilin TV
-http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Studio.Universal.id" tvg-name="Studio Universal" tvg-logo="https://mimipipi22.github.io/logo/movies/studiouniversal.jpg" group-title="Movies",STUDIO UNIVERSAL 
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#EXTINF:-1 tvg-name="Tianjin TV" tvg-logo="https://live.fanmingming.cn/tv/Tianjin TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Tianjin TV
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Hubei TV" tvg-logo="https://live.fanmingming.cn/tv/Hubei TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Hubei TV
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Jiangxi TV" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Jiangxi TV
-http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼", Shaanxi TV
-http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Guizhou TV" tvg-logo="https://live.fanmingming.cn/tv/Guizhou TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Guizhou TV
-http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Yunnan TV" tvg-logo="https://live.fanmingming.cn/tv/Yunnan TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Yunnan TV
-http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Guizhou TV" tvg-logo="https://live.fanmingming.cn/tv/Guizhou TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Guizhou TV
-http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Guangxi TV" tvg-logo="https://live.fanmingming.cn/tv/Guangxi TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Guangxi TV
-http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="Southeast TV" tvg-logo="https://live.fanmingming.cn/tv/Southeast TV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Southeast TV
-http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="Movies",AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Tianjin News
-http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Tianjin Literature and Art
-http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Tianjin Film and Television
-http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Tianjin Urban
-http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Tianjin Sports
-http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Tianjin Education
-http://38.75.136.137:98/gslb/dsdqpub/tjtv6.m3u8?auth=testpub
+#EXTINF:-1 group-title="Movies",MOVIESPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Jackie Chan movies
-http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Shaw Brothers films
-http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Shaw Brothers martial arts films
-http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Shaw Brothers action films
-http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Shaw Brothers comedies
-http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Movies", AXN 🇵🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Longhua Movies
-http://cdn8.163189.xyz/163189/lhdy
-http://cdn8.veryfast.filegear-sg.me/163189/lhdy
-#EXTINF:-1 tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Longhua Classics
-http://cdn8.163189.xyz/163189/lhjd
-http://cdn8.veryfast.filegear-sg.me/163189/lhjd
-#EXTINF:-1 tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Longhua Idols
-http://cdn8.163189.xyz/163189/lhox
-http://cdn8.veryfast.filegear-sg.me/163189/lhox 
-#EXTINF:-1 tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华日韩.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Longhua Japanese & Korean
-http://cdn8.163189.xyz/163189/lhrh
-http://cdn8.veryfast.filegear-sg.me/163189/lhrh
-#EXTINF:-1 tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Longhua Drama
-http://cdn8.163189.xyz/163189/lhxj
-http://cdn8.veryfast.filegear-sg.me/163189/lhxj
-
-#EXTINF:-1 tvg-name="金光布袋戏" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金光布袋戏.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",Jin Guang Puppet Show
-http://o11.163189.xyz/stream/live/jgbdx/
-#EXTINF:-1 tvg-id="AOD" tvg-name="Astro AOD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",ASTRO AOD
-http://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-id="AEC" tvg-name="Astro AEC" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",ASTRO AEC
-http://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-id="QJ" tvg-name="Astro QJ" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@main/Astro QJ.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",ASTRO QJ
-http://o11.163189.xyz/stream/live/qj/
-#EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",ASTRO Happy Stage
-http://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",IQIYI
-http://o11.163189.xyz/stream/live/iqiyi/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png" group-title="Movies", Rock Action 🇵🇭
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
