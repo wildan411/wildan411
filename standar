@@ -1325,12 +1325,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index
 #EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-name="Outdoor Channel" tvg-logo="https://mimipipi22.github.io/logo/knowledge/outdoor.jpg" group-title="KNOWLEDGE",OUTDOOR CHANNEL (AMG)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
-#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://mimipipi22.github.io/logo/knowledge/lovenature.jpg" group-title="KNOWLEDGE",LOVE NATURE
-https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1339,12 +1333,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureH
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
+#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://mimipipi22.github.io/logo/knowledge/lovenature.jpg" group-title="KNOWLEDGE",LOVE NATURE
+http://ogietv.biz.id:80/aqin/aqin168/1432.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Knowledge", Animal Planet
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Knowledge", Animal Planet HD
+http://ogietv.biz.id:80/aqin/aqin168/1435.ts
 
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/poster_20251105_005014.jpg" group-title="KNOWLEDGE",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
@@ -1358,6 +1358,9 @@ https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://mimipipi22.github.io/logo/knowledge/crimeinvestigation.jpg" group-title="KNOWLEDGE",CRIME INVESTIGATION (VS+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+http://ogietv.biz.id:80/aqin/aqin168/1438.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL (UDP)
@@ -1409,13 +1412,8 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="Knowledge", RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="555.astro" tvg-logo="https://cantseeus.com/wp-content/uploads/7523/10/History_28751529.png" group-title="Documentary", HISTORY HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+http://ogietv.biz.id:80/aqin/aqin168/1437.ts
 
 #EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://i.ibb.co/jZ2NVqN/outdoorch.png" group-title="Documentary", OUTDOOR CHANNEL 🇺🇸
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -1496,6 +1494,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=l
 https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8|referer=http://dens.tv/&user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://cdn.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
 
+#EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="Lifestyle",HGTV FHD
+http://ogietv.biz.id:80/aqin/aqin168/1421.ts
+
+#EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="Lifestyle",HGTV HD
+http://ogietv.biz.id:80/aqin/aqin168/1420.ts
+
 #EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="Lifestyle",HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1505,8 +1509,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="Lifestyle",China Travel
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-
-
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -1874,6 +1876,23 @@ https://tfwh3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 <=================== Cadangan =============================>
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", 002 Premier League
 <====================================>
+
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" group-title="CADANGAN EVENT",Hub Premier 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png?w=272" group-title="CADANGAN EVENT",Hub Premier 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&extension=ts&play_token=1dWiSXJFZ1
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" group-title="CADANGAN EVENT",Hub Premier 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272",Hub Premier 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
+#EXTINF:-1 tvg-id="Hub.Premier.5.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png?w=272",Hub Premier 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314081&extension=ts&play_token=oCrh7Xg3in
+#EXTINF:-1 tvg-id="Hub.Premier.6.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png?w=272",Hub Premier 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314082&extension=ts&play_token=mbznWD9xYe
+#EXTINF:-1 tvg-id="Hub.Premier.7.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png?w=272",Hub Premier 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314083&extension=ts&play_token=CxgiuXGw0c
+#EXTINF:-1 tvg-id="Hub.Premier.8.sg" group-title="CADANGAN EVENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png?w=272",Hub Premier 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314084&extension=ts&play_token=Suotild03T
 
 #EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
